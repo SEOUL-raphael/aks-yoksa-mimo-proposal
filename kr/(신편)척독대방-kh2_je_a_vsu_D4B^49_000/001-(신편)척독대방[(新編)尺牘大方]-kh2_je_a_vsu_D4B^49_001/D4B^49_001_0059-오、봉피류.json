@@ -1,0 +1,77 @@
+{
+  "article_id": "D4B^49_001_0059",
+  "body_hanja": "某官苫前○某喪人苫次[주:用於喪人葬前]孝廬○哀座○哀執[주:用於喪人葬後大祥前]○制座○制執[주:用於心制]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "孝廬",
+      "label_ko": "효로",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "哀座",
+      "label_ko": "애좌",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "哀執",
+      "label_ko": "애집",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "制座",
+      "label_ko": "제좌",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "制執",
+      "label_ko": "제집",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "大祥",
+      "label_ko": "대상",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "心制",
+      "label_ko": "심제",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "封皮",
+      "label_ko": "봉피",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "苫前",
+      "label_ko": "염전",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "苫次",
+      "label_ko": "염차",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "표문(봉피) 서식의 분류다. 관직에 따른 염전(喪前 사용)과 상인(喪人)의 장사 전후 및 심제(心制) 시기에 따라孝廬·哀座·哀執(장사 후·대상 전)·制座·制執(심제용)로 구분하여 봉皮에 붙이는 명칭을 나열한 것.",
+  "reading_ko": "모관 염전 ○ 모상인 염차[주:활용어 상인 장전] 효로 ○ 애좌 ○ 애집[주:활용어 상인 장후 대상전] ○ 제좌 ○ 제집[주:활용어 심제]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0059",
+  "title_hanja": "五、封皮類",
+  "title_ko": "오、봉피류",
+  "translation_ko": "어떤 관원의 염전(장사 전), 어떤 상인의 염차(주: 상인 장사 전에 사용). 효로, 애좌, 애집(주: 상인 장사 후 대상 전에 사용), 제좌, 제집(주: 심제에 사용).",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

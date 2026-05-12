@@ -1,0 +1,329 @@
+{
+  "article_id": "D4B^49_001_0085",
+  "body_hanja": "母主慈主[주:母稱]母親慈親慈闈慈庭老母老慈[주:己母稱]萱堂萱闈大夫人[주:人母稱]先妣先慈先母親[주:己母歿後稱]先大夫人[주:人母歿後稱]\n祖母主[주:祖母稱]老祖母王母[주:己祖母稱]王大夫人尊王大夫人尊祖母[주:人祖母稱]祖妣先祖母[주:己祖母歿後稱]先王大夫人先王母夫人[주:人祖母歿後稱]\n伯母主仲母主叔母主季母主[주:伯、仲、叔、季母稱]舍姪[주:己自稱]舍伯母舍仲母舍叔母舍季母[주:己伯、仲、叔季母稱]尊伯母夫人尊仲母夫人尊叔母夫人尊季母夫人[주:人伯、仲、叔、季母稱]先伯母先仲母先季母[주:己伯、仲、叔季母歿後稱]先伯母夫人先仲母夫人先叔母夫人先季母夫人[주:人伯、仲、叔、季母歿後稱]大姑母主[주:大姑母稱]鄙大姑母[주:己大姑母稱]令大姑母夫人[주:人大姑母稱]姑母主[주:姑母稱]內姪[주:己自稱]鄙姑母[주:己姑母稱]尊姑母夫人[주:人姑母稱]從姑母[주:諸從姑母隨寸稱]\n嫂主[주:嫂稱]兄嫂氏伯嫂氏仲嫂氏季嫂氏[주:己嫂稱]丘嫂氏[주:兄亡嫂在]寡嫂氏[주:無夫己嫂稱、諸從嫂、隨寸稱]尊伯嫂氏夫人令仲嫂氏夫人令季嫂氏夫人[주:人嫂稱]先伯嫂氏先仲嫂氏先季嫂氏[주:己嫂歿後稱]先▼원문보기31a처음으로伯嫂氏先仲嫂氏先季嫂氏[주:己嫂歿後稱]先伯嫂氏夫人先仲嫂氏夫人先季嫂氏夫人[주:人嫂歿後稱]姉主[주:年上姉稱]妹弟[주:年下妹稱]姉氏阿妹[주:己姉妹稱]令姉氏令妹氏[주:人姉妹稱]從姉氏從妹[주:諸從姉妹隨寸稱]某室某姓室[주:無論姉、妹、姪女、成笄後、用于門內之稱]\n外祖父主外祖母主[주:外祖父母稱]外孫[주:己自稱]外祖父外祖母[주:己外祖父母稱]尊外祖丈尊外祖母夫人[주:人外祖父母稱]\n內舅主外叔主表叔主[주:外叔父稱]外叔母主表叔母主[주:外叔母稱]甥姪表姪[주:己自稱]鄙外叔鄙表叔[주:己外叔父稱]鄙外叔母鄙表叔母[주:己外叔母稱]尊外叔丈貴表叔丈外阮丈渭陽丈[주:人外叔父稱]尊外叔母夫人貴表叔母夫人[주:人外叔母稱]\n內兄主內從兄主[주:內從兄稱]表弟表從弟[주:己自稱]表兄主表從兄主[주:外從兄稱]內弟內從弟[주:己自稱]姨叔主[주:姨母夫稱]姨母主[주:姨母稱]姨姪[주:己自稱]\n姨兄主姨從兄主[주:姨從兄稱]姨從姨從弟[주:己自稱、異姓四寸以外、皆用戚字]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "母主",
+      "label_ko": "어머니",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "萱堂",
+      "label_ko": "어머니(뫼당: 어머니를 높이는 호칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "大夫人",
+      "label_ko": "어머니(남의 어머니를 높이는 호칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "先妣",
+      "label_ko": "돌아가신 어머니(자신을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "先大夫人",
+      "label_ko": "돌아가신 어머니(남을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "祖母主",
+      "label_ko": "조모",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "老祖母",
+      "label_ko": "조모(존칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "王母",
+      "label_ko": "조모(자신을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "祖妣",
+      "label_ko": "돌아가신 조모(자신을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "先王大夫人",
+      "label_ko": "돌아가신 조모(남을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "伯母主",
+      "label_ko": "백모(큰어머니)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "仲母主",
+      "label_ko": "중모(두 번째 어머니)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "叔母主",
+      "label_ko": "숙모(세 번째 어머니)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "季母主",
+      "label_ko": "계모(막내 어머니)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "舍姪",
+      "label_ko": "조카(백모·중모·숙모·계모를 기준으로 자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "舍伯母",
+      "label_ko": "내 백모(자신을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "尊伯母夫人",
+      "label_ko": "존경하는 백모(남을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "先伯母",
+      "label_ko": "돌아가신 백모(자신을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "先伯母夫人",
+      "label_ko": "돌아가신 백모(남을 기준으로)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "大姑母主",
+      "label_ko": "대고모(할머니의 언니)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "姑母主",
+      "label_ko": "고모",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "內姪",
+      "label_ko": "조카(고모를 기준으로 자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "從姑母",
+      "label_ko": "종고모(여러 명의 종고모를 통칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "嫂主",
+      "label_ko": "시형수(형수)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "兄嫂氏",
+      "label_ko": "형수",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "伯嫂氏",
+      "label_ko": "큰형수",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "丘嫂氏",
+      "label_ko": "형이 죽은 형수",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "寡嫂氏",
+      "label_ko": "과부인 형수",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "姉主",
+      "label_ko": "누나/언니",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "妹弟",
+      "label_ko": "여동생(여러 명을 통칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "阿妹",
+      "label_ko": "나/여동생(자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.8,
+      "label_hanja": "某室某姓室",
+      "label_ko": "며느리/처(문안에서 쓰이는 호칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "外祖父主",
+      "label_ko": "외조부",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "外祖母主",
+      "label_ko": "외조모",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "外孫",
+      "label_ko": "외손자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "內舅主",
+      "label_ko": "내삼촌(어머니의 형/아우)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "外叔主",
+      "label_ko": "외삼촌(어머니의 아우)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "表叔主",
+      "label_ko": "표삼촌(외삼촌의 아우)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "外叔母主",
+      "label_ko": "외숙모(외삼촌의 아내)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "表叔母主",
+      "label_ko": "표숙모(외삼촌의 아내)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "甥姪",
+      "label_ko": "외삼촌·외숙모의 자녀(자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "表姪",
+      "label_ko": "표조카(외사촌)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.8,
+      "label_hanja": "渭陽丈",
+      "label_ko": "외삼촌(시인의舅舅傳에서 유래)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "內兄主",
+      "label_ko": "내처형(아내의 형)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "內弟",
+      "label_ko": "내처제(아내의 아우)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "表弟",
+      "label_ko": "표처제(아내의 사촌 아우)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "表兄主",
+      "label_ko": "표처형(아내의 사촌 형)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "姨叔主",
+      "label_ko": "이모부(이모의 남편)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "姨母主",
+      "label_ko": "이모",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "姨姪",
+      "label_ko": "이모의 자녀(자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "姨兄主",
+      "label_ko": "이모의 형(형제)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.7,
+      "label_hanja": "戚字",
+      "label_ko": "척자(이종친족 관계를 나타내는 말)",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선시대 예절 문서에서 어머니(母)와 어머니 쪽 친족(母黨)을 지칭하는 호칭을 정리한 것이다. 자칭(己)과 대칭(人), 존칭, 사망 후 호칭(歿後稱)으로 구분하며, 어머니·조모·고모·숙모·시아주버니·외조모·외삼촌·외사촌·이모 등을 포함한다.",
+  "reading_ko": "이, 모당",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0085",
+  "title_hanja": "二、母黨",
+  "title_ko": "이、모당",
+  "translation_ko": "둘째, 어머니 쪽 친족",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

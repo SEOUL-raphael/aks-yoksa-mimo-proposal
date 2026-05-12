@@ -1,0 +1,65 @@
+{
+  "article_id": "D4B^49_001_0055",
+  "body_hanja": "省禮白[주:用於喪人尊處問答竝稱]○省禮言[주:用於喪人平交問答竝稱]○稽顙白[주:喪人自稱尊處問答竝用]○稽顙[주:喪人自稱平交問答竝用]○省式白[주:用於心制人尊處問答竝稱]○省式[주:用於心制人平交卑幼問答竝稱]○頓首白[주:心制人自稱尊處問答竝用]○頓首[주:心制人自稱平交卑幼問答竝用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "省禮",
+      "label_ko": "성례",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "省式",
+      "label_ko": "성식",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "稽顙",
+      "label_ko": "계송",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "頓首",
+      "label_ko": "둔수",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "心制",
+      "label_ko": "심제",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "白",
+      "label_ko": "백",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "言",
+      "label_ko": "언",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "書頭",
+      "label_ko": "서두",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "상서(書疏) 문서의 서두에 쓰이는 호칭어를 여덟 가지로 분류한 것. 【省禮白】 상서 체제에서 상서한 사람(상대에 대한 경칭)이 상대의 존위한 처에서 문안을 묻고 답할 때 쓰는 서두. 【省禮言】 상서 체제에서 상서한 사람이 상대와 평등하게 문안을 묻고 답할 때 쓰는 서두. 【稽顙白】 상서한 사람이 자기 존위를 두고 문안을 묻고 답할 때 공통으로 쓰는 서두. 【稽顙】 상서한 사람이 자기와 평등하거나 아랫사람에게 문안을 묻고 답할 때 쓰는 서두. 【省式白】 심제(心制)한 사람(상복을 준 사람이 죽은 자를 위해 3년 복을 입은 자)이 상대의 존위한 처에서 문안을 묻고 답할 때 쓰는 서두. 【省式】 심제한 사람이 상대와 평등하거나 아랫사람에게 문안을 묻고 답할 때 쓰는 서두. 【頓首白】 심제한 사람이 자기 존위를 두고 문안을 묻고 답할 때 공통으로 쓰는 서두. 【頓首】 심제한 사람이 자기와 평등하거나 아랫사람에게 문안을 묻고 답할 때 쓰는 서두.",
+  "reading_ko": "성례백 ○ 성례언 ○ 계송백 ○ 계송 ○ 성식백 ○ 성식 ○ 둔수백 ○ 둔수",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0055",
+  "title_hanja": "一、書頭類",
+  "title_ko": "일、서두류",
+  "translation_ko": "성례백 ○ 성례언 ○ 계송백 ○ 계송 ○ 성식백 ○ 성식 ○ 둔수백 ○ 둔수",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

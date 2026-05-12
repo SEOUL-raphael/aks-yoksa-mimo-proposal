@@ -1,0 +1,119 @@
+{
+  "article_id": "D4B^49_001_0029",
+  "body_hanja": "玆際○邇辰○邇來○辰下○此時○此辰○比天○比辰○際玆○日來○間內○比來○伊來○刻下○玆辰○少選○俄頃",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "玆際",
+      "label_ko": "차제",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "邇辰",
+      "label_ko": "근진",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "邇來",
+      "label_ko": "근래",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "辰下",
+      "label_ko": "진하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "此時",
+      "label_ko": "차시",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "此辰",
+      "label_ko": "차진",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "比天",
+      "label_ko": "근천",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "比辰",
+      "label_ko": "근진",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "際玆",
+      "label_ko": "제차",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "日來",
+      "label_ko": "일래",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "間內",
+      "label_ko": "간내",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "比來",
+      "label_ko": "비래",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "伊來",
+      "label_ko": "이래",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "刻下",
+      "label_ko": "각하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "玆辰",
+      "label_ko": "제진",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "少選",
+      "label_ko": "소선",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "俄頃",
+      "label_ko": "아경",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "이것은 한자어로 '근래/최근/이때'를 뜻하는 동의어들의 분류표이다. 17개 한자 표현이 모두 같은 의미 범주에 속하며, 서로 교환 가능한 한자어를 정리한 어휘 목록이다.",
+  "reading_ko": "차제류 ○ 근진 ○ 근래 ○ 진하 ○ 차시 ○ 차진 ○ 근천 ○ 근진 ○ 제차 ○ 일래 ○ 간내 ○ 비래 ○ 이래 ○ 각하 ○ 제진 ○ 소선 ○ 아경",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0029",
+  "title_hanja": "一、玆者類",
+  "title_ko": "일、자자류",
+  "translation_ko": "이 자료는 '근래' 또는 '이때'를 뜻하는 한자어 동의어들을 모은 분류표이다. 등장하는 표현은 다음과 같다. 차제(玆際), 근진(邇辰), 근래(邇來), 진하(辰下), 차시(此時), 차진(此辰), 근천(比天), 근진(比辰), 제차(際玆), 일정(日來), 간내(間內), 비래(比來), 이래(伊來), 각하(刻下), 제진(玆辰), 소선(少選), 아경(俄頃).",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

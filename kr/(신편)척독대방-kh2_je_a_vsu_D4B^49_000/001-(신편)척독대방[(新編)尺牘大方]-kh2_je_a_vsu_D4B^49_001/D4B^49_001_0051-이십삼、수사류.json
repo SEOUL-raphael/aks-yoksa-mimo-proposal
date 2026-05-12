@@ -1,0 +1,83 @@
+{
+  "article_id": "D4B^49_001_0051",
+  "body_hanja": "下賜[주:尊處用]○惠貺○寵貺○厚賜○俯賜○惠注○嘉貺○惠饋[주:平交用]○寄物○來物○所送[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "下賜",
+      "label_ko": "하사",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "惠貺",
+      "label_ko": "혜광",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "寵貺",
+      "label_ko": "총광",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "厚賜",
+      "label_ko": "후사",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "俯賜",
+      "label_ko": "부사",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "惠注",
+      "label_ko": "혜주",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "嘉貺",
+      "label_ko": "가광",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "惠饋",
+      "label_ko": "혜위",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "寄物",
+      "label_ko": "기지물",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "來物",
+      "label_ko": "내물",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "所送",
+      "label_ko": "소송",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "이条目는 윗사람이 아랫사람에게 내려주는 물건이나 은혜를 말할 때 쓰이는 어휘들을 상대방의 지위와 관계에 따라 분류 정리한 것이다. 下賜·惠貺·寵貺·厚賜·俯賜·惠注·嘉貺 등은 윗사람이 아랫사람에게 쓸 수 있는 경어적이고 공손한 표현이고, 惠饋는 평등한 사이에서 서로 쓸 수 있으며, 寄物·來物·所送은 윗사람이 아랫사람에게 보낸 것을 말할 때 특히 아랫사람·아래후배 입장에서 표현하는 것이다. 즉 한국어의 '주다/드리다-받다' 어휘 체계와 유사하게, 화자의 지위에 따라 쓰이는 어휘가 달라지는 한시 문어의 특성을 보여준다.",
+  "reading_ko": "이십삼, 수사류 하사 ○혜광 ○총광 ○후사 ○부사 ○혜주 ○가광 ○혜위 ○기지물 ○내물 ○소송",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0051",
+  "title_hanja": "二十三、受賜類",
+  "title_ko": "이십삼、수사류",
+  "translation_ko": "이십삼, 사례(下賜) 계열 어휘 — 위에서 내려주는 것을 표현하는 어휘와 그 사용 구분\n하사[주: 윗사람이 아랫사람에게 쓸 것] ○ 덕 있는 분의 선물 ○ 총애를 담은 선물 ○ 후한 하사 ○ 삼가 내리시는 하사 ○ 덕 있는 쏟음 ○ 아름다운 선물 ○ 덕 있는送上[주: 동등한 사이에서 씀] ○ 부쳐 보내온 물건 ○ 보내온 물건 ○送的 것[주: 아랫사람·아래후배에게 쓸 것]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

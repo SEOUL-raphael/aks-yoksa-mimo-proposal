@@ -1,0 +1,77 @@
+{
+  "article_id": "D4B^49_001_0060",
+  "body_hanja": "卜候疏[주:尊處問]○上謝疏[주:尊處答]○謹候疏○疏上○謹疏[주:平交問]○謹謝疏○謝疏上[주:平交答]疏緘[주:卑幼處問]○答疏[주:卑幼處答]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "封皮旁書類",
+      "label_ko": "봉피방서류",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "占候疏",
+      "label_ko": "부후소",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "上謝疏",
+      "label_ko": "상사소",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "謹疏",
+      "label_ko": "근소",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "謹謝疏",
+      "label_ko": "근사소",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "疏緘",
+      "label_ko": "소감",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "答疏",
+      "label_ko": "답소",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "尊處",
+      "label_ko": "존처",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "平交",
+      "label_ko": "평교",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "卑幼處",
+      "label_ko": "비유처",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선 시대 관공서에서 사용하는 서류의 명칭과 용도를 상대방의 신분 관계에 따라 정리한 규범이다. 占候疏는 존존한 상관에게 문안과 요청을 아뢸 때, 上謝疏는 상관이 이에 답할 때 쓴다. 平交(동료·동관 간)에는 謹疏·謹謝疏를 쓰고, 卑幼(아래아래 또는 후배)에게는 疏를 봉하여 보낸다. 상대방의 존비유·답여를 정확히 구분하여 적시에 적당한 표제를 붙이는 것이 화법(書法)의 핵심이었다.",
+  "reading_ko": "육、봉피방서류 부후소[주:존처문] ○ 상사소[주:존처답] ○ 근후소 ○ 소상 ○ 근소[주:평교문] ○ 근사소 ○ 사소상[주:평교답] 소감[주:비유처문] ○ 답소[주:비유처답]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0060",
+  "title_hanja": "六、封皮旁書類",
+  "title_ko": "육、봉피방서류",
+  "translation_ko": "여섯째, 봉피방에 붙이는 서류 표기의 예. (존스러운 분에게 묻는 경우) 占候疏 ○ (존스러운 분이 답하는 경우) 上謝疏 ○ 삼가 문후하는疏 ○疏를 상고 ○ (평등한 사이에서 묻는 경우) 三下疏 ○ 삼가 감사하는疏 ○ (평등한 사이에서 답하는 경우) 謝疏를 상고 ○ (손아래나 어린에게 묻는 경우)疏를 봉한다 ○ (손아래나 어린이가 답하는 경우)答疏",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

@@ -1,0 +1,29 @@
+{
+  "article_id": "D4B^49_001_0069",
+  "body_hanja": "仰頌\n侍祉",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "仰頌",
+      "label_ko": "앙송",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "侍祉",
+      "label_ko": "시지",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선 시대 문안서(問安書)에 쓰이는 상하对应的 인사 표현. '仰頌'은 윗사람이 아랫사람에게 내리는 문안을 올려 받들어 기린다的意思, '侍祉'는 아랫사람이 윗사람의 안녕을 기원한다는 의미. 상하 간 문안 예우를 나타내는 대련(對聯) 형식의 표현이다.",
+  "reading_ko": "앙송, 시지",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0069",
+  "title_hanja": "九、侍下",
+  "title_ko": "구、시하",
+  "translation_ko": "위에서 내려오는 문안을 받들어 기린다, 모시는 분의 안녕을 기원한다",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

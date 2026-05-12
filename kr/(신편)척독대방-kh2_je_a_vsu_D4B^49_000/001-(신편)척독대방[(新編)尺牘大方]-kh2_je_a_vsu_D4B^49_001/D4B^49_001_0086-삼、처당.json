@@ -1,0 +1,113 @@
+{
+  "article_id": "D4B^49_001_0086",
+  "body_hanja": "室人荊妻內子細君拙荊[주:己妻稱]賢閤內相賢壺尊閤[주:人妻稱]亡室亡妻故室[주:己妻歿後稱]外舅主聘父主[주:己妻父稱]聘母主岳母主[주:己妻母稱]外甥[주:己自稱]嬌客[주:己婿稱]玉潤[주:人婿稱]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "室人",
+      "label_ko": "실인",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "荊妻",
+      "label_ko": "경처",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "內子",
+      "label_ko": "내자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "細君",
+      "label_ko": "세군",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "拙荊",
+      "label_ko": "졸형",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "賢閤",
+      "label_ko": "현합",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "內相",
+      "label_ko": "내상",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "賢壺",
+      "label_ko": "현곤",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "尊閤",
+      "label_ko": "존합",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "亡室",
+      "label_ko": "망실",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "外舅",
+      "label_ko": "외구",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "主聘父",
+      "label_ko": "주빙부",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "主岳母",
+      "label_ko": "주외모",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "外甥",
+      "label_ko": "외손",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "嬌客",
+      "label_ko": "교객",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "玉潤",
+      "label_ko": "옥윤",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "본문은 처당(妻黨) 즉 아내와 관련된 가족 관계의 다양한 호칭을 정리한 어휘 목록이다. 크게 자기 아내를 부르는 표현(실인, 경처, 내자, 세군, 졸형, 현합, 내상, 현곤, 존합), 남의 아내를 부르는 표현(합), 죽은 아내를 부르는 표현(망실), 아내 부모를 부르는 표현(외구, 주빙부, 주외모), 그리고 사위 관련 표현(교객, 옥윤)으로 나뉜다. 자칭으로 외손이 사용됨이 특이하다.",
+  "reading_ko": "실인 경처 내자 세군 졸형 현합 내상 현곤 존합 망실 외구 주빙부 주외모 외손 교객 옥윤",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0086",
+  "title_hanja": "三、妻黨",
+  "title_ko": "삼、처당",
+  "translation_ko": "자기 아내를 부르는 이름들: 실인(실인), 경처(荆妻), 내자(內子), 세군(細君), 졸형(拙荊), 현합(賢閤), 내상(內相), 현곤(賢壺), 존합(尊閤). 남의 아내를 부르는 이름: 합(閤). 죽은 아내를 부르는 이름: 망실(亡室). 아내의 아버지를 부르는 이름: 외구(外舅), 주빙부(主聘父). 아내의 어머니를 부르는 이름: 주외모(主岳母). 남의 사위를 부르는 이름: 옥윤(玉潤). 자신의 사위를 부르는 이름: 교객(嬌客). 남의 사위를 부르는 이름: 옥윤(玉潤). 자칭: 외손(外甥).",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

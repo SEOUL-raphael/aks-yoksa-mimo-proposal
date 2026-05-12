@@ -1,0 +1,35 @@
+{
+  "article_id": "D4B^49_001_0063",
+  "body_hanja": "敬頌\n暑安[주:或夏祺]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "暑安",
+      "label_ko": "서안",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "夏祺",
+      "label_ko": "하기",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "敬頌",
+      "label_ko": "경송",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "여름철 서신 문구이다. '경송'은 공경히 축수한다는 인사말이고, '서안(暑安)'은 여름철 무더위 속에서의 평안을 기원하는 표현이다. '[주: 또는 夏祺]'는 '서기(夏祺)'라는 여름 안녕 인사말도 사용 가능함을 나타내는 주석이다. 여름철 서한文에서 사용되는 대표적인 인사말 범례이다.",
+  "reading_ko": "경송 서안 (또는 하기)",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0063",
+  "title_hanja": "三、夏令",
+  "title_ko": "삼、하령",
+  "translation_ko": "여름 안녕을 기원합니다.",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

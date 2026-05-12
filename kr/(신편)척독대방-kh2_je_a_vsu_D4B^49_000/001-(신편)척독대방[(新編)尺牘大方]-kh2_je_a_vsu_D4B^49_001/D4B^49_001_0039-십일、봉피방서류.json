@@ -1,0 +1,125 @@
+{
+  "article_id": "D4B^49_001_0039",
+  "body_hanja": "上平書[주:用於祖父母]○上書○上函[주:尊處問]○上答書○上謝書[주:尊處答]○謹候書○謹緘[주:平交問]○謹謝書○謹謝緘○謹覆○拜覆[주:平交答]○平信○平書○書角○書緘[주:卑幼處問]○答緘○答信○答東[주:卑幼處答]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "上平書",
+      "label_ko": "상평서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "上書",
+      "label_ko": "상서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "上函",
+      "label_ko": "상함",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "上答書",
+      "label_ko": "성장서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "上謝書",
+      "label_ko": "상사서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "謹候書",
+      "label_ko": "근후서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "謹緘",
+      "label_ko": "근흡",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "謹謝書",
+      "label_ko": "근사서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "謹謝緘",
+      "label_ko": "근사흡",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "謹覆",
+      "label_ko": "근복",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "拜覆",
+      "label_ko": "배복",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "平信",
+      "label_ko": "평신",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "平書",
+      "label_ko": "평서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "書角",
+      "label_ko": "서각",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "書緘",
+      "label_ko": "서흡",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "答緘",
+      "label_ko": "답흡",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "答信",
+      "label_ko": "답신",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "答東",
+      "label_ko": "답동",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선시대 문서 통신에서 사용하는 봉투·서신 용어들을 수신인과 발신인의 서열 관계에 따라 분류한 목록이다. 조부모 등 존장에게 쓰는 '상평서·상서·상함'과, 평교 사이에 쓰는 '근흡·배복·평신·평서', 후배에게 쓰는 '서흡·답흡·답신·답동'으로 크게 세 갈래로 구분한다. 각 용어는 서신의 종류(질문·답변·감사), 씰 방식(書緘, 答緘 등 봉투 형태), 그리고 상대와의 관계에 따라 세분화된 것이다.",
+  "reading_ko": "십일, 봉피방서류 상평서(주:용어조부모) ○ 상서 ○ 상함(주:존처문) ○ 성장서 ○ 상사서(주:존처답) ○ 근후서 ○ 근흡(주:평교문) ○ 근사서 ○ 근사흡 ○ 근복 ○ 배복(주:평교답) ○ 평신 ○ 평서 ○ 서각 ○ 서흡(주:비유처문) ○ 답흡 ○ 답신 ○ 답동(주:비유처답)",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0039",
+  "title_hanja": "十一、封皮旁書類",
+  "title_ko": "십일、봉피방서류",
+  "translation_ko": "열한째, 서류 봉투 및 씰 관련 용어 상평서(주:조부모에게 사용) ○ 상서 ○ 상함(주:존장에게 묻는 편지) ○ 상대의 질문에 대한 답변 ○ 상사서(주:존장에게 감사) ○ 삼가候 서신 ○ 삼가緘封信(주:평교간에 묻는 편지) ○ 삼가 감사 편지 ○ 삼가 감사 봉투 ○ 삼가 회신 ○ 삼가 답장(주:평교간에 답변) ○ 평등한 사신 ○ 평등한 서신 ○ 서한의 귀퉁이 ○ 서한 봉투(주:후배에게 묻는 편지) ○ 답장 봉투 ○ 답장 편지 ○ 동쪽 방향 답장(주:후배에게 답변)",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

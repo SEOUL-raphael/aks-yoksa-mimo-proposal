@@ -1,0 +1,53 @@
+{
+  "article_id": "D4B^49_001_0052",
+  "body_hanja": "廈庇○庇護○曲庇○照拂○眷護○翼覆[주:普通用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "庇護",
+      "label_ko": "비호",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "曲庇",
+      "label_ko": "곡비",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "照拂",
+      "label_ko": "조불",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "眷護",
+      "label_ko": "견호",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "翼覆",
+      "label_ko": "욕복",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "託庇",
+      "label_ko": "탁비",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "托庇(남의 은덕이나 권세에 의지하여 보호를 받음) 계열 어휘 분류이다. 庇를 중심으로 庇護(보호), 曲庇(사사롭게 비호), 照拂(돌봐줌), 眷護(눈愛으로 돌봄), 翼覆(날개로 덮어 보호) 등의 동의어를 묶어둔 사전류 항목으로 보인다.",
+  "reading_ko": "이십사、탁비류 / 하비 / 비호 / 곡비 / 조불 / 견호 / 욕복",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0052",
+  "title_hanja": "二十四、託庇類",
+  "title_ko": "이십사、탁비류",
+  "translation_ko": "24. 빽빽이 보호하는 부류. 【변형】 하비. 【본안】 비호·곡비·조불·견호·욕복 [주: 흔히 쓰이는 표현]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

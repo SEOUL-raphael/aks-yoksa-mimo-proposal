@@ -1,0 +1,53 @@
+{
+  "article_id": "D4B^49_001_0071",
+  "body_hanja": "伏頌\n勻安[주:或祟安或台祺或令安或仕祺隨階而稱]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 1.0,
+      "label_hanja": "伏頌",
+      "label_ko": "복송",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "勻安",
+      "label_ko": "윤안",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "祟安",
+      "label_ko": "숭안",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "台祺",
+      "label_ko": "태기",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "令安",
+      "label_ko": "영안",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "仕祺",
+      "label_ko": "사기",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선시대 문서에서 윗사람에게 드리는 인사 표현으로, '삼가 안부를 아뢉니다'는 뜻이다. 受書者의 관등에 따라 勻安·祟安·台祺·令安·仕祺 등을 골라 썼다.",
+  "reading_ko": "복송 윤안",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0071",
+  "title_hanja": "十一、官人",
+  "title_ko": "십일、관인",
+  "translation_ko": "삼가 인사를 드리오며, 안녕히 지내셨는지 여쭙니다",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

@@ -1,0 +1,143 @@
+{
+  "article_id": "D4B^49_001_0049",
+  "body_hanja": "賀儀○慶儀○稱儀[주:慶賀用]○菲品○薄具○菲物○蕪儀○芹儀○不腆[주:普通用]○卺儀○醮儀[주:婚娶用]粧助○奩資[주:婚嫁用]○壽儀○晬儀○祝儀[주:壽辰用]○贐儀○餞儀[주:送別用]○賻儀○奠儀○楮儀[주:喪用]○紼儀[주:葬用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "修儀類",
+      "label_ko": "수의류",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "賀儀",
+      "label_ko": "하의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "慶儀",
+      "label_ko": "경의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "菲品",
+      "label_ko": "비품",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "薄具",
+      "label_ko": "박구",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "蕪儀",
+      "label_ko": "무의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "芹儀",
+      "label_ko": "근의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "不腆",
+      "label_ko": "불점",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "卺儀",
+      "label_ko": "긴의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "醮儀",
+      "label_ko": "쇄의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "粧助",
+      "label_ko": "장조",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "奩資",
+      "label_ko": "렴자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "壽儀",
+      "label_ko": "수의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "晬儀",
+      "label_ko": "최의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "祝儀",
+      "label_ko": "축의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "贐儀",
+      "label_ko": "진의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "餞儀",
+      "label_ko": "전의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "賻儀",
+      "label_ko": "부의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "奠儀",
+      "label_ko": "전의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "楮儀",
+      "label_ko": "저의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.8,
+      "label_hanja": "紼儀",
+      "label_ko": "퓰의",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선시대 예전에 사용되던 다양한 선물·예물·봉물의 명칭을 유형별로 정리한 목록이다. 경축(축하), 혼인(婚娶), 생일·장수(壽辰), 송별(送別), 상사(喪事), 장사(葬事) 등 상황별로 쓰이던 용어들을 모아둔 것이다. ○ 표시는 항목 구분 표시이며, 각 항목 뒤의 [주]는 해당 용어의 사용 상황을 적은 주기이다.",
+  "reading_ko": "이십일, 수의류. 하의 ○ 경의 ○ 칭의[주: 경허용] ○ 비품 ○ 박구 ○ 비물 ○ 무의 ○ 근의 ○ 불점[주: 보통용] ○ 긴의 ○쇄의[주: 혼취용] 장조 ○렴자[주: 혼가용] ○ 수의 ○ 최의 ○ 축의[주: 수신용] ○ 진의 ○ 전의[주: 송별용] ○ 부의 ○ 전의 ○ 저의[주: 상용] ○퓰의[주: 장용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0049",
+  "title_hanja": "二十一、修儀類",
+  "title_ko": "이십일、수의류",
+  "translation_ko": "스물한째, 기물류를 다룬다. 축祝의 예물, 경축의 예물, 칭찬의 예물, 검소한 물건, 담박한 물품, 소박한 선물, 누렁한 예물, 근대의 예물, 알거진 것, 포，结婚의 예물, 첩의 예물, 혼인 시의 옷차림 도움, 혼인 시의 족자[주: 혼가용], 장수의 예물, 돌의 예물, 축수의 예물, 여행送別의 예물, 전송의 예물, 부의[주: 송별용], 전의, 제의[주: 상용], 부의[주: 장용]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

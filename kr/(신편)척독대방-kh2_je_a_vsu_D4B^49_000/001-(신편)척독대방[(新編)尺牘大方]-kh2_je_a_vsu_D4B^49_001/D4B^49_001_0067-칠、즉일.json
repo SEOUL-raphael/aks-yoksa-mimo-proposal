@@ -1,0 +1,35 @@
+{
+  "article_id": "D4B^49_001_0067",
+  "body_hanja": "順頌\n日祉[주:或刻安時祉]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "順頌",
+      "label_ko": "순송",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "日祉",
+      "label_ko": "일지",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "安時祉",
+      "label_ko": "안시지",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "편지 서간문의 끝에 사용하는 인사말(結語)이다. '순송'은 상대방의 강림이나 내방을 기원하는 표현이고, '일지'는 '일일 안녕하십시요(日日安禧)'의 뜻으로 날마다 평안하심을 빌는 인사말이다. 주석에 따르면 '일지'는 '안시지(安時祉)'로도 쓴다는 의미이다.",
+  "reading_ko": "순송, 일지[주: 혹각 안시지]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0067",
+  "title_hanja": "七、卽日",
+  "title_ko": "칠、즉일",
+  "translation_ko": "부디 강림하시길 빤니다, 날마다 안녕하십시요",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

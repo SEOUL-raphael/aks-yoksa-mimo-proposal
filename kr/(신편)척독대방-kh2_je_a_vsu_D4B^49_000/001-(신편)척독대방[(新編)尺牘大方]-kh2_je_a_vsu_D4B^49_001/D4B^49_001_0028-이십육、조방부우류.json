@@ -1,0 +1,107 @@
+{
+  "article_id": "D4B^49_001_0028",
+  "body_hanja": "(造訪不遇類)桃源深處[주:註見上]에未許漁郞問津[주:桃源行云、漁舟逐水愛山春、兩岸桃花夾去津]니何仙緣之甚慳고○三登龍門[주:謂李膺龍門、注見上]에不得一晤니倘以來意로尙未勤耶아不然이면何絶之峻也오○孤山[주:林逋、隱居孤山、妻梅子鶴]淸標를景仰이久矣러니西湖高踪이竟爲不返니何不以鶴飛爲驗[주:林逋、居孤山、畜兩鶴、客至則放鶴、每遊西湖、以鶴飛、爲客至之驗]고○地距山陰야棹發剡\n(造訪不遇類)\n溪러니造門題鳳[주:嵇康、與呂安善、每一相思、千里命駕、値康不在、題門上作鳳而去]고徒乘雪夜之興[주:王子猷、居山陰、大雪夜、訪戴安道、發剡溪棹、造門不前、便還]이로다",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "造訪不遇",
+      "label_ko": "조방불우",
+      "type": "term"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "桃源",
+      "label_ko": "도원",
+      "type": "place"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "桃源行",
+      "label_ko": "도원행",
+      "type": "work"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "李膺",
+      "label_ko": "이응",
+      "type": "person"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "龍門",
+      "label_ko": "용문",
+      "type": "term"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "林逋",
+      "label_ko": "임보",
+      "type": "person"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "孤山",
+      "label_ko": "고산",
+      "type": "place"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "西湖",
+      "label_ko": "서호",
+      "type": "place"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "山陰",
+      "label_ko": "산음",
+      "type": "place"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "剡溪",
+      "label_ko": "점계",
+      "type": "place"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "嵇康",
+      "label_ko": "예강",
+      "type": "person"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "題鳳",
+      "label_ko": "제봉",
+      "type": "term"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "王子猷",
+      "label_ko": "왕자유",
+      "type": "person"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "戴安道",
+      "label_ko": "대안도",
+      "type": "person"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "雪夜之興",
+      "label_ko": "설야지흥",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "이 글은 방문을 갔으나 당사자를 만나지 못한 네 가지佚話를 모은 것이다. 1) 도원仙境을 찾아도 어부에게 길묻기를 허락받지 못함, 2) 李膺龍문에 세 번이나 찾아도 이李膺을 뵙지 못함, 3) 林逋의 고향孤山을 찾아도人影도 보이지 않음(집에서鶴를 풀어客人 알림), 4) 王子猷가大雪夜에 点谿로 배를 띄웠으나戴安道 문前에 가지 않고 돌아감. 앞의 세 이야기는 직접 만나지 못한 경우, 마지막王子猷 이야기는 만나지 않고 돌아간特殊情况를 보여준다.",
+  "reading_ko": "이십육, 조방불우류. (조방불우류) 도원 심처에 미허 어랑 문진니 하선 연지 심간고. 삼등 용문에 부득 일오니 당 이래의로 상 미근야아 부연이면 하절지 준야. 고산(임추) 청표를 경앙이 구이라니 서호 고종이 경위 부반니 하불이 학비 위험고. 지지 산음야 조발 점하면 지谿러니 조문 제봉(제형)고 도승 설야지흥이로다.",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0028",
+  "title_hanja": "二十六、造訪不遇類",
+  "title_ko": "이십육、조방부우류",
+  "translation_ko": "【조방불우류】\n\n도원 깊은 곳에 이르렀으나 어부에게 문징을 허락하지 않으니, 하필 선仙과의 인연이 이처럼 인색한 것이다.\n\n삼등 용문에 세 번이나 올랐으나 한 번도 만나 뵙지 못하니, 혹시訪探望之意가 아직 간절하지 않아서인가? 그렇지 않다면 어찌 이처럼 단호히 거절하는가.\n\n고산(임추)의 맑은 풍표를久仰慕한 지 오래되었으나, 서호의高尚한 발자취는 결국 돌아오지 않으니, 어찌학이 나는 것을憑證 삼지 않겠는가.\n\n산음地方에地理位置가 가깝고, 点에서 배를 띄우니,嵇康의 문前에題鳳하고 돌아가듯 하였다.王子猷처럼雪夜에 배를 띄워 点谿로 향하는 흥을 멋대로 누렸을 뿐이다.",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

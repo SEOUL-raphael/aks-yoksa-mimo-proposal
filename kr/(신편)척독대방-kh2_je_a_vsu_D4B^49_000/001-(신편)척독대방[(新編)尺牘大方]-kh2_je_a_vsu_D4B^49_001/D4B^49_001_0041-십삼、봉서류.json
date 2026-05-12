@@ -1,0 +1,107 @@
+{
+  "article_id": "D4B^49_001_0041",
+  "body_hanja": "稟告○書達○伏白[주:尊處用]○仰告○冒懇○仰陳○冒瀆[주:平交用]○委寄○故囑○至囑○專函[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "稟告",
+      "label_ko": "빈고",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "書達",
+      "label_ko": "서달",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "伏白",
+      "label_ko": "복백",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "仰告",
+      "label_ko": "앙고",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "冒懇",
+      "label_ko": "모흔",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "仰陳",
+      "label_ko": "앙진",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "冒瀆",
+      "label_ko": "모독",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "委寄",
+      "label_ko": "위의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "故囑",
+      "label_ko": "고촉",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "至囑",
+      "label_ko": "지촉",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "專函",
+      "label_ko": "전함",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "尊處用",
+      "label_ko": "존처용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "平交用",
+      "label_ko": "평교용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "卑幼處用",
+      "label_ko": "비유처용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "奉書類",
+      "label_ko": "봉서류",
+      "type": "work"
+    }
+  ],
+  "meaning_ko": "한국 한문 서간문에서 상대방과의 관계에 따라 쓰던 다양한 표시(표지) 용어를 정리한 것이다. 윗사람에게는 '稟告·書達·伏白', 평교에는 '仰告·冒懇·仰陳·冒瀆', 아랫사람에게는 '委寄·故囑·至囑·專函'을 사용했다. 원문에서 ○는 용어 간 구분 기호이며, [주:]는 해당 용어의 사용 대상을 적은 주기이다.",
+  "reading_ko": "빈고 서달 복백[주: 존처용] ○앙고 ○모흔 ○앙진 ○모독[주: 평교용] ○위의 ○고촉 ○지촉 ○전함[주: 비유처용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0041",
+  "title_hanja": "十三、奉書類",
+  "title_ko": "십삼、봉서류",
+  "translation_ko": "친고(稟告) ○ 서달(書達) ○ 복백[주: 윗사람에게 씀] ○ 앙고(仰告) ○ 모흔(冒懇) ○ 앙진(仰陳) ○ 모독[주: 동등한 사람에게 씀] ○위의(委寄) ○ 고촉(故囑) ○ 지촉(至囑) ○ 전함(專函)[주: 아랫사람에게 씀]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

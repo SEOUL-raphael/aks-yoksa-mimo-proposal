@@ -1,0 +1,35 @@
+{
+  "article_id": "D4B^49_001_0062",
+  "body_hanja": "順頌[주:答曰覆頌藉頌下同]\n春祺[주:或花安]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.9,
+      "label_hanja": "順頌",
+      "label_ko": "순송",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "春祺",
+      "label_ko": "춘기",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "春令",
+      "label_ko": "춘령",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "춘령(봄의 질서) 편에 이어지는 인사말로서, '順頌'은 상대방의 서신에 순서대로 응답함을 표하는 존경 표현이고, '春祺'는 봄철 인사의 문안 표현이다. 상편 서한 문서에서 사용된 호칭 문구로 보인다.",
+  "reading_ko": "순송,춘기",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0062",
+  "title_hanja": "二、春令",
+  "title_ko": "이、춘령",
+  "translation_ko": "순서대로 받으시기를 청하옵나니(답장 인사 표현), 봄의 안녕을 기원하옵나니",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

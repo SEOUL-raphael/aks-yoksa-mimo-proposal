@@ -1,0 +1,89 @@
+{
+  "article_id": "D4B^49_001_0047",
+  "body_hanja": "祟階○祟軒[주:尊處用]○台階○台軒○軒屛○座右○芝室○籤室[주:平交用]○那處○那上○那邊[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "祟階",
+      "label_ko": "숭계",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "祟軒",
+      "label_ko": "숭현",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "台階",
+      "label_ko": "대계",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "台軒",
+      "label_ko": "대현",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "軒屛",
+      "label_ko": "현병",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "座右",
+      "label_ko": "좌우",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "芝室",
+      "label_ko": "지실",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "籤室",
+      "label_ko": "첨실",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "那處",
+      "label_ko": "나처",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "那上",
+      "label_ko": "나상",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "那邊",
+      "label_ko": "나변",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "唐律疏議",
+      "label_ko": "당율서의",
+      "type": "work"
+    }
+  ],
+  "meaning_ko": "남의 처소(거처)를 공경하여 일컫는 표현들을 모아놓은 항목이다. 직접 '당신의 집'이라고 하지 않고, 높은 곳을 뜻하는 '祟階', '軒' 같은 건축 용어나 '芝室', '籤室' 같은 풍류적인 명칭으로 우회적으로 높여 부른다. 주석에 따라 '尊處用'(존칭 용)과 '平交用'(평등한 교류용), '卑幼處用'(아래아래에게 쓰는 용)으로 구분된다.",
+  "reading_ko": "십구, 칭인거처류",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0047",
+  "title_hanja": "十九、稱人居處類",
+  "title_ko": "십구、칭인거처류",
+  "translation_ko": "열아홉, 남의 거처를 칭하는類",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

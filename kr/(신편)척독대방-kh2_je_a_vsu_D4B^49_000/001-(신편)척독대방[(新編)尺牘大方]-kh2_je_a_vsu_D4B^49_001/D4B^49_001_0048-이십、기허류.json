@@ -1,0 +1,83 @@
+{
+  "article_id": "D4B^49_001_0048",
+  "body_hanja": "下諾○諾敎[주:尊處用]○金諾○鼎諾○惠許○盛諾○慨允○允兪[주:平交用]○卽許○爲許○一諾[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "하락",
+      "label_ko": "하락(아래에 허락을 구함)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "낙교",
+      "label_ko": "낙교(존경하는 사람에게 허락 구함)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "금낙",
+      "label_ko": "금낙(귀한 약속)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "정낙",
+      "label_ko": "정낙(안정되고 단단한 약속)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "영향",
+      "label_ko": "영향(은혜로 허락함)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "성낙",
+      "label_ko": "성낙(뜻이盛한 허락)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "개윤",
+      "label_ko": "개윤(청량하게 허락함)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "윤유",
+      "label_ko": "윤유(평등한 사이 허락)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.93,
+      "label_hanja": "즉허",
+      "label_ko": "즉허(곧 허락함)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "위허",
+      "label_ko": "위허(해줌으로 허락)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "일낙",
+      "label_ko": "일낙(한 번의 약속, 연하에게)",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "'기허류(冀許類)'는 상대를 향한 허락·승낙을 구하는 표현을 서열과 상황에 따라 구분하여 정리한 것. 위와 같은 사람에게는 '하락'·'낙교', 동등한 관계에는 '윤유', 아래·연하에게 구할 때는 '일낙'을 사용함을 보여준다.",
+  "reading_ko": "하락 ○ 낙교 ○ 금낙 ○ 정낙 ○ 영향 ○ 성낙 ○ 개윤 ○ 윤유 ○ 즉허 ○ 위허 ○ 일낙",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0048",
+  "title_hanja": "二十、冀許類",
+  "title_ko": "이십、기허류",
+  "translation_ko": "하락 · 낙교 · 금낙 · 정낙 · 영향 · 성낙 · 개윤 · 윤유 · 즉허 · 위허 · 일낙",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

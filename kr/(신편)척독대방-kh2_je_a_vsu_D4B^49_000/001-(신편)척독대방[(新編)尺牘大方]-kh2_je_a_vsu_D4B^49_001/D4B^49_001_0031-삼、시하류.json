@@ -1,0 +1,53 @@
+{
+  "article_id": "D4B^49_001_0031",
+  "body_hanja": "○重侍下[주:祖父母及父母俱存]○具慶下[주:父母俱存]○嚴侍下[주:父獨存]○慈侍下[주:母獨存]○永感下[주:父母俱歿]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "重侍下",
+      "label_ko": "중시하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "具慶下",
+      "label_ko": "구경하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "嚴侍下",
+      "label_ko": "엄시하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "慈侍下",
+      "label_ko": "자시하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "永感下",
+      "label_ko": "영감하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "侍下類",
+      "label_ko": "시하류",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선시대 벼슬이나 과거 시험에 지원할 때 지원자의 가情况进行分类标记的用语。'시하(侍下)'는 부모·조부모를 모시는 지위에 있는 자를 뜻하며, 부모·조부모의 생존 여부에 따라 중시하·구경하·엄시하·자시하·영감하로 구분하였다. 과거 응시 자격, 관직 진출, 조혼 등 사회적 지위와 의무에 직접적인 영향을 미쳤던 생활 분류 용어이다.",
+  "reading_ko": "삼, 시하류\n중시하 [부모와 조부모가 모두 생존]\n구경하 [부모가 모두 생존]\n엄시하 [아버지만 홀로 생존]\n자시하 [어머니만 홀로 생존]\n영감하 [부모가 모두 사망]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0031",
+  "title_hanja": "三、侍下類",
+  "title_ko": "삼、시하류",
+  "translation_ko": "3. 시하류(아래를 모시는 사람들의 분류)\n중시하란, 조부모와 부모가 모두 살아 있는 경우\n구경하란, 부모가 모두 살아 있는 경우\n엄시하란, 아버지만 홀로 살아 있는 경우\n자시하란, 어머니만 홀로 살아 있는 경우\n영감하란, 부모가 모두 돌아가신 경우",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

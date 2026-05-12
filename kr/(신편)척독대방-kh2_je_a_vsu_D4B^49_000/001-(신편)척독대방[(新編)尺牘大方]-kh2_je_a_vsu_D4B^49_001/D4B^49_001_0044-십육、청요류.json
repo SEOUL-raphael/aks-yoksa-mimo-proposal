@@ -1,0 +1,83 @@
+{
+  "article_id": "D4B^49_001_0044",
+  "body_hanja": "下臨○駕臨[주:尊處用]○光臨○辱臨○光降○惠顧○賁然○惠然[주:平交用]○卽來○來見[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "請邀類",
+      "label_ko": "청요류",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "下臨",
+      "label_ko": "하림",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "駕臨",
+      "label_ko": "가림",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "光臨",
+      "label_ko": "광림",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "辱臨",
+      "label_ko": "욕림",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "光降",
+      "label_ko": "광강",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "惠顧",
+      "label_ko": "혜고",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "賁然",
+      "label_ko": "분연",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "惠然",
+      "label_ko": "혜연",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "卽來",
+      "label_ko": "즉래",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "來見",
+      "label_ko": "내견",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "十六 '請邀類'(초청 유형)이다. 상대의 신분·관계에 따라 '방문·초청'을 나타내는 한문 어휘를 분류 정리한 내용이다. 존칭으로 윗사람에게 쓸 수 있는 표현이 하림, 가림, 광림, 욕림, 광강,혜고 등이고, 동등한 처지에 쓸 수 있는 표현이 분연,혜연이며, 아랫사람에게 쓸 수 있는 표현이 즉래, 내견이다. 원문에서 ○는 항목 구분 기호이고, [주]는 주석으로 '존처용'(윗사람에게 쓴다), '평교용'(동료에게 쓴다), '비유처용'(아랫사람에게 쓴다)을 나타낸다.",
+  "reading_ko": "하림 ○ 가림[주: 존처용] ○ 광림 ○ 욕림 ○ 광강 ○혜고 ○ 분연 ○혜연[주: 평교용] ○즉래 ○ 내견[주: 비유처용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0044",
+  "title_hanja": "十六、請邀類",
+  "title_ko": "십육、청요류",
+  "translation_ko": "하림(내려와 계시다) ○ 가림(현존을 뫄公司 등) ○ 광림(훌륭히 오시다) ○ 욕림(더러운 발로 오시다 · 격식) ○ 광강(긔연히 강림) ○혜고(은혜로 돌아보시다) ○ 분연(빛나고 곱다 · 동등) ○혜연(은혜롭고 화기) ○즉래(곧 오시다) ○ 내견(와서 뫼보다 · 아랫사람)",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

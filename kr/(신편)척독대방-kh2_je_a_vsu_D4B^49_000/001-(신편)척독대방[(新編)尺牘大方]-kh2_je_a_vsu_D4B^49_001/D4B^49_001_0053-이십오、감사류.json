@@ -1,0 +1,95 @@
+{
+  "article_id": "D4B^49_001_0053",
+  "body_hanja": "伏感[주:尊處用]○銘感○銘謝○感佩○感荷○銘佩[주:平交用]○多感○良感○多荷○深感[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "伏感",
+      "label_ko": "복감",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "銘感",
+      "label_ko": "명감",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "銘謝",
+      "label_ko": "명사",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "感佩",
+      "label_ko": "감패",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "感荷",
+      "label_ko": "감하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "銘佩",
+      "label_ko": "명패",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "多感",
+      "label_ko": "다감",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "良感",
+      "label_ko": "양감",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "多荷",
+      "label_ko": "다하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "深感",
+      "label_ko": "심감",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "尊處",
+      "label_ko": "존처",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "平交",
+      "label_ko": "평교",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "卑幼",
+      "label_ko": "비유",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "감사의 표현을 서열과 관계에 따라 분류한 것이다. '복감'은 상관에게, '심감'은 하관이나 연하에게, '명패' 등은 동료 사이에서 사용하는 표현이다. '铭(명)'은 새기다는 뜻으로, 마음에 깊이 새겨 잊지 않는 감사를 뜻한다.",
+  "reading_ko": "복감, 명감, 명사, 감패, 감하, 명패, 다감, 양감, 다하, 심감",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0053",
+  "title_hanja": "二十五、感謝類",
+  "title_ko": "이십오、감사류",
+  "translation_ko": "[상관에게] 깊이 감사합니다 / 마음에 새기며 감사합니다 / 평생 잊지 않을 감사를 표합니다 / 깊이 감복합니다 / 원고에 감사드립니다 / [동료에게] 깊이 감사합니다 / 여러 번 감사드립니다 / 진심으로 감사드립니다 / 큰 은혜에 감사드립니다 / [하관·연하에게] 깊이 감사합니다",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

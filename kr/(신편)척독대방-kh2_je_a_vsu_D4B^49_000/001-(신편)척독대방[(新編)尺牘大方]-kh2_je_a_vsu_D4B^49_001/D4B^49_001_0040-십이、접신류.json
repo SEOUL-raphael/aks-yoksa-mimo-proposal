@@ -1,0 +1,131 @@
+{
+  "article_id": "D4B^49_001_0040",
+  "body_hanja": "嚴諭○慈訓[주:用於祖父母]○下示○下書○敎下[주:尊處用]○諭示○戒意○示事○辱敎○寵諭○瑤函○華翰○雲箋○惠函[주:平交用]○手墨○手滋○來函○寄示[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "접신류",
+      "label_ko": "접신류",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "엄유",
+      "label_ko": "엄유",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "자훈",
+      "label_ko": "자훈",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "하시",
+      "label_ko": "하시",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "하서",
+      "label_ko": "하서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "교하",
+      "label_ko": "교하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "유시",
+      "label_ko": "유시",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "계의",
+      "label_ko": "계의",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "시사",
+      "label_ko": "시사",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "욕교",
+      "label_ko": "욕교",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "총유",
+      "label_ko": "총유",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "요함",
+      "label_ko": "요함",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "화한",
+      "label_ko": "화한",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "운건",
+      "label_ko": "운건",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "혜함",
+      "label_ko": "혜함",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "수묵",
+      "label_ko": "수묵",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "수자",
+      "label_ko": "수자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "내함",
+      "label_ko": "내함",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "기시",
+      "label_ko": "기시",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선 시대 문서 분류 '접신류'는 상대방에게 보내는 편지·문서의 종류를 관계와 처소에 따라 분류한 것이다. 윗사람이 아랫사람에게 내리는 가르침(엄유·자훈·하시·교하 등)과 윗사람의 교지를 나타내는 표현(유시·시사·욕교 등)이 있으며, 감탄사로 쓰이는 예우 표현(요함·화한·운건·혜함 등)과 평소 서신 왕래 표현(수묵·수자·내함·기시 등)으로 나뉜다. 각 표현의 옆에 적힌 주(注)는 그 표현이 어떤 상대와 상황에 쓰이는지를 알려주는 사용 규범이다.",
+  "reading_ko": "십이、접신류.엄유○자훈[주:조부모에게 사용]○하시○하서○교하[주:존존한 처소에 사용]○유시○계의○시사○욕교○총유○요함○화한○운건○혜함[주:평상 교유의 어루며】○수묵○수자○내함○기시[주:아랫사람에게 사용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0040",
+  "title_hanja": "十二、接信類",
+  "title_ko": "십이、접신류",
+  "translation_ko": "열두째, 접신류(서신을 보내는 종류). 엄유○ 자훈(부모·조부모에게 쓰는 표현)○ 하시○ 하서○ 교하(존경하는 처소에 쓰는 표현)○ 유시○ 계의○ 시사○ 욕교○ 총유○ 요함○ 화한○ 운건○惠함(평소 서신 왕래에 쓰이는 표현)○ 수묵○ 수자○ 내함○ 기시(아래 사람에게 보내는 표현)",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

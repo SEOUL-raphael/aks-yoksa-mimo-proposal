@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-05-11T02:47:26.333468+00:00",
+  "exported_articles": 113150,
+  "exported_books": 439,
+  "layout": "kr/{book}/권책/{article}.md + json",
+  "name": "aks-yoksa-legalize-tree",
+  "report": {
+    "articles": {
+      "count": 113150,
+      "duplicate_count": 81,
+      "duplicates": [
+        "22589_001_0071",
+        "22589_001_0072",
+        "22589_001_0073",
+        "22589_001_0074",
+        "22589_001_0075",
+        "22589_001_0076",
+        "22589_001_0077",
+        "22589_001_0078",
+        "22589_001_0079",
+        "22589_001_0080",
+        "22589_001_0081",
+        "22589_001_0082",
+        "22589_001_0083",
+        "22589_001_0084",
+        "22589_001_0085",
+        "22589_001_0086",
+        "22589_001_0087",
+        "22589_001_0088",
+        "22589_001_0089",
+        "22589_001_0090"
+      ],
+      "empty_body_count": 782,
+      "empty_body_ratio": 0.0069
+    },
+    "books": {
+      "count": 439,
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    "translations": {
+      "count": 143,
+      "duplicate_count": 0,
+      "duplicates": [],
+      "failed": 111,
+      "ok": 32
+    },
+    "volumes": {
+      "count": 1325,
+      "duplicate_count": 0,
+      "duplicates": []
+    }
+  },
+  "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st"
+}

@@ -1,0 +1,149 @@
+{
+  "article_id": "D4B^49_001_0034",
+  "body_hanja": "慈安○雙安[주:父母之稱]○勻安[주:用於大臣]○崇安[주:用於一品]○台安[주:用於二品]○令安[주:用於三品]○旬安[주:用於道長官]○篆安○政祺[주:用於郡守]○仕安○仕祉[주:用於堂下]○万安○万康[주:用於尊處]○近安○近祺○近好○大安○日安○時安○刻安○勛祺[주:平交普用]○侍安○省安○侍祺[주:用於平交侍下]○旅安[주:用於客中]○佳勝○晏勝○珍重▼원문보기25b처음으로○淸毖○葆嗇[주:用於卑幼]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "安好類",
+      "label_ko": "안녕 인사 종류",
+      "type": "term"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "父母",
+      "label_ko": "부모",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "雙安",
+      "label_ko": "쌍안",
+      "type": "term"
+    },
+    {
+      "confidence": 0.97,
+      "label_hanja": "大臣",
+      "label_ko": "대신",
+      "type": "office"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "一品",
+      "label_ko": "일품",
+      "type": "office"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "二品",
+      "label_ko": "이품",
+      "type": "office"
+    },
+    {
+      "confidence": 0.98,
+      "label_hanja": "三品",
+      "label_ko": "삼품",
+      "type": "office"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "道長관",
+      "label_ko": "도장관",
+      "type": "office"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "篆安",
+      "label_ko": "전안",
+      "type": "term"
+    },
+    {
+      "confidence": 0.97,
+      "label_hanja": "郡守",
+      "label_ko": "군수",
+      "type": "office"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "堂下",
+      "label_ko": "당하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.82,
+      "label_hanja": "尊處",
+      "label_ko": "존처",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "平交",
+      "label_ko": "평교",
+      "type": "term"
+    },
+    {
+      "confidence": 0.8,
+      "label_hanja": "普用",
+      "label_ko": "보용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.8,
+      "label_hanja": "侍下",
+      "label_ko": "시하",
+      "type": "term"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "客中",
+      "label_ko": "객중",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "佳勝",
+      "label_ko": "가승",
+      "type": "term"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "晏勝",
+      "label_ko": "안승",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "珍重",
+      "label_ko": "진중",
+      "type": "term"
+    },
+    {
+      "confidence": 0.75,
+      "label_hanja": "淸毖",
+      "label_ko": "청비",
+      "type": "term"
+    },
+    {
+      "confidence": 0.72,
+      "label_hanja": "葆嗇",
+      "label_ko": "보색",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "卑幼",
+      "label_ko": "비유",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선 시대 공식 서간 문서에서 사용하던 안부 인사 표현을 수신인의 신분에 따라 분류한 표이다. 부모, 대臣, 1품~3품 관원, 도장관, 군수, 일반管理等 각 신분에 맞는 정확한 표현이 규정되어 있다. 쌍안은 부모 쌍방을 이르는 말, 全安은 인장 관련 서명란용, 근안·근기·근호는 근황 확인 인사, 대안·일안·시안·곡안은 시點별 평안, 가승·안승은 상대방의 안녕을 기원하는 표현이다. 下位者에게는 清毖·葆嗇 등 겸손한 표현을 사용하며, 현대 한국어 문어에서와 달리 신분·관계에 따른 세밀한 구분 체계가 존재했다.",
+  "reading_ko": "육, 안호류",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0034",
+  "title_hanja": "六、安好類",
+  "title_ko": "육、안호류",
+  "translation_ko": "제6편, 안녕 인사를 나타내는 종류\n\n부모에게: 자안, 쌍안\n대신에게: 윤안\n一品 관원에게: 숭안\n二品 관원에게: 태안\n三品 관원에게: 영안\n도 감사에게: 준안\n인사代わりに 서명란에 사용하는 경우: 전안\n郡守(군수)에게: 정기\n仕官한 사람에게: 사안\n殿堂 아래 관리에게: 사지\n모든 경우에: 만안\n존경하는 분에게: 만강\n근황에 대한 안부: 근안, 근기, 근호\n평안: 대안, 일안,시안, 곡안\n평一辈之交際に通用:훈기\n내관에게:시안\n비서관에게:성안\n평辈之交에서 수하에게:시기\n여행 중에 있는 이에게:여안\n상대방의 풍류를 칭찬: 가승, 안승\n귀중하게 여길 것:진중\n청렴하고 삼갈 것:청비\n비천하고 어린 상대에게: 보색",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

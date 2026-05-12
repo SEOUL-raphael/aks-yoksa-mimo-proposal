@@ -1,0 +1,23 @@
+{
+  "article_id": "D4B^49_001_0065",
+  "body_hanja": "仰頌\n冬安",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "冬令",
+      "label_ko": "동령",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "冬季祝福의 다섯째 절후 항목이다. 연서(輓書)나 서간에서冬季의 안녕을 기원하는修飾 표현으로, 상대의 겨울 평안을 존경의 마음으로 빌어드리는 형식적인 안부말이다.",
+  "reading_ko": "오, 동령\n억송 동안",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0065",
+  "title_hanja": "五、冬令",
+  "title_ko": "오、동령",
+  "translation_ko": "다섯째, 겨울의 계령(음력 십일월)\n존경하여 기원하오니, 겨울의 평안하심을 바라나이다",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

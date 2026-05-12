@@ -1,0 +1,71 @@
+{
+  "article_id": "D4B^49_001_0050",
+  "body_hanja": "下納○命納[주:尊處用]○莞納○哂留○笑領○哂收○照領[주:平交用]○考受○査收[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.85,
+      "label_hanja": "下納",
+      "label_ko": "하지납",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "命納",
+      "label_ko": "명납",
+      "type": "term"
+    },
+    {
+      "confidence": 0.7,
+      "label_hanja": "莞納",
+      "label_ko": "완납",
+      "type": "term"
+    },
+    {
+      "confidence": 0.75,
+      "label_hanja": "哂留",
+      "label_ko": "비유",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "笑領",
+      "label_ko": "소영",
+      "type": "term"
+    },
+    {
+      "confidence": 0.75,
+      "label_hanja": "哂收",
+      "label_ko": "비수",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "照領",
+      "label_ko": "조영",
+      "type": "term"
+    },
+    {
+      "confidence": 0.8,
+      "label_hanja": "考受",
+      "label_ko": "고려",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "査收",
+      "label_ko": "사수",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선시대 경제 문서에 등장하는 곡물·물품의 납부와 수령 용어이다. 거래 관계의 어정윤리에 따라 수령·수취 표현을 구분하여 기입한다. 윗사람 앞에서는 '명납', 동등 관계에서는 '조영', 아랫사람에게는 '사수'를 쓰는 등 서열에 맞는 격식어를 선택한다. ○ 표시는 빈칸(해당 없음 또는 공란)이다.",
+  "reading_ko": "하지납 ○ 명납[주: 존처용] ○ 완납 ○ 비유 ○ 소영 ○ 비수 ○ 조영[주: 평교용] ○ 고려 ○ 사수[주: 비유처용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0050",
+  "title_hanja": "二十二、冀收類",
+  "title_ko": "이십이、기수류",
+  "translation_ko": "하급 납부 ○ 명렬에 의한 납부[주: 윗사람에게 쓸 것] ○ 기꺼이 납부 ○ 비웃으며 수령 ○ 웃으며 수령 ○ 비웃으며 수취 ○ 살피며 수령[주: 동등한 거래에 쓸 것] ○ 감찰 수령 ○ 조사 수취[주: 아랫사람에게 쓸 것]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

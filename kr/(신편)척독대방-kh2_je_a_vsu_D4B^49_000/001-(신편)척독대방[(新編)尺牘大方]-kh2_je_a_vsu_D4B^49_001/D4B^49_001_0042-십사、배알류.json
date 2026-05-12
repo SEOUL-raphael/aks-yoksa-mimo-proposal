@@ -1,0 +1,47 @@
+{
+  "article_id": "D4B^49_001_0042",
+  "body_hanja": "趨拜○拜謁○趨造[주:尊處用]○拜晤○奉敍○晉握[주:平交用]○躬晉○面敍○面晤[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "拜謁",
+      "label_ko": "배엽",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "拜晤",
+      "label_ko": "배오",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "奉敍",
+      "label_ko": "봉서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "面晤",
+      "label_ko": "면오",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "面敍",
+      "label_ko": "면서",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "방문과 인사 표현의 유형을 사회적 위치에 따라 분류한 표. 상대방에 따라 다른 어휘를 선택하는 것이 핵심이다. 존경하는 대상에게는 '趨造·拜謁', 동등한 사이에는 '晉握·奉敍', 아랫사람에게는 '面晤·面敍'을 사용한다. 현대 한국어의 '뵙다·찾아가다·만나다'와 대응한다.",
+  "reading_ko": "주구백 ○ 배엽 ○ 주조[주:존처용] ○ 배오 ○ 봉서 ○ 진옥[주:평교용] ○ 공진 ○ 면서 ○ 면오[주:비유처용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0042",
+  "title_hanja": "十四、拜謁類",
+  "title_ko": "십사、배알류",
+  "translation_ko": "빨리 나아가 절한다. ○ 빈소를 뵙는다. ○ 찾아뵙는다[주: 어른을 뵙는 데 씀]. ○ 뵙고 이야기한다. ○ 조촐히 서叙한다. ○ 들어가 서로 옥는다[주: 동등한 사이에서 씀]. ○ 직접 들어가 뵙는다. ○ 얼굴을 마주하며 서叙한다. ○ 얼굴을 마주하며 만나본다[주: 아랫사람이나 젊은 이와 상대할 때 씀].",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

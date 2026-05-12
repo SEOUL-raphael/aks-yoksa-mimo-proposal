@@ -1,0 +1,101 @@
+{
+  "article_id": "D4B^49_001_0082",
+  "body_hanja": "稟者○敬稟者[주:尊處問]○啓者○敬啓者○謹啓○閣啓○刪蔓○刪冗○除煩[주:平交問]○覆者○敬覆者[주:平交答]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "稟者",
+      "label_ko": "빈자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "敬稟者",
+      "label_ko": "경빈자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "啓者",
+      "label_ko": "계자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "敬啓者",
+      "label_ko": "경계자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "謹啓",
+      "label_ko": "근계",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "閣啓",
+      "label_ko": "각계",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "刪蔓",
+      "label_ko": "삼만",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "刪冗",
+      "label_ko": "삼용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "除煩",
+      "label_ko": "저번",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "覆者",
+      "label_ko": "복자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "敬覆者",
+      "label_ko": "경복자",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "尊處問",
+      "label_ko": "존처문",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "平交問",
+      "label_ko": "평교문",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "平交答",
+      "label_ko": "평교답",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "한문 편지·아뢱문 작성 시 문서 가장 앞에 쓰는 다양한冒頭어(起頭語)를 상대방의 위계와 용도에 따라 분류한 것. 【尊處問】 상급자에게 묻는 경우, 【平交問】 동등한 관계에서 묻는 경우, 【平交答】 동등한 관계에서 답하는 경우으로 구분. 또한 문장을 간결하게 쓸 것을 지시하는編集용어(刪蔓·刪冗·除煩)가 포함되어 있음.",
+  "reading_ko": "띄어쓰기 없이 읽으면: 빈자 경빈자 계자 경계자 근계 각계 삼만 삼용 저번 복자 경복자",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0082",
+  "title_hanja": "二十二、起頭類",
+  "title_ko": "이십이、기두류",
+  "translation_ko": "「稟者」는 상급자에게 아뢱하는 문서冒頭어. 「敬稟者」는 상급자에게 올리는 문서에서 문안 차림. 「啓者」는 아뢱 문서의 보통冒頭어. 「敬啓者」는 존경을 표하는 아뢱문冒頭어. 「謹啓」는 공손하게 아뢱한다는 뜻의冒頭어. 「閣啓」는 벼슬아치직을 상호 존칭한 아뢱문冒頭어. 「刪蔓」은 문장을 산궤하지 않게 간결하게 쓴다는 지시. 「刪冗」은 과다한 문장을 삭제하라는 지시. 「除煩」은 번잡한 표현을 제거하라는 지시, 평교(동료·같은 지위)에 묻는 경우. 「覆者」는 상대방 질문에 답하는 문서의冒頭어. 「敬覆者」는 평교에서 경의를 표하는 답장冒頭어.",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

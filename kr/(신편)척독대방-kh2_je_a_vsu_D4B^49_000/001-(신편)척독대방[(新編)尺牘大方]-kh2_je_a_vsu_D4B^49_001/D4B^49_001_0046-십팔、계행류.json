@@ -1,0 +1,65 @@
+{
+  "article_id": "D4B^49_001_0046",
+  "body_hanja": "行次○啓駕[주:尊處用]○啓旆○行幰○文旆○文旌[주:平交用]○行李○行裝[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "行次",
+      "label_ko": "행차",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "啓駕",
+      "label_ko": "계거",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "啓旆",
+      "label_ko": "계패",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "行幰",
+      "label_ko": "행험",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "文旆",
+      "label_ko": "문패",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "文旌",
+      "label_ko": "문정",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "行李",
+      "label_ko": "행리",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "行裝",
+      "label_ko": "행장",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "출발·여행 관련 용어를 신분 관계에 따라 분류한 것이다. 윗사람의 출발은 '계거'·'계패', 동료 사이에서는 '행험'·'문패'·'문정', 아랫사람이나 어린이는 '행리'·'행장'을 사용한다. 같은 신분·관등 사이의 서한 문안을 작성할 때 적절한 어휘를 고르는 안내문으로 보인다.",
+  "reading_ko": "행차○계거○계패○행험○문패○문정○행리○행장",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0046",
+  "title_hanja": "十八、啓行類",
+  "title_ko": "십팔、계행류",
+  "translation_ko": "행차 ○ 계거[주:윗사람에게 씀] ○ 계패 ○ 행험 ○ 문패[주:같은 신분에게 씀] ○ 문정[주:같은 신분에게 씀] ○ 행리 ○ 행장[주:아랫사람이나 어린 사람에게 씀]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

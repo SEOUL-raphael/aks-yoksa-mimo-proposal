@@ -1,0 +1,113 @@
+{
+  "article_id": "D4B^49_001_0045",
+  "body_hanja": "下燭○下諒[주:尊處用]○涵諒○海諒○鴻恕○恕原○鑑諒○淵諒○汪諒[주:平交用]○諒存○諒悉○深諒○酌量[주:卑幼處用]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "下諒",
+      "label_ko": "하양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "涵諒",
+      "label_ko": "함양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.92,
+      "label_hanja": "海諒",
+      "label_ko": "해양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.93,
+      "label_hanja": "鴻恕",
+      "label_ko": "홍서",
+      "type": "term"
+    },
+    {
+      "confidence": 0.91,
+      "label_hanja": "恕原",
+      "label_ko": "서원",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "鑑諒",
+      "label_ko": "감양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.91,
+      "label_hanja": "淵諒",
+      "label_ko": "연양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.93,
+      "label_hanja": "汪諒",
+      "label_ko": "왕양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "諒存",
+      "label_ko": "양존",
+      "type": "term"
+    },
+    {
+      "confidence": 0.89,
+      "label_hanja": "諒悉",
+      "label_ko": "양식",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "深諒",
+      "label_ko": "심양",
+      "type": "term"
+    },
+    {
+      "confidence": 0.88,
+      "label_hanja": "酌量",
+      "label_ko": "작량",
+      "type": "term"
+    },
+    {
+      "confidence": 0.97,
+      "label_hanja": "尊處用",
+      "label_ko": "존처용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.97,
+      "label_hanja": "平交用",
+      "label_ko": "평교용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.96,
+      "label_hanja": "卑幼處用",
+      "label_ko": "비유처용",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "下燭",
+      "label_ko": "하촉",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선 시대 예서(禮書)에서 상대방의 양해를 구하는 표현들을 사회적 위계에 따라 분류한 것이다. '하양(下諒)' 계열과 '홍서(鴻恕)' 계열로 구분되며, 상대에 따라 용어의 격을 조절하여 사용했다.尊處용(존경하는 사람에게), 平交用(동등한 관계에서),卑幼處用(아래場合や 어린이에게)로 구분된 것은 조선 예학의 사회적 관계별 언어를 반영한다.",
+  "reading_ko": "하촉 ○ 하양[주: 존처용] ○ 함양 ○ 해양 ○ 홍서 ○ 서원 ○ 감양 ○ 연양 ○ 왕양[주: 평교용] ○ 양존 ○ 양식 ○ 심양 ○ 작량[주: 비유처용]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0045",
+  "title_hanja": "十七、冀恕類",
+  "title_ko": "십칠、기서류",
+  "translation_ko": "하촉 ○ 하양(존경하는 분에게 사용) ○ 함양 ○ 해양 ○ 홍서 ○ 서원 ○ 감양 ○ 연양 ○ 왕양(동등한 사이에서 사용) ○ 양존 ○ 양식 ○ 심양 ○ 작량(아래地位和 연소자에게 사용)",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

@@ -1,0 +1,29 @@
+{
+  "article_id": "D4B^49_001_0078",
+  "body_hanja": "順候\n暢祺",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "順候",
+      "label_ko": "순후",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "暢祺",
+      "label_ko": "창기",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "이 두어는는 서신 서문이나 서말에 올리는 하례의 문구이다. '순후'는形势가 순조롭다는 뜻으로 상대방의 생활이나 상황을 잘 부탁하는 의미이고, '창기'는生活가 풍족하고 안宁하다는 뜻으로 상대방의 평안을 기원하는 말이다. 이 문구는 18편 '유상(遊賞)' 편에 실린 서신서의 마지막 인사말에 해당한다.",
+  "reading_ko": "순후 창기",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0078",
+  "title_hanja": "十八、遊賞",
+  "title_ko": "십팔、유상",
+  "translation_ko": "평안无事하고 건강히 잘 부탁드립니다.",
+  "translation_status": "ok",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

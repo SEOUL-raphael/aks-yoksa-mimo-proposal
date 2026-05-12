@@ -1,0 +1,35 @@
+{
+  "article_id": "D4B^49_001_0075",
+  "body_hanja": "恭祝\n壽祺[주:或慶安]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.85,
+      "label_hanja": "壽宴",
+      "label_ko": "수연",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "壽祺",
+      "label_ko": "수기",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "恭祝",
+      "label_ko": "공축",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "수연(생일잔치) 기사에 실린 축원 문구. '공축'으로 존경과 축하之意를 갖추어 표하고, '수기'로 장수와 기쁜 일상을 빌며, 음주(혹은 경안)로 축복의 의미가 강화된 경사 문구임을 알 수 있다.",
+  "reading_ko": "공축, 수기[주:또는 경안]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0075",
+  "title_hanja": "十五、壽宴",
+  "title_ko": "십오、수연",
+  "translation_ko": "드리움과 축원을 표합니다. 수려하고 안녕하옵소서.",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

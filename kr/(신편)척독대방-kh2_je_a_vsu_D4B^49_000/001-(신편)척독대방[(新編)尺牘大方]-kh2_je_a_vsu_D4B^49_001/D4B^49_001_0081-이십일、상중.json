@@ -1,0 +1,47 @@
+{
+  "article_id": "D4B^49_001_0081",
+  "body_hanja": "省頌\n支安[주:或禮安○葬禮則云襄安]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.9,
+      "label_hanja": "省頌",
+      "label_ko": "인사말 조목",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "支安",
+      "label_ko": "지안",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "禮安",
+      "label_ko": "예안",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "襄安",
+      "label_ko": "양안",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "葬禮",
+      "label_ko": "장의",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "상 중인 사람에게 사용하는 인사말을 규정하는 단락이다. 평상시에는 '支安(지안)' 또는 '禮安(예안)'을 쓰고, 장례 과정에서는 '襄安(양안)'을 사용한다는 대체를 표기한다.",
+  "reading_ko": "성송, 지안[주: 또는 예안 ○장의칙운 양안]",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0081",
+  "title_hanja": "二十一、喪中",
+  "title_ko": "이십일、상중",
+  "translation_ko": "【인사말】 지안[주: 혹은 예안 ○장의의 경우에는 양안이라 한다]",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

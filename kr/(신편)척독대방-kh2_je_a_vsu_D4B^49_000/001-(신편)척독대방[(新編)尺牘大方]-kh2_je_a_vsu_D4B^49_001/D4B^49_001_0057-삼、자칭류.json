@@ -1,0 +1,113 @@
+{
+  "article_id": "D4B^49_001_0057",
+  "body_hanja": "罪侍生冥頑苟支[주:喪人自稱用於尊處]○罪弟頑縷苟延○罪人縷命苟存[주:喪人自稱用於平交]○侍生心制人喘息苟存[주:心制人自稱尊處用]○心制弟苟延視息○心制人頑縷不絶[주:心制人自稱平交用]侍生朞服人○侍生功服人[주:服人自稱用於尊處]朞服弟○功服弟○服弟[주:服人自稱用於平交]",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 1.0,
+      "label_hanja": "自稱類",
+      "label_ko": "자칭류",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "罪",
+      "label_ko": "죄(겸손 자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "侍生",
+      "label_ko": "사생(겸손 자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "朞服",
+      "label_ko": "기복(상服)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "功服",
+      "label_ko": "공복(상服)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "心制",
+      "label_ko": "심제(겸손 자칭)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "冥頑",
+      "label_ko": "명온(어리석고 고질)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "頑縷",
+      "label_ko": "온루(죽기 살기)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "苟支",
+      "label_ko": "구지(어떻게든 버티다)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "苟延",
+      "label_ko": "구연(어떻게든 이어가다)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "苟存",
+      "label_ko": "구존(어떻게든 남아있다)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "喘息",
+      "label_ko": "흡식(숨 쉬는 것)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "視息",
+      "label_ko": "시식(숨만 보고있다)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "不絶",
+      "label_ko": "부절(끊이지 않다)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "尊處",
+      "label_ko": "존처(윗사람에게)",
+      "type": "term"
+    },
+    {
+      "confidence": 1.0,
+      "label_hanja": "平交",
+      "label_ko": "평교(동등한 사람에게)",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "이 자료는 상인(婊人)의 자칭어(스스로를 부르는 말)를 문법적 쓰임에 따라 분류한 것이다. 크게 두 갈래로 나뉜다. 하나는 '죄～'로 시작하는 겸손 표현이고, 다른 하나는 '～복～'으로 이루어진 상服(상대의 은혜를 입은 은거)을 나타내는 표현이다. 그리고 윗사람에게 쓸 때와 동등한 사람에게 쓸 때가 구분되어 있어, 사회적 위계에 따른 예의를 반영한 문법 범주임을 알 수 있다.",
+  "reading_ko": "죄사생명온구기지 ○ 죄제온루구연 ○ 죄인루명구존 ○ 사생심제인흡식구존 ○ 심제제구연시식 ○ 심제인온루부절 ○ 사생기복인 ○ 사생공복인 ○ 기복제 ○ 공복제 ○ 복제",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0057",
+  "title_hanja": "三、自稱類",
+  "title_ko": "삼、자칭류",
+  "translation_ko": "죄사생 명온 구지 ○ 죄제 온루 구연 ○ 죄인 루명 구존 ○ 사생 심제인 흡식 구존 ○ 심제제 구연 시식 ○ 심제인 온루 부절 ○ 사생 기복인 ○ 사생 공복인 ○ 기복제 ○ 공복제 ○ 복제",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}

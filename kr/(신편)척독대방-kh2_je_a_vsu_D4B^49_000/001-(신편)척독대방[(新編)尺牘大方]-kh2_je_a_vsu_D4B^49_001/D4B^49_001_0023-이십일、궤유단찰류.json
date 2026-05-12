@@ -1,0 +1,239 @@
+{
+  "article_id": "D4B^49_001_0023",
+  "body_hanja": "(饋遺短札類)([주:尋常饋遺])附呈菲物[주:猶言薄物]야用伸芹忱[주:田夫負暄、思獻其君、其妻曰我有美芹、謂獻誠]노이다○敢將不腆[주:腆、厚也]\n(饋遺短札類)\n(([주:尋常饋遺]))야仰冀莞[주:莞、笑也]納노이다([주:賀儀饋遺])寅[주:敬也]呈蟻品[주:謂物之薄略]야申賀鴻[주:鴻、洪也]禧노라○附上數芹[주:注見上]야藉伸積悰이라([주:壽辰饋遺])附具幾種야用祈萬壽노이다○物雖菲薄이나頌切岡陵[주:詩傳云、如岡如陵、比遐壽]이라([주:婚娶饋遺])戔戔[주:周易云、束帛戔戔]微物로仰資卺[주:謂醮盃]筵이라○薄物數種을聊佐醮[주:醮禮]儀라([주:婚嫁饋遺])菲物幾種을聊佐香奩이라○玆將幾色야仰資粧助노이다([주:生産饋遺])奉呈菲芹야仰資湯餠[주:唐俗、凡人家生子、三日、設湯餠、餉賀客]이라○奉將[주:將、贈也]盈筐야仰賀璋慶[주:詩傳云、載生男子、載弄之璋]이라([주:喪葬饋遺])敬將楮蠟[주:紙燭]야藉伸弔儀라○附具菲品야仰慰紼儀[주:葬儀]노이다([주:贐儀饋遺])不腆之將[주:將、奉也]은聊資盤費고水陸行幰은萬祈珍重노이다([주:元旦饋遺])聊將薄儀야仰資椒觴[주:注見上]이라○附具寅貢[주:謂敬呈]야仰佐辛盤[주:注見上]노이다([주:元宵饋遺])聊呈屠蘇[주:舊俗、正月元日、飮屠蘇酒]야仰佐傳柑[주:唐俗、正月元日、傳柑貴戚]이라○敬進桃湯[주:舊俗、正月元日、服桃湯]야聊資麵蠒[주:舊俗、正月元日、造麵蠒爲戲]노이다\n([주:淸明饋遺])藉呈杏酩[주:注見上]니留飮佳辰[주:杜詩云、佳辰强飮食猶寒]소서([주:端午饋遺])謹將蒲香[주:菖華酒]야用祈長命[주:舊俗、五月五日、繫長命縷]노이다○滿籠櫻桃[주:杜詩云、西蜀櫻桃也自紅、野人相贈滿筠籠]를倘希嘗味아([주:中秋饋遺])[교정주:([주:中秋饋遺])]謹將北海[주:孔融詩云、樽中酒不空、號曰北海]菲酌야藉助南棲[주:庾亮南樓、注見上]佳興노이다([주:重陽饋遺])玆將蟻泛之香[주:酒有泛齊、如浮蟻在上泛泛然]야仰資龍山之飮[주:孟嘉、九日龍山飮]노이다○聊以白衣之送[주:注見上]으로仰資黃菊之觴노이다([주:冬至饋遺])聊寄羅浮春色[주:梅花詩云、羅浮山下梅花村]야以迓南至日陽노이다([주:除夕饋遺])薄具數芹야仰資守歲노이다",
+  "book_id": "kh2_je_a_vsu_D4B^49_000",
+  "book_title_hanja": "(新編) 尺牘大方",
+  "book_title_ko": "(신편) 척독대방",
+  "entities": [
+    {
+      "confidence": 0.95,
+      "label_hanja": "饋遺",
+      "label_ko": "궤유(선물赠送)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "短札",
+      "label_ko": "단찰(짧은 서간文)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "莞納",
+      "label_ko": "완납(환히笑意로 받다)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "腆",
+      "label_ko": "전(후하다, 풍족하다)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "",
+      "label_ko": "근침(소박한 진심)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "蟻品",
+      "label_ko": "의품(螞蟻처럼 작은 물건)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "鴻禧",
+      "label_ko": "홍희(대단한 다행)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "卺",
+      "label_ko": "잠(合卺宴의厄)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "湯餅",
+      "label_ko": "탕병(생신三日の祝宴)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "장경(아들의 탄생을 기림)",
+      "label_ko": "",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "楮蠟",
+      "label_ko": "촉랍(제물·초)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "紼儀",
+      "label_ko": "축의(장의·상례)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "椒觴",
+      "label_ko": "초상(술)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "辛盤",
+      "label_ko": "신반(、五辛盤)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.95,
+      "label_hanja": "屠蘇",
+      "label_ko": "도소(屠蘇酒)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "傳柑",
+      "label_ko": "전감(傳柑의俗)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "桃湯",
+      "label_ko": "도탕(桃湯)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "麵蠒",
+      "label_ko": "면견(맷노름)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "杏酩",
+      "label_ko": "행명(명주)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "蒲香",
+      "label_ko": "포향(창포酒)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "長命縷",
+      "label_ko": "장명루(단오의 실)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "北海",
+      "label_ko": "북해(북해의 술)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "南棲",
+      "label_ko": "남서(남루)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "龍山之飮",
+      "label_ko": "용산지의 음(孟嘉)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "白衣之送",
+      "label_ko": "백의지 송(도적送酒)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "羅浮春色",
+      "label_ko": "나부춘색(매실)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "守歲",
+      "label_ko": "수세(歲暮守夜)",
+      "type": "term"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "孔融",
+      "label_ko": "공융",
+      "type": "person"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "孟嘉",
+      "label_ko": "맹가",
+      "type": "person"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "陶淵明",
+      "label_ko": "도연명",
+      "type": "person"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "龍山",
+      "label_ko": "용산",
+      "type": "place"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "羅浮山",
+      "label_ko": "나부산",
+      "type": "place"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "南樓",
+      "label_ko": "남루(庾亮南樓)",
+      "type": "place"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "詩傳",
+      "label_ko": "시전(시경傳)",
+      "type": "work"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "杜詩",
+      "label_ko": "두시(杜甫 시)",
+      "type": "work"
+    },
+    {
+      "confidence": 0.9,
+      "label_hanja": "周易",
+      "label_ko": "주역",
+      "type": "work"
+    },
+    {
+      "confidence": 0.85,
+      "label_hanja": "膏肓",
+      "label_ko": "고황(큰 다행)",
+      "type": "term"
+    }
+  ],
+  "meaning_ko": "조선 시대 선물進獻과 서간文에 사용되는 다양한 표현範疇를 항목별로 분류整理한 문서이다. 일상적인 인사 선물부터 경축(賀儀), 혼인, 출산, 장례, 제빙(贐儀), 그리고 주요 명절(원단, 정월대보름, 명절, 단오, 중추, 중양, 동지, 납월)별로适用的 선물文과祝辭를 수록하고 있다. 각 표현은 반드시 작은 선물에谦遜語를 붙이고, 그 마음을 진심으로 표현하는 형식을 취한다.",
+  "reading_ko": "이십일, 궤유 단찰 누리",
+  "source_url": "http://yoksa.aks.ac.kr/jsp/aa/VolView.jsp?aa10no=kh2_je_a_vsu_D4B%5E49_001&aa15no=001&aa20no=D4B%5E49_001_0023",
+  "title_hanja": "二十一、饋遺短札類",
+  "title_ko": "이십일、궤유단찰류",
+  "translation_ko": "이십일, 선물赠送 및 짧은 서간文類",
+  "translation_status": "failed",
+  "volume_id": "kh2_je_a_vsu_D4B^49_001"
+}
