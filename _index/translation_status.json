@@ -1,16 +1,21 @@
 {
-  "snapshot_at_kst": "2026-05-12 09:59",
+  "snapshot_at_kst": "2026-05-12 18:20",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
   "books": 439,
   "volumes": 1325,
   "articles": 113150,
   "translatable_articles": 112287,
   "queue": {
-    "pending": 108813,
-    "running": 4,
-    "ok": 940,
-    "failed": 2530,
+    "pending": 107397,
+    "running": 3,
+    "ok": 1206,
+    "failed": 3681,
     "total": 112287
+  },
+  "graph_index": {
+    "nodes": 5209,
+    "edges": 9300,
+    "entity_linked_translated_articles": 1169
   },
   "worker": {
     "mode": "sqlite_queue",
@@ -23,6 +28,7 @@
     "translation_attempts": "_index/translations_progress.jsonl",
     "project_description": "PROJECT.md",
     "roadmap": "ROADMAP.md",
-    "status": "STATUS.md"
+    "status": "STATUS.md",
+    "dashboard_screenshot": "assets/dashboard-current.png"
   }
 }

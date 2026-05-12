@@ -29,8 +29,13 @@
 - 권책: 1,325건
 - 기사: 113,150건
 - 본문 있는 번역 대상: 112,287건
-- 최근 스냅샷 기준 번역 성공: 940건
-- 최근 스냅샷 기준 번역 실패: 2,530건
+- 최근 스냅샷 기준 번역 성공: 1,206건
+- 최근 스냅샷 기준 번역 실패: 3,681건
+- 지식 그래프 색인: 노드 5,209개, 엣지 9,300개
+
+## 진행 화면
+
+![AKS Yoksa dashboard](assets/dashboard-current.png)
 
 ## 현재 전략
 
@@ -86,3 +91,5 @@ The intended MiMo usage includes:
 ## Status
 
 This is not a final corpus release. It is a progress snapshot for transparent review, model-credit application, and continued public versioning.
+
+The latest dashboard snapshot shows 1,206 completed translations, 3,681 preserved failed attempts, 107,397 pending jobs, and a rebuilt knowledge-graph index with 5,209 nodes and 9,300 edges.

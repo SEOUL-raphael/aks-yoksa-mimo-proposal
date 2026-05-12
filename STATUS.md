@@ -1,6 +1,6 @@
 # Progress Status
 
-Snapshot time: 2026-05-12 09:59 KST
+Snapshot time: 2026-05-12 18:20 KST
 
 ## Source Tree
 
@@ -11,11 +11,17 @@ Snapshot time: 2026-05-12 09:59 KST
 
 ## Translation Queue
 
-- Pending: 108,813
-- Running: 4
-- OK: 940
-- Failed: 2,530
+- Pending: 107,397
+- Running: 3
+- OK: 1,206
+- Failed: 3,681
 - Total: 112,287
+
+## Dashboard Snapshot
+
+- Local dashboard screenshot: `assets/dashboard-current.png`
+- Graph index after rebuild: 5,209 nodes, 9,300 edges
+- Entity-linked translated articles: 1,169
 
 ## Runtime
 
