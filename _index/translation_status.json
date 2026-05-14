@@ -1,15 +1,15 @@
 {
-  "snapshot_at_kst": "2026-05-13 18:15",
+  "snapshot_at_kst": "2026-05-14 12:15",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
   "books": 439,
   "volumes": 1325,
   "articles": 113150,
   "translatable_articles": 112287,
   "queue": {
-    "pending": 102369,
-    "running": 7,
-    "ok": 2755,
-    "failed": 7156,
+    "pending": 98973,
+    "running": 12,
+    "ok": 3695,
+    "failed": 9607,
     "total": 112287
   },
   "graph_index": {
