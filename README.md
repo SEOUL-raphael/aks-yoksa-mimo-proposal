@@ -10,7 +10,8 @@
 - `ROADMAP.md`: 원문 공개, 번역, 색인, 지식 그래프 계획
 - `STATUS.md`: 현재 번역 큐와 진행 현황
 - `_index/translation_status.json`: 기계 처리용 진행 현황 스냅샷
-- `_index/translations_progress.jsonl`: 현재까지의 번역 성공/실패 시도 로그
+- `_index/translations_progress.jsonl`: 최근 번역 성공/실패 시도 샘플
+- `_index/translations_progress.full.jsonl.gz`: 전체 번역 성공/실패 시도 로그 압축본
 
 ## 저장 구조
 
@@ -21,7 +22,8 @@
 - `kr/{서명}/{권책}/{기사}.json`: 기계 처리용 기사 레코드
 - `_index/books.jsonl`: 서지 색인
 - `_index/articles.jsonl.zip`: 기사 색인 압축본
-- `_index/translations_progress.jsonl`: 번역 진행 스냅샷
+- `_index/translations_progress.jsonl`: 최근 번역 진행 샘플
+- `_index/translations_progress.full.jsonl.gz`: 전체 번역 진행 스냅샷 압축본
 
 ## 현재 규모
 
@@ -29,8 +31,8 @@
 - 권책: 1,325건
 - 기사: 113,150건
 - 본문 있는 번역 대상: 112,287건
-- 최근 스냅샷 기준 번역 성공: 4,689건
-- 최근 스냅샷 기준 번역 실패: 12,969건
+- 최근 스냅샷 기준 번역 성공: 8,631건
+- 최근 스냅샷 기준 번역 실패: 23,715건
 - 지식 그래프 색인: 노드 5,209개, 엣지 9,300개
 
 ## 진행 화면
@@ -72,7 +74,8 @@ The immediate goal is to publish a verifiable source-text tree and a translation
 - `kr/{book}/{volume}/{article}.json`: machine-readable article record
 - `_index/books.jsonl`: book index
 - `_index/articles.jsonl.zip`: compressed article index
-- `_index/translations_progress.jsonl`: current translation attempt log
+- `_index/translations_progress.jsonl`: recent translation attempt sample
+- `_index/translations_progress.full.jsonl.gz`: compressed full translation attempt log
 - `_index/translation_status.json`: machine-readable progress snapshot
 
 ## Translation Strategy
@@ -92,4 +95,4 @@ The intended MiMo usage includes:
 
 This is not a final corpus release. It is a progress snapshot for transparent review, model-credit application, and continued public versioning.
 
-The latest dashboard snapshot shows 4,689 completed translations, 12,969 preserved failed attempts, 94,629 pending jobs, and a rebuilt knowledge-graph index with 5,209 nodes and 9,300 edges.
+The latest dashboard snapshot shows 8,631 completed translations, 23,715 preserved failed attempts, 79,929 pending jobs, and a rebuilt knowledge-graph index with 5,209 nodes and 9,300 edges.

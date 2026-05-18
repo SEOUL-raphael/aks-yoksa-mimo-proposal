@@ -1,6 +1,6 @@
 # Progress Status
 
-Snapshot time: 2026-05-15 18:07 KST
+Snapshot time: 2026-05-18 10:00 KST
 
 ## Source Tree
 
@@ -11,10 +11,10 @@ Snapshot time: 2026-05-15 18:07 KST
 
 ## Translation Queue
 
-- Pending: 94,629
-- Running: 0
-- OK: 4,689
-- Failed: 12,969
+- Pending: 79,929
+- Running: 12
+- OK: 8,631
+- Failed: 23,715
 - Total: 112,287
 
 ## Dashboard Snapshot
@@ -33,7 +33,8 @@ Snapshot time: 2026-05-15 18:07 KST
 
 ## Included Progress Files
 
-- `_index/translations_progress.jsonl`: current translation attempt snapshot
+- `_index/translations_progress.jsonl`: recent translation attempt sample
+- `_index/translations_progress.full.jsonl.gz`: compressed full translation attempt snapshot
 - `_index/translation_status.json`: queue/status summary for the snapshot
 
 ## Notes
