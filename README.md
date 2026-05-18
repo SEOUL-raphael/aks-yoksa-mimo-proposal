@@ -31,8 +31,8 @@
 - 권책: 1,325건
 - 기사: 113,150건
 - 본문 있는 번역 대상: 112,287건
-- 최근 스냅샷 기준 번역 성공: 9,025건
-- 최근 스냅샷 기준 번역 실패: 24,937건
+- 최근 스냅샷 기준 번역 성공: 9,705건
+- 최근 스냅샷 기준 번역 실패: 26,841건
 - 지식 그래프 색인: 노드 5,209개, 엣지 9,300개
 
 ## 진행 화면
@@ -95,4 +95,4 @@ The intended MiMo usage includes:
 
 This is not a final corpus release. It is a progress snapshot for transparent review, model-credit application, and continued public versioning.
 
-The latest dashboard snapshot shows 9,025 completed translations, 24,937 preserved failed attempts, 78,321 pending jobs, and a rebuilt knowledge-graph index with 5,209 nodes and 9,300 edges.
+The latest dashboard snapshot shows 9,705 completed translations, 26,841 preserved failed attempts, 75,729 pending jobs, and a rebuilt knowledge-graph index with 5,209 nodes and 9,300 edges.
