@@ -1,6 +1,6 @@
 # Progress Status
 
-Snapshot time: 2026-05-18 10:00 KST
+Snapshot time: 2026-05-18 19:00 KST
 
 ## Source Tree
 
@@ -11,10 +11,10 @@ Snapshot time: 2026-05-18 10:00 KST
 
 ## Translation Queue
 
-- Pending: 79,929
-- Running: 12
-- OK: 8,631
-- Failed: 23,715
+- Pending: 78,321
+- Running: 4
+- OK: 9,025
+- Failed: 24,937
 - Total: 112,287
 
 ## Dashboard Snapshot
