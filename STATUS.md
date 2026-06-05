@@ -1,41 +1,28 @@
-# Progress Status
+# Status
 
-Snapshot time: 2026-05-13 18:15 KST
-
-## Source Tree
-
-- Books: 439
-- Volumes: 1,325
-- Articles: 113,150
-- Translatable articles with body text: 112,287
+Updated: 2026-06-05T05:59:30.324777+00:00
 
 ## Translation Queue
 
-- Pending: 102,369
-- Running: 7
-- OK: 2,755
-- Failed: 7,156
 - Total: 112,287
+- OK: 28,079
+- Failed: 79,451
+- Pending: 4,697
+- Running: 60
 
-## Dashboard Snapshot
+## Public Snapshot
 
-- Local dashboard screenshot: `assets/dashboard-current.png`
-- Graph index after rebuild: 5,209 nodes, 9,300 edges
-- Entity-linked translated articles: 1,169
+- Publishes successful translation rows only.
+- Excludes failed-attempt logs, secrets, raw HTML cache, SQLite DBs, logs, and local runtime files.
+- Includes cleaned Hanmun source text for successful rows and a `kr/` path-based sample tree.
 
-## Runtime
+## Cleanup
 
-- Worker mode: SQLite queue
-- Batch size: 12
-- Workers: 3
-- Backoff: 1 hour for token, quota, auth, or rate-limit style errors
-- Watchdog: pause 10 minutes after three all-failed batches
+- Removed AKS viewer navigation artifacts from canonical article bodies and public tree: `????`, `????`, `?`.
+- Requeued affected translation results locally for retry.
 
-## Included Progress Files
+## Next
 
-- `_index/translations_progress.jsonl`: current translation attempt snapshot
-- `_index/translation_status.json`: queue/status summary for the snapshot
-
-## Notes
-
-This is a progress snapshot. The canonical text layer is the Hanja source tree. Korean translation, reading, meaning, and entity data are derivative layers and will be updated continuously as MiniMax and MiMo runs progress.
+- Continue first-pass queue completion.
+- Retry failed rows after additional MiniMax/MiMo capacity is available.
+- Refresh KG and search indexes after the full first-pass queue is complete.

@@ -1,34 +1,25 @@
 {
-  "snapshot_at_kst": "2026-05-13 18:15",
-  "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
-  "books": 439,
-  "volumes": 1325,
-  "articles": 113150,
-  "translatable_articles": 112287,
+  "created_at": "2026-06-05T06:01:00.202298+00:00",
+  "excluded_success_rows_with_viewer_artifact_terms": [
+    "20318_003_0142",
+    "20318_002_0039",
+    "23300_004_0091",
+    "23626_001_0027"
+  ],
+  "published_files": {
+    "articles_success.jsonl.gz": "Successful translations joined with cleaned canonical Hanmun source and source metadata.",
+    "translations_success.jsonl.gz": "Successful translation records only.",
+    "translations_success_sample.jsonl": "First 100 successful joined records for quick review."
+  },
+  "published_success_rows": 28075,
+  "quality_note": "AKS viewer navigation artifacts such as ????/????/? were removed from canonical article bodies and the public kr tree before this snapshot.",
   "queue": {
-    "pending": 102369,
-    "running": 7,
-    "ok": 2755,
-    "failed": 7156,
+    "failed": 79456,
+    "ok": 28079,
+    "pending": 4697,
+    "running": 55,
     "total": 112287
   },
-  "graph_index": {
-    "nodes": 5209,
-    "edges": 9300,
-    "entity_linked_translated_articles": 1169
-  },
-  "worker": {
-    "mode": "sqlite_queue",
-    "batch_size": 12,
-    "workers": 3,
-    "token_or_quota_backoff_seconds": 3600,
-    "all_failed_watchdog_pause_seconds": 600
-  },
-  "files": {
-    "translation_attempts": "_index/translations_progress.jsonl",
-    "project_description": "PROJECT.md",
-    "roadmap": "ROADMAP.md",
-    "status": "STATUS.md",
-    "dashboard_screenshot": "assets/dashboard-current.png"
-  }
+  "security_note": "API keys, raw HTML cache, local SQLite databases, logs, venv folders, process files, and failed-attempt logs are excluded from this public snapshot.",
+  "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st"
 }
