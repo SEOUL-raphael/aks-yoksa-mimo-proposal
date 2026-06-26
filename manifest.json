@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-06-26T09:29:53.860191+00:00",
+  "exported_books": 337,
+  "exported_successful_articles": 50275,
+  "latest_translation_rows_seen": 223864,
+  "layout": "kr/{book}/book.json + volumes.jsonl + articles.jsonl",
+  "name": "aks-yoksa-mimo-proposal",
+  "notes": [
+    "The prior per-article file tree was too large for reliable GitHub browsing.",
+    "This rebuild keeps a legalize-style kr/{book} tree but shards records by book instead of storing one global JSON file.",
+    "Failed translation attempts, raw HTML, SQLite files, logs, and secrets are excluded."
+  ],
+  "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
+  "translation_status": "ok only in public article shards"
+}
