@@ -1,23 +1,34 @@
-# AKS Yoksa Mimo Proposal Dataset
+# AKS 역사지식 고도서 번역 스냅샷
 
-This repository publishes the current successful AKS Yoksa translation snapshot in a GitHub-browsable, legalize-style tree.
+이 저장소는 한국학중앙연구원 장서각 역사지식의 고도서 본문텍스트를 수집하고, 한문 원문을 기준으로 한국어 번역, 독음, 의미 요약을 덧붙인 공개 스냅샷입니다.
 
-The layout is intentionally split by book rather than shipped as one large JSON file:
+핵심 원칙은 한문 원문을 항상 기준 자료로 보존하고, 번역과 독음은 검색, 열람, 지식 그래프 구축을 위한 파생 레이어로 두는 것입니다. 이후 번역 모델이나 프롬프트가 개선되면 한국어 레이어는 다시 생성할 수 있지만, 원문과 출처 URL은 검증 기준으로 계속 남습니다.
 
-- `kr/<book>/README.md`
-- `kr/<book>/book.json`
-- `kr/<book>/volumes.jsonl`
-- `kr/<book>/articles.jsonl`
-- `kr/<book>/haje.md` when available
-- `_index/books.jsonl`
-- `_index/articles.jsonl`
+## 구성
 
-## Current Snapshot
+- `kr/<책>/articles.jsonl`: 책 단위로 나눈 기계 판독용 기사 데이터입니다.
+- `kr-md/<책>/<기사>.md`: GitHub에서 바로 읽을 수 있는 개별 기사 Markdown입니다.
+- `_index/books.jsonl`: 책 경로와 기본 메타데이터 색인입니다.
+- `_index/articles.jsonl`: 기사별 JSONL 경로와 Markdown 경로를 함께 담은 색인입니다.
+- `_index/articles_md.jsonl`: Markdown 페이지 경로 전용 색인입니다.
+- `manifest.json`: 생성 시각, 공개 건수, 레이아웃, 공개 제외 범위를 담은 메타데이터입니다.
 
-- Exported books: 337
-- Successful translated articles: 50,275
-- Translation status included here: `ok` only
-- Canonical layer: Hanmun source text
-- Derived layers: Korean translation, Korean reading, meaning summary, entities, uncertainty notes
+## 현재 공개 범위
 
-Failed attempts remain local retry candidates and are not published in this repository.
+- 공개 책 수: 342건
+- 성공 번역 기사: 52,889건
+- 공개 상태: 성공(`ok`) 번역만 포함
+- 기준 레이어: 한문 원문
+- 파생 레이어: 한국어 번역, 독음, 의미 요약, 엔티티 후보, 불확실 어휘
+
+실패 번역, 원본 HTML, SQLite 색인, 로그, 환경변수와 비밀키는 이 저장소에 올리지 않습니다. 실패분과 품질 점검 대상은 로컬 작업 큐에서 재시도 대상으로 관리합니다.
+
+## 읽는 방법
+
+사람이 읽을 때는 `kr-md/` 아래의 개별 Markdown 파일을 보면 됩니다. 각 문서는 `한글 번역 -> 독음 -> 의미 -> 원문` 순서로 정리되어 있고, 검증을 위해 기사 ID와 원문 출처 URL을 함께 제공합니다.
+
+프로그램으로 다룰 때는 `kr/`의 책별 `articles.jsonl` 또는 `_index/`의 색인 파일을 사용하면 됩니다.
+
+## 데이터 성격
+
+이 자료는 학술 인용을 대신하는 완성본이 아니라, 원문 보존과 대량 번역, 색인 실험을 함께 진행하기 위한 공개 작업본입니다. 한문 원문과 출처 URL을 우선 신뢰하고, 번역, 독음, 의미 요약은 검토 가능한 보조 정보로 사용해 주세요.

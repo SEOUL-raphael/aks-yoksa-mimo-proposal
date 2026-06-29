@@ -1,14 +1,19 @@
 # 단란
 
-- Book ID: `kh2_je_a_vsu_20039_000`
-- Successful translated articles in this book: 140
-- Volumes listed: 13
+- 책 ID: `kh2_je_a_vsu_20039_000`
+- 한자 서명: 斷爛
+- 저자: 이영우(조선) 편
+- 연도: 寫年未詳
+- 성공 번역 기사: 167건
+- 공개 권책 수: 13건
+- 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20039_000
 
-## Files
+## 파일
 
-- `book.json`: bibliography and source metadata.
-- `volumes.jsonl`: volume-level metadata.
-- `articles.jsonl`: successful article records split by book. Each row keeps Hanmun source, Korean translation, reading, meaning, entities, model metadata, and source URL.
-- `haje.md`: book explanation text when available.
+- `book.json`: 서지와 원천 메타데이터
+- `volumes.jsonl`: 권책 단위 메타데이터
+- `articles.jsonl`: 이 책에 속한 성공 번역 기사 데이터
+- `../kr-md/단란-kh2_je_a_vsu_20039_000/`: 개별 기사 Markdown 페이지
+- `haje.md`: 해제가 있는 경우 제공되는 책 설명
 
-Hanmun source text is canonical. Korean translation, reading, and meaning are derived layers.
+한문 원문은 기준 레이어이고, 한국어 번역·독음·의미 요약은 파생 레이어입니다.

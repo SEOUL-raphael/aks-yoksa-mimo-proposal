@@ -1,8 +1,13 @@
-# Status
+# 현재 상태
 
-Updated: 2026-06-26 KST
+갱신 시각: 2026-06-29 18:56:51 KST
 
-- Exported successful articles: 50,275
-- Exported books: 337
-- Public layout: book-sharded legalize-style tree
-- Local retry queue remains active outside this repository.
+- 공개 책 수: 342건
+- 성공 번역 기사: 52,889건
+- 확인한 번역 로그 행: 241,571행
+- 공개 구조: 책 단위 JSONL + 개별 기사 Markdown
+- 공개 범위: 성공(`ok`) 번역만 포함
+- 제외 범위: 실패 번역, 원본 HTML, SQLite 색인, 로그, 환경변수, 비밀키
+- 로컬 번역 큐: 공개 저장소 밖에서 계속 진행 중
+
+이번 스냅샷은 완성본이 아니라 진행 중인 공개 작업본입니다. 원문 한문과 출처 URL을 기준으로 검증하고, 한국어 번역, 독음, 의미 요약은 개선 가능한 파생 결과로 봅니다.

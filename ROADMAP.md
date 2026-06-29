@@ -1,6 +1,8 @@
-# Roadmap
+# 향후 작업
 
-- Continue MiniMax retry passes for failed rows.
-- Refresh the public snapshot after the next success milestone.
-- Rebuild local SQLite FTS and knowledge-graph indexes after translation stabilizes.
-- Add richer entity normalization for people, places, offices, and text titles.
+- MiniMax 번역 큐를 계속 진행해 성공 번역 범위를 넓힌다.
+- 실패, 저품질 번역은 별도 상태로 보존한 뒤 모델, 프롬프트, 분할 단위를 조정해 재시도한다.
+- 원문에 섞인 탐색 문구, 판독불명 문자, 비정상 문자를 지속적으로 점검한다.
+- 인명, 지명, 관직명, 문헌명 엔티티를 정규화해 지식 그래프 노드와 엣지로 확장한다.
+- 한문 검색, 한국어 번역 검색, 독음 검색, 엔티티 검색을 분리한 하이브리드 색인을 개선한다.
+- 공개 스냅샷은 성공 번역과 보안 점검이 끝난 범위부터 주기적으로 갱신한다.

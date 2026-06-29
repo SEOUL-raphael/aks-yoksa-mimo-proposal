@@ -1,5 +1,7 @@
-# Project
+# 프로젝트 취지
 
-AKS Yoksa classical Chinese source text is ingested as canonical Hanmun. Korean translation, reading, meaning, and entity candidates are stored as derived layers for search, review, and future knowledge-graph construction.
+이 프로젝트의 목표는 장서각 역사지식 고도서 본문을 한문 원문 기준으로 보존하면서, 한국어 번역, 독음, 의미 요약, 엔티티 후보를 함께 쌓아 검색과 지식 그래프 구축이 가능한 형태로 정리하는 것입니다.
 
-This public repository is a progress artifact for model-capacity and review purposes. It excludes secrets, logs, raw HTML caches, SQLite runtime databases, and failed-attempt payload dumps.
+번역문만을 기준 데이터로 삼으면 인명, 관직명, 지명, 이체자, 원문 인용의 정확도가 흔들릴 수 있습니다. 그래서 원문 한문을 canonical 레이어로 두고, 한국어 결과는 사용자 열람과 검색을 돕는 파생 레이어로 관리합니다.
+
+현재 저장소는 성공 번역된 자료만 공개한 GitHub 브라우징용 스냅샷입니다. 실패분, 재시도 큐, 원본 HTML, SQLite 색인, 로그와 인증 정보는 공개 저장소에서 제외합니다.

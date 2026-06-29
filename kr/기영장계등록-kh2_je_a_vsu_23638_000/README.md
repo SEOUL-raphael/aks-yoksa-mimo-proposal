@@ -1,14 +1,19 @@
 # 기영장계등록
 
-- Book ID: `kh2_je_a_vsu_23638_000`
-- Successful translated articles in this book: 39
-- Volumes listed: 6
+- 책 ID: `kh2_je_a_vsu_23638_000`
+- 한자 서명: 畿營狀啓謄錄n1-6책
+- 저자: 경기도감영(조선) 편
+- 연도: 正祖 7 - 8(1783 - 1784) 寫
+- 성공 번역 기사: 58건
+- 공개 권책 수: 6건
+- 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23638_000
 
-## Files
+## 파일
 
-- `book.json`: bibliography and source metadata.
-- `volumes.jsonl`: volume-level metadata.
-- `articles.jsonl`: successful article records split by book. Each row keeps Hanmun source, Korean translation, reading, meaning, entities, model metadata, and source URL.
-- `haje.md`: book explanation text when available.
+- `book.json`: 서지와 원천 메타데이터
+- `volumes.jsonl`: 권책 단위 메타데이터
+- `articles.jsonl`: 이 책에 속한 성공 번역 기사 데이터
+- `../kr-md/기영장계등록-kh2_je_a_vsu_23638_000/`: 개별 기사 Markdown 페이지
+- `haje.md`: 해제가 있는 경우 제공되는 책 설명
 
-Hanmun source text is canonical. Korean translation, reading, and meaning are derived layers.
+한문 원문은 기준 레이어이고, 한국어 번역·독음·의미 요약은 파생 레이어입니다.
