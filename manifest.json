@@ -1,26 +1,31 @@
 {
-  "canonical_layer": "한문 원문",
-  "created_at": "2026-06-29T07:36:45.839948+00:00",
-  "derived_layers": [
-    "한국어 번역",
-    "독음",
-    "의미 요약",
-    "엔티티 후보",
-    "불확실 어휘"
-  ],
-  "description_ko": "한국학중앙연구원 장서각 역사지식 고도서 본문텍스트를 대상으로 한 원문 보존, 한국어 번역, 독음, 의미 요약 공개 스냅샷",
-  "exported_books": 342,
-  "exported_successful_articles": 52889,
-  "latest_translation_rows_seen": 241571,
-  "layout": "kr/{book}/articles.jsonl 및 kr-md/{book}/{article}.md",
-  "name": "aks-yoksa-public-translation-snapshot",
-  "notes": [
-    "한문 원문은 검증과 재번역을 위한 기준 레이어로 유지한다.",
-    "한국어 번역, 독음, 의미 요약, 엔티티 후보는 파생 레이어이며 모델과 프롬프트 개선에 따라 갱신될 수 있다.",
-    "책 단위 JSONL은 기계 판독용이고, kr-md의 개별 Markdown 파일은 GitHub 브라우징과 인용 검토용이다.",
-    "실패 번역, 원본 HTML, SQLite 색인, 로그, 환경변수와 비밀키는 공개 저장소에 포함하지 않는다.",
-    "원천에 유니코드 대체 문자가 있던 부분은 [판독불명]으로 표시하여 품질 점검 대상임을 드러낸다."
-  ],
+  "name": "aks-yoksa-public-md-snapshot",
+  "created_at_kst": "2026-06-30T12:28:00+09:00",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
-  "translation_status": "성공(ok) 번역만 공개 스냅샷에 포함"
+  "layout": "markdown-first: kr/books/{book_id}/README.md + part-001.md",
+  "published_books": 343,
+  "published_articles": 52935,
+  "translation_result_counts_seen": {
+    "failed": 59334,
+    "ok": 52953
+  },
+  "translation_queue_counts_seen": {
+    "failed": 39946,
+    "ok": 52953,
+    "pending": 19356,
+    "running": 32
+  },
+  "excluded_ok_empty_translation": 18,
+  "models": {
+    "MiniMax-M2.7": 52935
+  },
+  "public_scope": "MiniMax 성공(ok) 번역 중 번역문이 비어 있지 않은 항목만 포함",
+  "excluded_from_public_repo": [
+    "API 키와 환경변수",
+    "원본 HTML",
+    "SQLite DB",
+    "로그 파일",
+    "실패 번역 전문",
+    "대용량 전역 기사 JSONL"
+  ]
 }
