@@ -237,113 +237,116 @@
 | 231 | [동국시호](../kr/books/kh2_je_a_vsu_21737_000/README.md) | `kh2_je_a_vsu_21737_000` | 112 |
 | 232 | [동국신속삼강항실찬집청의궤](../kr/books/kh2_je_a_vsu_23641_000/README.md) | `kh2_je_a_vsu_23641_000` | 119 |
 | 233 | [동국역대총목](../kr/books/kh2_je_a_vsu_20046_000/README.md) | `kh2_je_a_vsu_20046_000` | 5 |
-| 234 | [동궁일록](../kr/books/kh2_je_a_vsu_20050_000/README.md) | `kh2_je_a_vsu_20050_000` | 7362 |
-| 235 | [동래부계록](../kr/books/kh2_je_a_vsu_23642_000/README.md) | `kh2_je_a_vsu_23642_000` | 135 |
+| 234 | [동궁일록](../kr/books/kh2_je_a_vsu_20050_000/README.md) | `kh2_je_a_vsu_20050_000` | 8290 |
+| 235 | [동래부계록](../kr/books/kh2_je_a_vsu_23642_000/README.md) | `kh2_je_a_vsu_23642_000` | 211 |
 | 236 | [동묘영접록](../kr/books/kh2_je_a_vsu_22440_000/README.md) | `kh2_je_a_vsu_22440_000` | 2 |
-| 237 | [동번대의](../kr/books/kh2_je_a_vsu_20196_000/README.md) | `kh2_je_a_vsu_20196_000` | 68 |
-| 238 | [동북안사록](../kr/books/kh2_je_a_vsu_20197_000/README.md) | `kh2_je_a_vsu_20197_000` | 66 |
-| 239 | [동사례](../kr/books/kh2_je_a_vsu_20198_000/README.md) | `kh2_je_a_vsu_20198_000` | 3 |
-| 240 | [동사초](../kr/books/kh2_je_a_vsu_20199_000/README.md) | `kh2_je_a_vsu_20199_000` | 53 |
-| 241 | [동사촬요](../kr/books/kh2_je_a_vsu_20200_000/README.md) | `kh2_je_a_vsu_20200_000` | 4 |
-| 242 | [동사팔현실기](../kr/books/kh2_je_a_vsu_B9C-114_000/README.md) | `kh2_je_a_vsu_B9C^114_000` | 1 |
-| 243 | [동소만록](../kr/books/kh2_je_a_vsu_20201_000/README.md) | `kh2_je_a_vsu_20201_000` | 106 |
-| 244 | [동영장계등록](../kr/books/kh2_je_a_vsu_23309_000/README.md) | `kh2_je_a_vsu_23309_000` | 10 |
-| 245 | [동진일기](../kr/books/kh2_je_a_vsu_20202_000/README.md) | `kh2_je_a_vsu_20202_000` | 205 |
-| 246 | [동환록](../kr/books/kh2_je_a_vsu_25116_000/README.md) | `kh2_je_a_vsu_25116_000` | 84 |
-| 247 | [등록](../kr/books/kh2_je_a_vsu_22149_000/README.md) | `kh2_je_a_vsu_22149_000` | 225 |
-| 248 | [등록](../kr/books/kh2_je_a_vsu_23643_000/README.md) | `kh2_je_a_vsu_23643_000` | 9 |
-| 249 | [만기](../kr/books/kh2_je_a_vsu_B6B-114_000/README.md) | `kh2_je_a_vsu_B6B^114_000` | 6 |
+| 237 | [동번대의](../kr/books/kh2_je_a_vsu_20196_000/README.md) | `kh2_je_a_vsu_20196_000` | 93 |
+| 238 | [동북안사록](../kr/books/kh2_je_a_vsu_20197_000/README.md) | `kh2_je_a_vsu_20197_000` | 76 |
+| 239 | [동사례](../kr/books/kh2_je_a_vsu_20198_000/README.md) | `kh2_je_a_vsu_20198_000` | 4 |
+| 240 | [동사초](../kr/books/kh2_je_a_vsu_20199_000/README.md) | `kh2_je_a_vsu_20199_000` | 70 |
+| 241 | [동사촬요](../kr/books/kh2_je_a_vsu_20200_000/README.md) | `kh2_je_a_vsu_20200_000` | 6 |
+| 242 | [동사팔현실기](../kr/books/kh2_je_a_vsu_B9C-114_000/README.md) | `kh2_je_a_vsu_B9C^114_000` | 2 |
+| 243 | [동소만록](../kr/books/kh2_je_a_vsu_20201_000/README.md) | `kh2_je_a_vsu_20201_000` | 141 |
+| 244 | [동영장계등록](../kr/books/kh2_je_a_vsu_23309_000/README.md) | `kh2_je_a_vsu_23309_000` | 14 |
+| 245 | [동진일기](../kr/books/kh2_je_a_vsu_20202_000/README.md) | `kh2_je_a_vsu_20202_000` | 223 |
+| 246 | [동환록](../kr/books/kh2_je_a_vsu_25116_000/README.md) | `kh2_je_a_vsu_25116_000` | 101 |
+| 247 | [등록](../kr/books/kh2_je_a_vsu_22149_000/README.md) | `kh2_je_a_vsu_22149_000` | 259 |
+| 248 | [등록](../kr/books/kh2_je_a_vsu_23643_000/README.md) | `kh2_je_a_vsu_23643_000` | 10 |
+| 249 | [만기](../kr/books/kh2_je_a_vsu_B6B-114_000/README.md) | `kh2_je_a_vsu_B6B^114_000` | 8 |
 | 250 | [만운유적](../kr/books/kh2_je_a_vsu_20728_000/README.md) | `kh2_je_a_vsu_20728_000` | 2 |
-| 251 | [매사문](../kr/books/kh2_je_a_vsu_22161_000/README.md) | `kh2_je_a_vsu_22161_000` | 12 |
-| 252 | [명릉등록](../kr/books/kh2_je_a_vsu_22302_000/README.md) | `kh2_je_a_vsu_22302_000` | 21 |
-| 253 | [명릉수도소준등록](../kr/books/kh2_je_a_vsu_23561_000/README.md) | `kh2_je_a_vsu_23561_000` | 6 |
+| 251 | [매사문](../kr/books/kh2_je_a_vsu_22161_000/README.md) | `kh2_je_a_vsu_22161_000` | 18 |
+| 252 | [명릉등록](../kr/books/kh2_je_a_vsu_22302_000/README.md) | `kh2_je_a_vsu_22302_000` | 27 |
+| 253 | [명릉수도소준등록](../kr/books/kh2_je_a_vsu_23561_000/README.md) | `kh2_je_a_vsu_23561_000` | 7 |
 | 254 | [명릉신등록](../kr/books/kh2_je_a_vsu_22308_000/README.md) | `kh2_je_a_vsu_22308_000` | 3 |
-| 255 | [명사기략](../kr/books/kh2_je_a_vsu_20111_000/README.md) | `kh2_je_a_vsu_20111_000` | 211 |
-| 256 | [명성왕후국휼등록: 계해(1683)](../kr/books/kh2_je_a_vsu_22944_000/README.md) | `kh2_je_a_vsu_22944_000` | 73 |
-| 257 | [명성왕후국휼의궤](../kr/books/kh2_je_a_vsu_22946_000/README.md) | `kh2_je_a_vsu_22946_000` | 17 |
-| 258 | [명성왕후국휼의주등록: 계해년(1683)](../kr/books/kh2_je_a_vsu_22947_000/README.md) | `kh2_je_a_vsu_22947_000` | 11 |
-| 259 | [명수지문](../kr/books/kh2_je_a_vsu_30661_000/README.md) | `kh2_je_a_vsu_30661_000` | 2464 |
-| 260 | [명안공주가례등록](../kr/books/kh2_je_a_vsu_22639_000/README.md) | `kh2_je_a_vsu_22639_000` | 18 |
+| 255 | [명사기략](../kr/books/kh2_je_a_vsu_20111_000/README.md) | `kh2_je_a_vsu_20111_000` | 242 |
+| 256 | [명성왕후국휼등록: 계해(1683)](../kr/books/kh2_je_a_vsu_22944_000/README.md) | `kh2_je_a_vsu_22944_000` | 97 |
+| 257 | [명성왕후국휼의궤](../kr/books/kh2_je_a_vsu_22946_000/README.md) | `kh2_je_a_vsu_22946_000` | 27 |
+| 258 | [명성왕후국휼의주등록: 계해년(1683)](../kr/books/kh2_je_a_vsu_22947_000/README.md) | `kh2_je_a_vsu_22947_000` | 14 |
+| 259 | [명수지문](../kr/books/kh2_je_a_vsu_30661_000/README.md) | `kh2_je_a_vsu_30661_000` | 2780 |
+| 260 | [명안공주가례등록](../kr/books/kh2_je_a_vsu_22639_000/README.md) | `kh2_je_a_vsu_22639_000` | 27 |
 | 261 | [명온공주가례등록](../kr/books/kh2_je_a_vsu_22642_000/README.md) | `kh2_je_a_vsu_22642_000` | 8 |
-| 262 | [명온공주가례등록](../kr/books/kh2_je_a_vsu_22643_000/README.md) | `kh2_je_a_vsu_22643_000` | 5 |
-| 263 | [명태조조조사적](../kr/books/kh2_je_a_vsu_20882_000/README.md) | `kh2_je_a_vsu_20882_000` | 45 |
+| 262 | [명온공주가례등록](../kr/books/kh2_je_a_vsu_22643_000/README.md) | `kh2_je_a_vsu_22643_000` | 7 |
+| 263 | [명태조조조사적](../kr/books/kh2_je_a_vsu_20882_000/README.md) | `kh2_je_a_vsu_20882_000` | 50 |
 | 264 | [명행정의록](../kr/books/kh2_je_a_vsu_46805_000/README.md) | `kh2_je_a_vsu_46805_000` | 3 |
-| 265 | [목릉천장시등록](../kr/books/kh2_je_a_vsu_22311_000/README.md) | `kh2_je_a_vsu_22311_000` | 6 |
-| 266 | [묘소도감의궤](../kr/books/kh2_je_a_vsu_22312_000/README.md) | `kh2_je_a_vsu_22312_000` | 292 |
-| 267 | [묘소도감의궤](../kr/books/kh2_je_a_vsu_22314_000/README.md) | `kh2_je_a_vsu_22314_000` | 92 |
+| 265 | [목릉천장시등록](../kr/books/kh2_je_a_vsu_22311_000/README.md) | `kh2_je_a_vsu_22311_000` | 7 |
+| 266 | [묘소도감의궤](../kr/books/kh2_je_a_vsu_22312_000/README.md) | `kh2_je_a_vsu_22312_000` | 354 |
+| 267 | [묘소도감의궤](../kr/books/kh2_je_a_vsu_22314_000/README.md) | `kh2_je_a_vsu_22314_000` | 116 |
 | 268 | [묘소천묘제전홀기(구묘견전)](../kr/books/kh2_je_a_vsu_22316_000/README.md) | `kh2_je_a_vsu_22316_000` | 1 |
-| 269 | [묘전궁원단묘의궤](../kr/books/kh2_je_a_vsu_22445_000/README.md) | `kh2_je_a_vsu_22445_000` | 3 |
-| 270 | [묘중제향의](../kr/books/kh2_je_a_vsu_22162_000/README.md) | `kh2_je_a_vsu_22162_000` | 1 |
-| 271 | [묘호도감의궤](../kr/books/kh2_je_a_vsu_23062_000/README.md) | `kh2_je_a_vsu_23062_000` | 4 |
-| 272 | [무기재고표](../kr/books/kh2_je_a_vsu_23311_000/README.md) | `kh2_je_a_vsu_23311_000` | 4 |
+| 269 | [묘전궁원단묘의궤](../kr/books/kh2_je_a_vsu_22445_000/README.md) | `kh2_je_a_vsu_22445_000` | 4 |
+| 270 | [묘중제향의](../kr/books/kh2_je_a_vsu_22162_000/README.md) | `kh2_je_a_vsu_22162_000` | 2 |
+| 271 | [묘호도감의궤](../kr/books/kh2_je_a_vsu_23062_000/README.md) | `kh2_je_a_vsu_23062_000` | 6 |
+| 272 | [무기재고표](../kr/books/kh2_je_a_vsu_23311_000/README.md) | `kh2_je_a_vsu_23311_000` | 5 |
 | 273 | [무보](../kr/books/kh2_je_a_vsu_21741_000/README.md) | `kh2_je_a_vsu_21741_000` | 1 |
-| 274 | [무승자록](../kr/books/kh2_je_a_vsu_20530_000/README.md) | `kh2_je_a_vsu_20530_000` | 11 |
-| 275 | [무신창의록](../kr/books/kh2_je_a_vsu_B6B-137_000/README.md) | `kh2_je_a_vsu_B6B^137_000` | 189 |
-| 276 | [무오연행록](../kr/books/kh2_je_a_vsu_24518_000/README.md) | `kh2_je_a_vsu_24518_000` | 16 |
+| 274 | [무승자록](../kr/books/kh2_je_a_vsu_20530_000/README.md) | `kh2_je_a_vsu_20530_000` | 12 |
+| 275 | [무신창의록](../kr/books/kh2_je_a_vsu_B6B-137_000/README.md) | `kh2_je_a_vsu_B6B^137_000` | 217 |
+| 276 | [무오연행록](../kr/books/kh2_je_a_vsu_24518_000/README.md) | `kh2_je_a_vsu_24518_000` | 17 |
 | 277 | [무위영각색군기완파구별성책](../kr/books/kh2_je_a_vsu_23312_000/README.md) | `kh2_je_a_vsu_23312_000` | 3 |
-| 278 | [무주부적상산성열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23697_000/README.md) | `kh2_je_a_vsu_23697_000` | 100 |
-| 279 | [무주부적상산성열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23698_000/README.md) | `kh2_je_a_vsu_23698_000` | 106 |
-| 280 | [무주부적상산역열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23696_000/README.md) | `kh2_je_a_vsu_23696_000` | 106 |
-| 281 | [무주적상산성열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23715_000/README.md) | `kh2_je_a_vsu_23715_000` | 119 |
-| 282 | [무주현산성실록포쇄고출형지안](../kr/books/kh2_je_a_vsu_23720_000/README.md) | `kh2_je_a_vsu_23720_000` | 28 |
-| 283 | [문묘의궤](../kr/books/kh2_je_a_vsu_22447_000/README.md) | `kh2_je_a_vsu_22447_000` | 5 |
-| 284 | [문보](../kr/books/kh2_je_a_vsu_21744_000/README.md) | `kh2_je_a_vsu_21744_000` | 29 |
-| 285 | [문음승자록: (헌종 을미 - 광무 계묘)](../kr/books/kh2_je_a_vsu_20534_000/README.md) | `kh2_je_a_vsu_20534_000` | 1 |
-| 286 | [문헌고략](../kr/books/kh2_je_a_vsu_22079_000/README.md) | `kh2_je_a_vsu_22079_000` | 1062 |
-| 287 | [문호묘의](../kr/books/kh2_je_a_vsu_24765_000/README.md) | `kh2_je_a_vsu_24765_000` | 4 |
-| 288 | [문효세자상등록](../kr/books/kh2_je_a_vsu_22949_000/README.md) | `kh2_je_a_vsu_22949_000` | 143 |
-| 289 | [문희묘일기](../kr/books/kh2_je_a_vsu_22449_000/README.md) | `kh2_je_a_vsu_22449_000` | 279 |
-| 290 | [미암일기](../kr/books/kh2_je_a_vsu_55024_000/README.md) | `kh2_je_a_vsu_55024_000` | 76 |
-| 291 | [민문충공주의](../kr/books/kh2_je_a_vsu_B11FB-18_000/README.md) | `kh2_je_a_vsu_B11FB^18_000` | 8 |
-| 292 | [민회빈복위선익등록](../kr/books/kh2_je_a_vsu_23063_000/README.md) | `kh2_je_a_vsu_23063_000` | 9 |
-| 293 | [민회빈봉묘도감의궤](../kr/books/kh2_je_a_vsu_22317_000/README.md) | `kh2_je_a_vsu_22317_000` | 2 |
-| 294 | [밀양박씨세보](../kr/books/kh2_je_a_vsu_20415_000/README.md) | `kh2_je_a_vsu_20415_000` | 1 |
-| 295 | [반교문등록](../kr/books/kh2_je_a_vsu_23646_000/README.md) | `kh2_je_a_vsu_23646_000` | 1 |
-| 296 | [백천군읍지](../kr/books/kh2_je_a_vsu_24239_000/README.md) | `kh2_je_a_vsu_24239_000` | 13 |
-| 297 | [법규류편](../kr/books/kh2_je_a_vsu_25097_000/README.md) | `kh2_je_a_vsu_25097_000` | 96 |
-| 298 | [벽계영유록](../kr/books/kh2_je_a_vsu_B9O-17_000/README.md) | `kh2_je_a_vsu_B9O^17_000` | 2 |
-| 299 | [별하고응봉](../kr/books/kh2_je_a_vsu_23161_000/README.md) | `kh2_je_a_vsu_23161_000` | 1 |
-| 300 | [별하고회외중기](../kr/books/kh2_je_a_vsu_23165_000/README.md) | `kh2_je_a_vsu_23165_000` | 1 |
-| 301 | [별하고회외중기](../kr/books/kh2_je_a_vsu_23166_000/README.md) | `kh2_je_a_vsu_23166_000` | 1 |
-| 302 | [병란일지](../kr/books/kh2_je_a_vsu_20206_000/README.md) | `kh2_je_a_vsu_20206_000` | 15 |
-| 303 | [병와전서 강도지](../kr/books/kh2_je_a_vsu_55012_000/README.md) | `kh2_je_a_vsu_55012_000` | 5 |
-| 304 | [병와전서 남사록](../kr/books/kh2_je_a_vsu_55009_000/README.md) | `kh2_je_a_vsu_55009_000` | 13 |
-| 305 | [병와전서 동이산략](../kr/books/kh2_je_a_vsu_55011_000/README.md) | `kh2_je_a_vsu_55011_000` | 4 |
-| 306 | [병와전서 병와선생문집](../kr/books/kh2_je_a_vsu_55019_000/README.md) | `kh2_je_a_vsu_55019_000` | 158 |
-| 307 | [병와전서 악학편고](../kr/books/kh2_je_a_vsu_55022_000/README.md) | `kh2_je_a_vsu_55022_000` | 13 |
-| 308 | [병와전서 탐라록](../kr/books/kh2_je_a_vsu_55013_000/README.md) | `kh2_je_a_vsu_55013_000` | 58 |
-| 309 | [병자록](../kr/books/kh2_je_a_vsu_20207_000/README.md) | `kh2_je_a_vsu_20207_000` | 16 |
-| 310 | [병장도설](../kr/books/kh2_je_a_vsu_30281_000/README.md) | `kh2_je_a_vsu_30281_000` | 1 |
-| 311 | [병제](../kr/books/kh2_je_a_vsu_23317_000/README.md) | `kh2_je_a_vsu_23317_000` | 1 |
-| 312 | [보고급회첩존당](../kr/books/kh2_je_a_vsu_24766_000/README.md) | `kh2_je_a_vsu_24766_000` | 17 |
-| 313 | [복위부묘도감의궤](../kr/books/kh2_je_a_vsu_22223_000/README.md) | `kh2_je_a_vsu_22223_000` | 74 |
-| 314 | [봉보부인등록](../kr/books/kh2_je_a_vsu_23173_000/README.md) | `kh2_je_a_vsu_23173_000` | 15 |
-| 315 | [봉상시신실방위식](../kr/books/kh2_je_a_vsu_22514_000/README.md) | `kh2_je_a_vsu_22514_000` | 6 |
-| 316 | [봉하회계](../kr/books/kh2_je_a_vsu_23179_000/README.md) | `kh2_je_a_vsu_23179_000` | 352 |
-| 317 | [봉호일기](../kr/books/kh2_je_a_vsu_20896_000/README.md) | `kh2_je_a_vsu_20896_000` | 898 |
-| 318 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22227_000/README.md) | `kh2_je_a_vsu_22227_000` | 46 |
-| 319 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22229_000/README.md) | `kh2_je_a_vsu_22229_000` | 36 |
-| 320 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22230_000/README.md) | `kh2_je_a_vsu_22230_000` | 41 |
-| 321 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22232_000/README.md) | `kh2_je_a_vsu_22232_000` | 91 |
-| 322 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22234_000/README.md) | `kh2_je_a_vsu_22234_000` | 5 |
-| 323 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22238_000/README.md) | `kh2_je_a_vsu_22238_000` | 78 |
-| 324 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22239_000/README.md) | `kh2_je_a_vsu_22239_000` | 37 |
-| 325 | [부묘도감도청의궤; 현종십년기유(1669) 십월일](../kr/books/kh2_je_a_vsu_22224_000/README.md) | `kh2_je_a_vsu_22224_000` | 74 |
-| 326 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22240_000/README.md) | `kh2_je_a_vsu_22240_000` | 63 |
-| 327 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22241_000/README.md) | `kh2_je_a_vsu_22241_000` | 42 |
-| 328 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22242_000/README.md) | `kh2_je_a_vsu_22242_000` | 67 |
-| 329 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22243_000/README.md) | `kh2_je_a_vsu_22243_000` | 265 |
-| 330 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22244_000/README.md) | `kh2_je_a_vsu_22244_000` | 3 |
-| 331 | [부묘등록](../kr/books/kh2_je_a_vsu_22246_000/README.md) | `kh2_je_a_vsu_22246_000` | 18 |
-| 332 | [비국등록](../kr/books/kh2_je_a_vsu_23319_000/README.md) | `kh2_je_a_vsu_23319_000` | 69 |
-| 333 | [비국등록](../kr/books/kh2_je_a_vsu_23320_000/README.md) | `kh2_je_a_vsu_23320_000` | 86 |
-| 334 | [비국등록](../kr/books/kh2_je_a_vsu_23321_000/README.md) | `kh2_je_a_vsu_23321_000` | 96 |
-| 335 | [비밀일기 : 인조이십오년정해 - 효종육년을미 삼월](../kr/books/kh2_je_a_vsu_20210_000/README.md) | `kh2_je_a_vsu_20210_000` | 21 |
-| 336 | [비변사감결](../kr/books/kh2_je_a_vsu_23322_000/README.md) | `kh2_je_a_vsu_23322_000` | 5 |
-| 337 | [빈궁도감의궤](../kr/books/kh2_je_a_vsu_22951_000/README.md) | `kh2_je_a_vsu_22951_000` | 3 |
-| 338 | [사각수개후실록포쇄형지안](../kr/books/kh2_je_a_vsu_23727_000/README.md) | `kh2_je_a_vsu_23727_000` | 37 |
-| 339 | [사각실록포쇄급어제책봉안형지안](../kr/books/kh2_je_a_vsu_23766_000/README.md) | `kh2_je_a_vsu_23766_000` | 49 |
-| 340 | [사각조사형지안](../kr/books/kh2_je_a_vsu_24894_000/README.md) | `kh2_je_a_vsu_24894_000` | 1 |
-| 341 | [사계선생실기](../kr/books/kh2_je_a_vsu_20754_000/README.md) | `kh2_je_a_vsu_20754_000` | 5 |
-| 342 | [사고실록포쇄급어제책봉안형지안](../kr/books/kh2_je_a_vsu_23765_000/README.md) | `kh2_je_a_vsu_23765_000` | 54 |
-| 343 | [사고실록포쇄급어제책봉안형지안](../kr/books/kh2_je_a_vsu_24907_000/README.md) | `kh2_je_a_vsu_24907_000` | 45 |
+| 278 | [무주부적상산성열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23697_000/README.md) | `kh2_je_a_vsu_23697_000` | 113 |
+| 279 | [무주부적상산성열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23698_000/README.md) | `kh2_je_a_vsu_23698_000` | 109 |
+| 280 | [무주부적상산역열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23696_000/README.md) | `kh2_je_a_vsu_23696_000` | 113 |
+| 281 | [무주적상산성열성실록포쇄형지안](../kr/books/kh2_je_a_vsu_23715_000/README.md) | `kh2_je_a_vsu_23715_000` | 127 |
+| 282 | [무주적상산성형지안](../kr/books/kh2_je_a_vsu_23801_000/README.md) | `kh2_je_a_vsu_23801_000` | 1 |
+| 283 | [무주현산성실록포쇄고출형지안](../kr/books/kh2_je_a_vsu_23720_000/README.md) | `kh2_je_a_vsu_23720_000` | 31 |
+| 284 | [문묘의궤](../kr/books/kh2_je_a_vsu_22447_000/README.md) | `kh2_je_a_vsu_22447_000` | 6 |
+| 285 | [문보](../kr/books/kh2_je_a_vsu_21744_000/README.md) | `kh2_je_a_vsu_21744_000` | 34 |
+| 286 | [문음승자록: (헌종 을미 - 광무 계묘)](../kr/books/kh2_je_a_vsu_20534_000/README.md) | `kh2_je_a_vsu_20534_000` | 1 |
+| 287 | [문헌고략](../kr/books/kh2_je_a_vsu_22079_000/README.md) | `kh2_je_a_vsu_22079_000` | 1258 |
+| 288 | [문호묘의](../kr/books/kh2_je_a_vsu_24765_000/README.md) | `kh2_je_a_vsu_24765_000` | 4 |
+| 289 | [문효세자상등록](../kr/books/kh2_je_a_vsu_22949_000/README.md) | `kh2_je_a_vsu_22949_000` | 176 |
+| 290 | [문희묘일기](../kr/books/kh2_je_a_vsu_22449_000/README.md) | `kh2_je_a_vsu_22449_000` | 389 |
+| 291 | [미암일기](../kr/books/kh2_je_a_vsu_55024_000/README.md) | `kh2_je_a_vsu_55024_000` | 100 |
+| 292 | [민문충공주의](../kr/books/kh2_je_a_vsu_B11FB-18_000/README.md) | `kh2_je_a_vsu_B11FB^18_000` | 11 |
+| 293 | [민회빈복위선익등록](../kr/books/kh2_je_a_vsu_23063_000/README.md) | `kh2_je_a_vsu_23063_000` | 13 |
+| 294 | [민회빈봉묘도감의궤](../kr/books/kh2_je_a_vsu_22317_000/README.md) | `kh2_je_a_vsu_22317_000` | 2 |
+| 295 | [밀양박씨세보](../kr/books/kh2_je_a_vsu_20415_000/README.md) | `kh2_je_a_vsu_20415_000` | 2 |
+| 296 | [반교문등록](../kr/books/kh2_je_a_vsu_23646_000/README.md) | `kh2_je_a_vsu_23646_000` | 2 |
+| 297 | [백천군읍지](../kr/books/kh2_je_a_vsu_24239_000/README.md) | `kh2_je_a_vsu_24239_000` | 16 |
+| 298 | [법규류편](../kr/books/kh2_je_a_vsu_25097_000/README.md) | `kh2_je_a_vsu_25097_000` | 117 |
+| 299 | [벽계영유록](../kr/books/kh2_je_a_vsu_B9O-17_000/README.md) | `kh2_je_a_vsu_B9O^17_000` | 2 |
+| 300 | [별하고응봉](../kr/books/kh2_je_a_vsu_23161_000/README.md) | `kh2_je_a_vsu_23161_000` | 1 |
+| 301 | [별하고회외중기](../kr/books/kh2_je_a_vsu_23165_000/README.md) | `kh2_je_a_vsu_23165_000` | 1 |
+| 302 | [별하고회외중기](../kr/books/kh2_je_a_vsu_23166_000/README.md) | `kh2_je_a_vsu_23166_000` | 1 |
+| 303 | [병란일지](../kr/books/kh2_je_a_vsu_20206_000/README.md) | `kh2_je_a_vsu_20206_000` | 19 |
+| 304 | [병와전서 강도지](../kr/books/kh2_je_a_vsu_55012_000/README.md) | `kh2_je_a_vsu_55012_000` | 10 |
+| 305 | [병와전서 남사록](../kr/books/kh2_je_a_vsu_55009_000/README.md) | `kh2_je_a_vsu_55009_000` | 14 |
+| 306 | [병와전서 동이산략](../kr/books/kh2_je_a_vsu_55011_000/README.md) | `kh2_je_a_vsu_55011_000` | 6 |
+| 307 | [병와전서 병와선생문집](../kr/books/kh2_je_a_vsu_55019_000/README.md) | `kh2_je_a_vsu_55019_000` | 203 |
+| 308 | [병와전서 악학습령](../kr/books/kh2_je_a_vsu_55023_000/README.md) | `kh2_je_a_vsu_55023_000` | 1 |
+| 309 | [병와전서 악학편고](../kr/books/kh2_je_a_vsu_55022_000/README.md) | `kh2_je_a_vsu_55022_000` | 16 |
+| 310 | [병와전서 정원일기초](../kr/books/kh2_je_a_vsu_55008_000/README.md) | `kh2_je_a_vsu_55008_000` | 1 |
+| 311 | [병와전서 탐라록](../kr/books/kh2_je_a_vsu_55013_000/README.md) | `kh2_je_a_vsu_55013_000` | 72 |
+| 312 | [병자록](../kr/books/kh2_je_a_vsu_20207_000/README.md) | `kh2_je_a_vsu_20207_000` | 22 |
+| 313 | [병장도설](../kr/books/kh2_je_a_vsu_30281_000/README.md) | `kh2_je_a_vsu_30281_000` | 1 |
+| 314 | [병제](../kr/books/kh2_je_a_vsu_23317_000/README.md) | `kh2_je_a_vsu_23317_000` | 1 |
+| 315 | [보고급회첩존당](../kr/books/kh2_je_a_vsu_24766_000/README.md) | `kh2_je_a_vsu_24766_000` | 27 |
+| 316 | [복위부묘도감의궤](../kr/books/kh2_je_a_vsu_22223_000/README.md) | `kh2_je_a_vsu_22223_000` | 95 |
+| 317 | [봉보부인등록](../kr/books/kh2_je_a_vsu_23173_000/README.md) | `kh2_je_a_vsu_23173_000` | 19 |
+| 318 | [봉상시신실방위식](../kr/books/kh2_je_a_vsu_22514_000/README.md) | `kh2_je_a_vsu_22514_000` | 6 |
+| 319 | [봉하회계](../kr/books/kh2_je_a_vsu_23179_000/README.md) | `kh2_je_a_vsu_23179_000` | 405 |
+| 320 | [봉호일기](../kr/books/kh2_je_a_vsu_20896_000/README.md) | `kh2_je_a_vsu_20896_000` | 973 |
+| 321 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22227_000/README.md) | `kh2_je_a_vsu_22227_000` | 52 |
+| 322 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22229_000/README.md) | `kh2_je_a_vsu_22229_000` | 43 |
+| 323 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22230_000/README.md) | `kh2_je_a_vsu_22230_000` | 50 |
+| 324 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22232_000/README.md) | `kh2_je_a_vsu_22232_000` | 109 |
+| 325 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22234_000/README.md) | `kh2_je_a_vsu_22234_000` | 5 |
+| 326 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22238_000/README.md) | `kh2_je_a_vsu_22238_000` | 92 |
+| 327 | [부묘도감도청의궤](../kr/books/kh2_je_a_vsu_22239_000/README.md) | `kh2_je_a_vsu_22239_000` | 43 |
+| 328 | [부묘도감도청의궤; 현종십년기유(1669) 십월일](../kr/books/kh2_je_a_vsu_22224_000/README.md) | `kh2_je_a_vsu_22224_000` | 89 |
+| 329 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22240_000/README.md) | `kh2_je_a_vsu_22240_000` | 80 |
+| 330 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22241_000/README.md) | `kh2_je_a_vsu_22241_000` | 47 |
+| 331 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22242_000/README.md) | `kh2_je_a_vsu_22242_000` | 81 |
+| 332 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22243_000/README.md) | `kh2_je_a_vsu_22243_000` | 297 |
+| 333 | [부묘도감의궤](../kr/books/kh2_je_a_vsu_22244_000/README.md) | `kh2_je_a_vsu_22244_000` | 3 |
+| 334 | [부묘등록](../kr/books/kh2_je_a_vsu_22246_000/README.md) | `kh2_je_a_vsu_22246_000` | 22 |
+| 335 | [비국등록](../kr/books/kh2_je_a_vsu_23319_000/README.md) | `kh2_je_a_vsu_23319_000` | 83 |
+| 336 | [비국등록](../kr/books/kh2_je_a_vsu_23320_000/README.md) | `kh2_je_a_vsu_23320_000` | 109 |
+| 337 | [비국등록](../kr/books/kh2_je_a_vsu_23321_000/README.md) | `kh2_je_a_vsu_23321_000` | 111 |
+| 338 | [비밀일기 : 인조이십오년정해 - 효종육년을미 삼월](../kr/books/kh2_je_a_vsu_20210_000/README.md) | `kh2_je_a_vsu_20210_000` | 24 |
+| 339 | [비변사감결](../kr/books/kh2_je_a_vsu_23322_000/README.md) | `kh2_je_a_vsu_23322_000` | 5 |
+| 340 | [빈궁도감의궤](../kr/books/kh2_je_a_vsu_22951_000/README.md) | `kh2_je_a_vsu_22951_000` | 5 |
+| 341 | [사각수개후실록포쇄형지안](../kr/books/kh2_je_a_vsu_23727_000/README.md) | `kh2_je_a_vsu_23727_000` | 42 |
+| 342 | [사각실록포쇄급어제책봉안형지안](../kr/books/kh2_je_a_vsu_23766_000/README.md) | `kh2_je_a_vsu_23766_000` | 54 |
+| 343 | [사각조사형지안](../kr/books/kh2_je_a_vsu_24894_000/README.md) | `kh2_je_a_vsu_24894_000` | 1 |
+| 344 | [사계선생실기](../kr/books/kh2_je_a_vsu_20754_000/README.md) | `kh2_je_a_vsu_20754_000` | 5 |
+| 345 | [사고실록포쇄급어제책봉안형지안](../kr/books/kh2_je_a_vsu_23765_000/README.md) | `kh2_je_a_vsu_23765_000` | 62 |
+| 346 | [사고실록포쇄급어제책봉안형지안](../kr/books/kh2_je_a_vsu_24907_000/README.md) | `kh2_je_a_vsu_24907_000` | 49 |
