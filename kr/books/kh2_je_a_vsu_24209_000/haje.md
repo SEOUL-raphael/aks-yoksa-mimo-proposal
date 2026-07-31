@@ -1,7 +1,7 @@
 # 경상도함안군총쇄록 [慶尙道咸安郡叢鎻錄n1-3책] - 해제
 
 - 책 ID: `kh2_je_a_vsu_24209_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24209_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24209_000
 
 G002+AKS-AA55_24209_000
 [1]

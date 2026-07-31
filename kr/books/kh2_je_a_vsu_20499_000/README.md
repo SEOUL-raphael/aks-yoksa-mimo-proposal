@@ -1,13 +1,13 @@
 # 강화부선생안 [江華府先生案]
 
-- 순번: 49 / 346
+- 순번: 49 / 352
 - 책 ID: `kh2_je_a_vsu_20499_000`
-- 원제: 江華府先生案
+- 한자 제목: 江華府先生案
 - 저자/편자: 강화부
 - 연대: 1899
 - 공개 번역 기사: 3건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20499_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20499_000
 
 ## 해제
 

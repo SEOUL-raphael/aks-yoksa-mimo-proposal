@@ -1,13 +1,13 @@
 # 권충장공실기 [權忠莊公實紀]
 
-- 순번: 143 / 346
+- 순번: 145 / 352
 - 책 ID: `kh2_je_a_vsu_20703_000`
-- 원제: 權忠莊公實紀
+- 한자 제목: 權忠莊公實紀
 - 저자/편자: 편자미상
 - 연대: 1850
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20703_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20703_000
 
 ## 해제
 

@@ -1,7 +1,7 @@
 # 대사편년 [大事編年] - 해제
 
 - 책 ID: `kh2_je_a_vsu_B3B^41_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_B3B%5E41_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_B3B%5E41_000
 
 G002+AKS-AA55_B3B^41_000
 【요약해설】

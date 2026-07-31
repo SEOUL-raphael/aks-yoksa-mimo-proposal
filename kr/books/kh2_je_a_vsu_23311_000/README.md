@@ -1,13 +1,13 @@
 # 무기재고표 [武器在庫表]
 
-- 순번: 272 / 346
+- 순번: 276 / 352
 - 책 ID: `kh2_je_a_vsu_23311_000`
-- 원제: 武器在庫表
+- 한자 제목: 武器在庫表
 - 저자/편자: 군부
 - 연대: 1895
 - 공개 번역 기사: 5건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23311_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23311_000
 
 ## 해제
 

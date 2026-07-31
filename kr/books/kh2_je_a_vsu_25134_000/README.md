@@ -1,13 +1,13 @@
 # 대장경인쇄견본 [大藏經印刷見本]
 
-- 순번: 217 / 346
+- 순번: 220 / 352
 - 책 ID: `kh2_je_a_vsu_25134_000`
-- 원제: 大藏經印刷見本
+- 한자 제목: 大藏經印刷見本
 - 저자/편자: 편자미상
 - 연대: 미상
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_25134_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_25134_000
 
 ## 본문 번역 묶음
 

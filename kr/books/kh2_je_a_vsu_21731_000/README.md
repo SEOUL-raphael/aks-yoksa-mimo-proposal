@@ -1,13 +1,13 @@
 # 능성주씨족보 [綾城朱氏族譜]
 
-- 순번: 192 / 346
+- 순번: 195 / 352
 - 책 ID: `kh2_je_a_vsu_21731_000`
-- 원제: 綾城朱氏族譜
+- 한자 제목: 綾城朱氏族譜
 - 저자/편자: 주형정
 - 연대: 1849
 - 공개 번역 기사: 7건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21731_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21731_000
 
 ## 해제
 

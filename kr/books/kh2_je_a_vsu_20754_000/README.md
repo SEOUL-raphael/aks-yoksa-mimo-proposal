@@ -1,13 +1,13 @@
 # 사계선생실기 [沙溪先生實紀]
 
-- 순번: 344 / 346
+- 순번: 350 / 352
 - 책 ID: `kh2_je_a_vsu_20754_000`
-- 원제: 沙溪先生實紀
+- 한자 제목: 沙溪先生實紀
 - 저자/편자: 방환규
 - 연대: 1860
 - 공개 번역 기사: 5건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20754_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20754_000
 
 ## 본문 번역 묶음
 

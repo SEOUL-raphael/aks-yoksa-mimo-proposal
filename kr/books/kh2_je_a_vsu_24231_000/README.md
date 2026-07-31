@@ -1,13 +1,13 @@
 # 덕산현읍지(충청북도) [德山縣邑誌(忠淸北道)]
 
-- 순번: 220 / 346
+- 순번: 223 / 352
 - 책 ID: `kh2_je_a_vsu_24231_000`
-- 원제: 德山縣邑誌(忠淸北道)
+- 한자 제목: 德山縣邑誌(忠淸北道)
 - 저자/편자: 덕산현
 - 연대: 1896
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24231_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24231_000
 
 ## 해제
 

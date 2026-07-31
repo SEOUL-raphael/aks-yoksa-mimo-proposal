@@ -1,7 +1,7 @@
 # 남별전제기상탁의장포진등록개수정책 [南別殿祭器床卓儀仗鋪陳謄錄改修正冊] - 해제
 
 - 책 ID: `kh2_je_a_vsu_22435_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22435_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22435_000
 
 G002+AKS-AA55_22435_000
 【정의】

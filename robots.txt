@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SEOUL-raphael.github.io/aks-yoksa-mimo-proposal/sitemap.xml

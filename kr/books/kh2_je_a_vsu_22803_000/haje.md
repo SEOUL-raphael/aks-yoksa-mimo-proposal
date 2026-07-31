@@ -1,7 +1,7 @@
 # 대왕대비전왕대비전대비전존숭도감의궤 [大王大妃殿王大妃殿大妃殿尊崇都監儀軌] - 해제
 
 - 책 ID: `kh2_je_a_vsu_22803_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22803_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22803_000
 
 G002+AKS-AA55_22803_000
 [정의]

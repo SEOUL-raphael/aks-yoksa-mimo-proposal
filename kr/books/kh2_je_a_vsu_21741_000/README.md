@@ -1,13 +1,13 @@
 # 무보 [武譜n1-3책]
 
-- 순번: 273 / 346
+- 순번: 277 / 352
 - 책 ID: `kh2_je_a_vsu_21741_000`
-- 원제: 武譜n1-3책
+- 한자 제목: 武譜n1-3책
 - 저자/편자: 미상
 - 연대: 高純年間(1864 - 1910)寫
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21741_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21741_000
 
 ## 본문 번역 묶음
 

@@ -1,13 +1,13 @@
 # 감란록 [勘亂錄]
 
-- 순번: 38 / 346
+- 순번: 38 / 352
 - 책 ID: `kh2_je_a_vsu_20153_000`
-- 원제: 勘亂錄
+- 한자 제목: 勘亂錄
 - 저자/편자: 송인명 박사수 등봉교편
 - 연대: *
 - 공개 번역 기사: 9건
 - 권책 수: 2
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20153_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20153_000
 
 ## 해제
 

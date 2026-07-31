@@ -1,13 +1,13 @@
 # 사각조사형지안 [史閣調査形止案]
 
-- 순번: 343 / 346
+- 순번: 349 / 352
 - 책 ID: `kh2_je_a_vsu_24894_000`
-- 원제: 史閣調査形止案
+- 한자 제목: 史閣調査形止案
 - 저자/편자: 궁내부 편
 - 연대: 순종4년
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24894_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24894_000
 
 ## 해제
 

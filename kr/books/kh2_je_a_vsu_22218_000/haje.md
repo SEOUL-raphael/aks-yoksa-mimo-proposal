@@ -1,7 +1,7 @@
 # 고종태황제명성태황후부묘주감의궤 [高宗太皇帝明成太皇后祔廟主監儀軌n1-2책] - 해제
 
 - 책 ID: `kh2_je_a_vsu_22218_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22218_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22218_000
 
 G002+AKS-AA55_22218_000
 [정의]

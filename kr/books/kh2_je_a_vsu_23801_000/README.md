@@ -1,13 +1,13 @@
 # 무주적상산성형지안 [茂朱赤裳山城形止案]
 
-- 순번: 282 / 346
+- 순번: 286 / 352
 - 책 ID: `kh2_je_a_vsu_23801_000`
-- 원제: 茂朱赤裳山城形止案
+- 한자 제목: 茂朱赤裳山城形止案
 - 저자/편자: 종부시
 - 연대: 1790
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23801_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23801_000
 
 ## 해제
 

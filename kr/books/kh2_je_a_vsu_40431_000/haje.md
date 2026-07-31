@@ -1,7 +1,7 @@
 # 담여헌시집 [淡如軒詩集n1-3책] - 해제
 
 - 책 ID: `kh2_je_a_vsu_40431_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40431_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40431_000
 
 G002+AKS-AA55_40431_000
 【정의】

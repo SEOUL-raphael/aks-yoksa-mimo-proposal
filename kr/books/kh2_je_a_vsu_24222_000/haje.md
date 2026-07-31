@@ -1,7 +1,7 @@
 # 금산지(전라북도) [錦山誌(全羅北道)] - 해제
 
 - 책 ID: `kh2_je_a_vsu_24222_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24222_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24222_000
 
 G002+AKS-AA55_24222_000
 【정의】

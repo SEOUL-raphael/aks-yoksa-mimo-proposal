@@ -1,13 +1,13 @@
 # 경효전낭청선생안 [景孝殿郎廳先生案]
 
-- 순번: 79 / 346
+- 순번: 79 / 352
 - 책 ID: `kh2_je_a_vsu_20500_000`
-- 원제: 景孝殿郎廳先生案
+- 한자 제목: 景孝殿郎廳先生案
 - 저자/편자: 경효전낭청
 - 연대: 1623
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20500_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20500_000
 
 ## 해제
 

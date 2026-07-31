@@ -1,13 +1,13 @@
 # 강성군사실록 [江城君事實錄]
 
-- 순번: 45 / 346
+- 순번: 45 / 352
 - 책 ID: `kh2_je_a_vsu_20683_000`
-- 원제: 江城君事實錄
+- 한자 제목: 江城君事實錄
 - 저자/편자: 문영광
 - 연대: 1788
 - 공개 번역 기사: 5건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20683_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20683_000
 
 ## 해제
 

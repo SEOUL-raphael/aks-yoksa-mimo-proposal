@@ -1,7 +1,7 @@
 # 병와전서 병와선생문집 [甁窩全書 甁窩先生文集] - 해제
 
 - 책 ID: `kh2_je_a_vsu_55019_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55019_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55019_000
 
 G002+AKS-AA55_55019_000
 [1]

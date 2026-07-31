@@ -1,13 +1,13 @@
 # 궁원식례 [宮園式例]
 
-- 순번: 140 / 346
+- 순번: 141 / 352
 - 책 ID: `kh2_je_a_vsu_22425_000`
-- 원제: 宮園式例
+- 한자 제목: 宮園式例
 - 저자/편자: 영조(조선왕,1694-1776)명 편;e이철보등교정
 - 연대: 英祖32(1756)
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22425_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22425_000
 
 ## 해제
 

@@ -1,7 +1,7 @@
 # 남순행시일기(융희 삼년 일월하) [南巡幸時日記(隆熙 三年 一月下)] - 해제
 
 - 책 ID: `kh2_je_a_vsu_20182_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20182_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20182_000
 
 G002+AKS-AA55_20182_000
 【정의】

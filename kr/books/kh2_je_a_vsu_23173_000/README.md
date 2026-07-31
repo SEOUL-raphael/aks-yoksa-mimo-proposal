@@ -1,13 +1,13 @@
 # 봉보부인등록 [奉保夫人謄錄n1-1책]
 
-- 순번: 317 / 346
+- 순번: 322 / 352
 - 책 ID: `kh2_je_a_vsu_23173_000`
-- 원제: 奉保夫人謄錄n1-1책
+- 한자 제목: 奉保夫人謄錄n1-1책
 - 저자/편자: 편자미상
 - 연대: 寫年未詳
 - 공개 번역 기사: 19건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23173_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23173_000
 
 ## 본문 번역 묶음
 

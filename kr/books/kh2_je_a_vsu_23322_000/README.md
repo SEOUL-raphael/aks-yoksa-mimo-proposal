@@ -1,13 +1,13 @@
 # 비변사감결 [備邊司甘結]
 
-- 순번: 339 / 346
+- 순번: 345 / 352
 - 책 ID: `kh2_je_a_vsu_23322_000`
-- 원제: 備邊司甘結
+- 한자 제목: 備邊司甘結
 - 저자/편자: 비변사(조선) 편
 - 연대: *
 - 공개 번역 기사: 5건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23322_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23322_000
 
 ## 본문 번역 묶음
 

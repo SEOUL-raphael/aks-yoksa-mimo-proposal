@@ -1,13 +1,13 @@
 # 공안자재 [公眼自在]
 
-- 순번: 99 / 346
+- 순번: 99 / 352
 - 책 ID: `kh2_je_a_vsu_20166_000`
-- 원제: 公眼自在
+- 한자 제목: 公眼自在
 - 저자/편자: 편자미상
 - 연대: 肅宗22 - 英祖3
 - 공개 번역 기사: 3건
 - 권책 수: 3
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20166_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20166_000
 
 ## 해제
 

@@ -1,13 +1,13 @@
 # 병장도설 [兵將圖說]
 
-- 순번: 313 / 346
+- 순번: 318 / 352
 - 책 ID: `kh2_je_a_vsu_30281_000`
-- 원제: 兵將圖說
+- 한자 제목: 兵將圖說
 - 저자/편자: 세조(조선왕,1417-1468)찬
 - 연대: 英祖18(1742)
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_30281_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_30281_000
 
 ## 해제
 

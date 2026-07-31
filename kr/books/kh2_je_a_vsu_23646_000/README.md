@@ -1,13 +1,13 @@
 # 반교문등록 [頒敎文謄錄n1-1책]
 
-- 순번: 296 / 346
+- 순번: 301 / 352
 - 책 ID: `kh2_je_a_vsu_23646_000`
-- 원제: 頒敎文謄錄n1-1책
+- 한자 제목: 頒敎文謄錄n1-1책
 - 저자/편자: 예문관(조선) 편
 - 연대: 高宗年間寫
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23646_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23646_000
 
 ## 본문 번역 묶음
 

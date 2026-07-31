@@ -1,7 +1,7 @@
 # 부묘도감도청의궤 [祔廟都監都廳儀軌] - 해제
 
 - 책 ID: `kh2_je_a_vsu_22232_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22232_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22232_000
 
 G002+AKS-AA55_22232_000
 [정의]

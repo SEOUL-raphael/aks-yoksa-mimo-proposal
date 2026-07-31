@@ -1,29 +1,34 @@
 {
   "name": "aks-yoksa-public-md-snapshot",
-  "created_at_kst": "2026-07-07T19:05:18+09:00",
+  "created_at_kst": "2026-07-31T18:47:58+09:00",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
+  "source_name": "한국학중앙연구원 역사지식 고도서 본문텍스트 서명별 목록",
+  "repository_url": "https://github.com/SEOUL-raphael/aks-yoksa-mimo-proposal",
   "layout": "markdown-first: kr/books/{book_id}/README.md + part-001.md",
-  "published_books": 346,
-  "published_articles": 55549,
+  "published_books": 352,
+  "published_articles": 61342,
   "translation_result_counts_seen": {
-    "failed": 56720,
-    "ok": 55567
+    "failed": 50927,
+    "ok": 61360
   },
   "translation_queue_counts_seen": {
-    "failed": 56720,
-    "ok": 55567
+    "failed": 2461,
+    "ok": 61360,
+    "pending": 48427,
+    "running": 39
   },
   "excluded_ok_empty_translation": 18,
   "models": {
-    "MiniMax-M2.7": 55549
+    "MiniMax-M2.7": 61342
   },
   "public_scope": "MiniMax 성공(ok) 번역 중 번역문이 비어 있지 않은 항목만 포함",
+  "crawl_noise_candidates_seen_in_public_scope": 0,
   "excluded_from_public_repo": [
     "API 키와 환경변수",
     "원본 HTML",
     "SQLite DB",
     "로그 파일",
     "실패 번역 전문",
-    "대용량 전역 기사 JSONL"
+    "대용량 전체 기사 JSONL"
   ]
 }

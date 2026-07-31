@@ -1,13 +1,13 @@
 # 동사례 [東史例]
 
-- 순번: 239 / 346
+- 순번: 243 / 352
 - 책 ID: `kh2_je_a_vsu_20198_000`
-- 원제: 東史例
+- 한자 제목: 東史例
 - 저자/편자: 안정복
 - 연대: *
 - 공개 번역 기사: 4건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20198_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20198_000
 
 ## 해제
 

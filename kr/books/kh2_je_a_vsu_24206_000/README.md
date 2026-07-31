@@ -1,13 +1,13 @@
 # 거제군읍지 [巨濟郡邑誌]
 
-- 순번: 54 / 346
+- 순번: 54 / 352
 - 책 ID: `kh2_je_a_vsu_24206_000`
-- 원제: 巨濟郡邑誌
+- 한자 제목: 巨濟郡邑誌
 - 저자/편자: 거제군
 - 연대: 미상
 - 공개 번역 기사: 26건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24206_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24206_000
 
 ## 본문 번역 묶음
 

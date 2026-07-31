@@ -1,7 +1,7 @@
 # 괴산군삼강록 [槐山郡三綱錄n1책] - 해제
 
 - 책 ID: `kh2_je_a_vsu_B9C^182_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_B9C%5E182_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_B9C%5E182_000
 
 G002+AKS-AA55_B9C^182_000
 【요약해설】

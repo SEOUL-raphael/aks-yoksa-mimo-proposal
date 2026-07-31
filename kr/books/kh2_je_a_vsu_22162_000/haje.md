@@ -1,7 +1,7 @@
 # 묘중제향의 [廟中祭享儀] - 해제
 
 - 책 ID: `kh2_je_a_vsu_22162_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22162_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22162_000
 
 G002+AKS-AA55_22162_000
 【정의】

@@ -1,7 +1,7 @@
 # 능성주씨족보 [綾城朱氏族譜] - 해제
 
 - 책 ID: `kh2_je_a_vsu_21731_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21731_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21731_000
 
 G002+AKS-AA55_21731_000
 【정의】

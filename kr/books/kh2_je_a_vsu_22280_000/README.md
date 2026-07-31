@@ -1,13 +1,13 @@
 # 경릉배릉의 [敬陵拜陵儀]
 
-- 순번: 60 / 346
+- 순번: 60 / 352
 - 책 ID: `kh2_je_a_vsu_22280_000`
-- 원제: 敬陵拜陵儀
+- 한자 제목: 敬陵拜陵儀
 - 저자/편자: 예조(조선) 편
 - 연대: 純祖9(1809)寫
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22280_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22280_000
 
 ## 해제
 

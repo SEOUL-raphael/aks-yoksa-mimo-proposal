@@ -1,7 +1,7 @@
 # 사고실록포쇄급어제책봉안형지안 [史庫實錄曝曬及御製冊奉安形止案] - 해제
 
 - 책 ID: `kh2_je_a_vsu_24907_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24907_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24907_000
 
 G002+AKS-AA55_24907_000
 【정의】

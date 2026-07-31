@@ -1,13 +1,13 @@
 # 궁중비서 [宮中秘書n1책]
 
-- 순번: 142 / 346
+- 순번: 144 / 352
 - 책 ID: `kh2_je_a_vsu_20170_000`
-- 원제: 宮中秘書n1책
+- 한자 제목: 宮中秘書n1책
 - 저자/편자: 이왕직실록편찬회
 - 연대: 1927
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20170_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20170_000
 
 ## 해제
 

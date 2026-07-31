@@ -1,13 +1,13 @@
 # 강상문답 [江上問答]
 
-- 순번: 44 / 346
+- 순번: 44 / 352
 - 책 ID: `kh2_je_a_vsu_20159_000`
-- 원제: 江上問答
+- 한자 제목: 江上問答
 - 저자/편자: 한홍조(조선) 록
 - 연대: *
 - 공개 번역 기사: 5건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20159_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20159_000
 
 ## 해제
 

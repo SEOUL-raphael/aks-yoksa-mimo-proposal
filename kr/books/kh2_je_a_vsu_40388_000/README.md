@@ -1,13 +1,13 @@
 # 고문백선 [고문션(古文百選)n1-10책]
 
-- 순번: 87 / 346
+- 순번: 87 / 352
 - 책 ID: `kh2_je_a_vsu_40388_000`
-- 원제: 고문션(古文百選)n1-10책
+- 한자 제목: 고문션(古文百選)n1-10책
 - 저자/편자: 편자 미상
 - 연대: 寫年未詳
 - 공개 번역 기사: 8건
 - 권책 수: 6
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40388_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40388_000
 
 ## 해제
 

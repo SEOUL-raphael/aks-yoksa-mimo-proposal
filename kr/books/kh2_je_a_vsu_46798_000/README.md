@@ -1,13 +1,13 @@
 # 대명영렬전 [대명영렬뎐n1-8책]
 
-- 순번: 207 / 346
+- 순번: 210 / 352
 - 책 ID: `kh2_je_a_vsu_46798_000`
-- 원제: 대명영렬뎐n1-8책
+- 한자 제목: 대명영렬뎐n1-8책
 - 저자/편자: 편•역자 미상
 - 연대: 寫年未詳
 - 공개 번역 기사: 2건
 - 권책 수: 2
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_46798_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_46798_000
 
 ## 해제
 

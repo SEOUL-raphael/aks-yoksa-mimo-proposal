@@ -1,7 +1,7 @@
 # 단종대왕실록부록봉안급포쇄시형지안 [端宗大王實錄附錄奉安及曝曬時形止案] - 해제
 
 - 책 ID: `kh2_je_a_vsu_23695_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23695_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23695_000
 
 G002+AKS-AA55_23695_000
 【정의】

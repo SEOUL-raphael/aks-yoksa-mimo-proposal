@@ -1,13 +1,13 @@
 # 동사촬요 [東史撮要]
 
-- 순번: 241 / 346
+- 순번: 245 / 352
 - 책 ID: `kh2_je_a_vsu_20200_000`
-- 원제: 東史撮要
+- 한자 제목: 東史撮要
 - 저자/편자: 편자미상
 - 연대: *
 - 공개 번역 기사: 6건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20200_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20200_000
 
 ## 해제
 

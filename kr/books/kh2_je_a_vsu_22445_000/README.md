@@ -1,13 +1,13 @@
 # 묘전궁원단묘의궤 [廟殿宮園壇墓儀軌]
 
-- 순번: 269 / 346
+- 순번: 273 / 352
 - 책 ID: `kh2_je_a_vsu_22445_000`
-- 원제: 廟殿宮園壇墓儀軌
+- 한자 제목: 廟殿宮園壇墓儀軌
 - 저자/편자: 이왕직 편
 - 연대: 1935年寫
 - 공개 번역 기사: 4건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22445_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22445_000
 
 ## 본문 번역 묶음
 

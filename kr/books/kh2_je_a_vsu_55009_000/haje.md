@@ -1,7 +1,7 @@
 # 병와전서 남사록 [甁瓦全書 南屣錄] - 해제
 
 - 책 ID: `kh2_je_a_vsu_55009_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55009_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55009_000
 
 G002+AKS-AA55_55009_000
 [1]

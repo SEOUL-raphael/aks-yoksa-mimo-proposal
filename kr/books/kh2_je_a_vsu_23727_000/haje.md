@@ -1,7 +1,7 @@
 # 사각수개후실록포쇄형지안 [史閣修改後實錄曝曬形止案] - 해제
 
 - 책 ID: `kh2_je_a_vsu_23727_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23727_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23727_000
 
 G002+AKS-AA55_23727_000
 【정의】

@@ -1,13 +1,13 @@
 # 국조사략 [國朝事略]
 
-- 순번: 128 / 346
+- 순번: 128 / 352
 - 책 ID: `kh2_je_a_vsu_20169_000`
-- 원제: 國朝事略
+- 한자 제목: 國朝事略
 - 저자/편자: 편자미상
 - 연대: *
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20169_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20169_000
 
 ## 해제
 

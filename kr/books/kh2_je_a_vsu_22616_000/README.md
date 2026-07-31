@@ -1,13 +1,13 @@
 # 고종탄신칭하봉전문 [高宗誕辰稱賀奉箋文]
 
-- 순번: 91 / 346
+- 순번: 91 / 352
 - 책 ID: `kh2_je_a_vsu_22616_000`
-- 원제: 高宗誕辰稱賀奉箋文
+- 한자 제목: 高宗誕辰稱賀奉箋文
 - 저자/편자: 김윤식(조선) 찬
 - 연대: 高宗20(1883)寫
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22616_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22616_000
 
 ## 해제
 

@@ -1,13 +1,13 @@
 # 고종태황제행장 [高宗太皇帝行狀]
 
-- 순번: 95 / 346
+- 순번: 95 / 352
 - 책 ID: `kh2_je_a_vsu_20660_000`
-- 원제: 高宗太皇帝行狀
+- 한자 제목: 高宗太皇帝行狀
 - 저자/편자: 이재완
 - 연대: 1919
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20660_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20660_000
 
 ## 해제
 

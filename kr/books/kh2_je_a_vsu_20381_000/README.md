@@ -1,13 +1,13 @@
 # 가헌 [家憲]
 
-- 순번: 26 / 346
+- 순번: 26 / 352
 - 책 ID: `kh2_je_a_vsu_20381_000`
-- 원제: 家憲
+- 한자 제목: 家憲
 - 저자/편자: 편자미상
 - 연대: 1873
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20381_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20381_000
 
 ## 해제
 

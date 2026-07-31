@@ -1,7 +1,7 @@
 # 구화사적 [構禍事蹟] - 해제
 
 - 책 ID: `kh2_je_a_vsu_20167_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20167_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20167_000
 
 G002+AKS-AA55_20167_000
 【정의】

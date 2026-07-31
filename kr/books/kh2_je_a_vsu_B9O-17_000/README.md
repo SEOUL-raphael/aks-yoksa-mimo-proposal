@@ -1,13 +1,13 @@
 # 벽계영유록 [碧鷄榮遊錄n1책]
 
-- 순번: 299 / 346
+- 순번: 304 / 352
 - 책 ID: `kh2_je_a_vsu_B9O^17_000`
-- 원제: 碧鷄榮遊錄n1책
+- 한자 제목: 碧鷄榮遊錄n1책
 - 저자/편자: 심동규
 - 연대: 純祖年間
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_B9O%5E17_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_B9O%5E17_000
 
 ## 본문 번역 묶음
 

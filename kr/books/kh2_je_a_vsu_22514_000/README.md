@@ -1,13 +1,13 @@
 # 봉상시신실방위식 [奉常司神室方位式]
 
-- 순번: 318 / 346
+- 순번: 323 / 352
 - 책 ID: `kh2_je_a_vsu_22514_000`
-- 원제: 奉常司神室方位式
+- 한자 제목: 奉常司神室方位式
 - 저자/편자: 봉상시(조선) 편
 - 연대: 高宗後期(1890頃)寫
 - 공개 번역 기사: 6건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22514_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22514_000
 
 ## 해제
 

@@ -1,7 +1,7 @@
 # 고문백선 [고문션(古文百選)n1-10책] - 해제
 
 - 책 ID: `kh2_je_a_vsu_40388_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40388_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40388_000
 
 G002+AKS-AA55_40388_000
 【정의】

@@ -1,7 +1,7 @@
 # 경산지 [京山志n1-2책] - 해제
 
 - 책 ID: `kh2_je_a_vsu_55015_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55015_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55015_000
 
 G002+AKS-AA55_55015_000
 [1]

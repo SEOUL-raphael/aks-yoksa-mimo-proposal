@@ -1,13 +1,13 @@
 # 묘호도감의궤 [廟號都監儀軌n1-1책]
 
-- 순번: 271 / 346
+- 순번: 275 / 352
 - 책 ID: `kh2_je_a_vsu_23062_000`
-- 원제: 廟號都監儀軌n1-1책
+- 한자 제목: 廟號都監儀軌n1-1책
 - 저자/편자: 묘호도감(조선) 편
 - 연대: 高宗 27(1890) 寫
 - 공개 번역 기사: 6건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23062_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23062_000
 
 ## 본문 번역 묶음
 

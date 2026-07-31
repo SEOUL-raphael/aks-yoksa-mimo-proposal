@@ -1,13 +1,13 @@
 # 남정일록 [南征日錄n1-4책]
 
-- 순번: 182 / 346
+- 순번: 185 / 352
 - 책 ID: `kh2_je_a_vsu_20184_000`
-- 원제: 南征日錄n1-4책
+- 한자 제목: 南征日錄n1-4책
 - 저자/편자: 영조
 - 연대: 未詳
 - 공개 번역 기사: 3건
 - 권책 수: 2
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20184_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20184_000
 
 ## 해제
 

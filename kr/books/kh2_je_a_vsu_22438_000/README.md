@@ -1,13 +1,13 @@
 # 덕안궁제문 [德安宮祭文]
 
-- 순번: 222 / 346
+- 순번: 225 / 352
 - 책 ID: `kh2_je_a_vsu_22438_000`
-- 원제: 德安宮祭文
+- 한자 제목: 德安宮祭文
 - 저자/편자: 이왕직 편
 - 연대: 1911-1929
 - 공개 번역 기사: 6건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22438_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22438_000
 
 ## 해제
 

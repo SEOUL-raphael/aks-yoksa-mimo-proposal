@@ -1,13 +1,13 @@
 # 궁내부잡철 [宮內府雜綴]
 
-- 순번: 137 / 346
+- 순번: 138 / 352
 - 책 ID: `kh2_je_a_vsu_23637_000`
-- 원제: 宮內府雜綴
+- 한자 제목: 宮內府雜綴
 - 저자/편자: 궁내부 편
 - 연대: 순종2년
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23637_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23637_000
 
 ## 본문 번역 묶음
 

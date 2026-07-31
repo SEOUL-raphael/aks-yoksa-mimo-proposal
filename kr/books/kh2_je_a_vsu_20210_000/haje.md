@@ -1,7 +1,7 @@
 # 비밀일기 : 인조이십오년정해 - 효종육년을미 삼월 [秘密日記 : 仁祖二十五年丁亥 - 孝宗六年乙未 三月] - 해제
 
 - 책 ID: `kh2_je_a_vsu_20210_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20210_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20210_000
 
 G002+AKS-AA55_20210_000
 【정의】

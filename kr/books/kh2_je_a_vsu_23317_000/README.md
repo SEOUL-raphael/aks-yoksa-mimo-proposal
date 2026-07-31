@@ -1,13 +1,13 @@
 # 병제 [兵制]
 
-- 순번: 314 / 346
+- 순번: 319 / 352
 - 책 ID: `kh2_je_a_vsu_23317_000`
-- 원제: 兵制
+- 한자 제목: 兵制
 - 저자/편자: 편자미상
 - 연대: 미상
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23317_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23317_000
 
 ## 해제
 

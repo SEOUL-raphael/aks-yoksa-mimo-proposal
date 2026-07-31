@@ -1,7 +1,7 @@
 # 동북안사록 [東北按使錄] - 해제
 
 - 책 ID: `kh2_je_a_vsu_20197_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20197_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20197_000
 
 G002+AKS-AA55_20197_000
 【정의】

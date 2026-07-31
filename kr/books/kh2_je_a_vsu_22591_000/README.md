@@ -1,13 +1,13 @@
 # 가례도감도청의궤 [嘉禮都監都廳儀軌]
 
-- 순번: 8 / 346
+- 순번: 8 / 352
 - 책 ID: `kh2_je_a_vsu_22591_000`
-- 원제: 嘉禮都監都廳儀軌
+- 한자 제목: 嘉禮都監都廳儀軌
 - 저자/편자: 가례도감(조선) 편
 - 연대: 英祖35(1759)寫
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22591_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22591_000
 
 ## 본문 번역 묶음
 

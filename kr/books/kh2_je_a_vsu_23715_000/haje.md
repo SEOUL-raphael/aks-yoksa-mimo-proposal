@@ -1,7 +1,7 @@
 # 무주적상산성열성실록포쇄형지안 [茂朱赤裳山城列聖實錄曝曬形止案] - 해제
 
 - 책 ID: `kh2_je_a_vsu_23715_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23715_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23715_000
 
 G002+AKS-AA55_23715_000
 【정의】

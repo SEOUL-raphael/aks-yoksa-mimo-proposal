@@ -1,13 +1,13 @@
 # 동경잡기 [東京雜記n1-3책]
 
-- 순번: 226 / 346
+- 순번: 229 / 352
 - 책 ID: `kh2_je_a_vsu_24232_000`
-- 원제: 東京雜記n1-3책
+- 한자 제목: 東京雜記n1-3책
 - 저자/편자: 민주면(조선) 편
 - 연대: 헌종11년
 - 공개 번역 기사: 9건
 - 권책 수: 2
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24232_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24232_000
 
 ## 해제
 

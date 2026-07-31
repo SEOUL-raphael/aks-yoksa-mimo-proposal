@@ -1,7 +1,7 @@
 # 농상공부고빙외국인안 [農商工部雇聘外國人案] - 해제
 
 - 책 ID: `kh2_je_a_vsu_20640_000`
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20640_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20640_000
 
 G002+AKS-AA55_20640_000
 【정의】

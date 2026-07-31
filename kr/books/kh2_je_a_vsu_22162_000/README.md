@@ -1,13 +1,13 @@
 # 묘중제향의 [廟中祭享儀]
 
-- 순번: 270 / 346
+- 순번: 274 / 352
 - 책 ID: `kh2_je_a_vsu_22162_000`
-- 원제: 廟中祭享儀
+- 한자 제목: 廟中祭享儀
 - 저자/편자: 미상
 - 연대: 미상
 - 공개 번역 기사: 2건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22162_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22162_000
 
 ## 해제
 

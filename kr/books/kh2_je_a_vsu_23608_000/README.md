@@ -1,13 +1,13 @@
 # 경상도자인현일록 [慶尙道慈仁縣日錄]
 
-- 순번: 68 / 346
+- 순번: 68 / 352
 - 책 ID: `kh2_je_a_vsu_23608_000`
-- 원제: 慶尙道慈仁縣日錄
+- 한자 제목: 慶尙道慈仁縣日錄
 - 저자/편자: 오횡묵(조선) 저
 - 연대: 寫年未詳
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23608_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23608_000
 
 ## 해제
 

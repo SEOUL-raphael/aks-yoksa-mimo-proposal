@@ -1,13 +1,13 @@
 # 별하고응봉 [別下庫應捧]
 
-- 순번: 300 / 346
+- 순번: 305 / 352
 - 책 ID: `kh2_je_a_vsu_23161_000`
-- 원제: 別下庫應捧
+- 한자 제목: 別下庫應捧
 - 저자/편자: 호조 편
 - 연대: 미상
 - 공개 번역 기사: 1건
 - 권책 수: 1
-- 서지 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23161_000
+- 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23161_000
 
 ## 본문 번역 묶음
 
