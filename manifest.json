@@ -1,8 +1,8 @@
 {
-  "name": "aks-yoksa-public-md-snapshot",
+  "name": "korean-studies-digital-archive-public-md-snapshot",
   "created_at_kst": "2026-07-31T18:47:58+09:00",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
-  "source_name": "한국학중앙연구원 역사지식 고도서 본문텍스트 서명별 목록",
+  "source_name": "한국학중앙연구원 한국학 디지털 아카이브 고도서 본문텍스트 서명별 목록",
   "repository_url": "https://github.com/SEOUL-raphael/aks-yoksa-mimo-proposal",
   "layout": "markdown-first: kr/books/{book_id}/README.md + part-001.md",
   "published_books": 352,

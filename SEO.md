@@ -12,7 +12,7 @@
 
 대표 검색어:
 
-- AKS 역사지식 고도서 번역
+- 한국학 디지털 아카이브 고도서 번역
 - 한국학중앙연구원 고도서 한문 원문 번역
 - 한문 원문 한글 번역 독음 의미 요약
-- Korean classics Hanmun translation AKS Yoksa
+- Korean Studies Digital Archive Korean classics Hanmun translation

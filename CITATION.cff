@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this public Markdown snapshot, please cite the repository and the original AKS source."
-title: "AKS 역사지식 고도서 한문 원문·한글 번역 공개 스냅샷"
+message: "If you use this public Markdown snapshot, please cite the repository and the original Korean Studies Digital Archive source."
+title: "한국학 디지털 아카이브 고도서 한문 원문·한글 번역 공개 스냅샷"
 type: dataset
 authors:
   - name: "SEOUL-raphael"
@@ -9,10 +9,10 @@ url: "https://github.com/SEOUL-raphael/aks-yoksa-mimo-proposal"
 date-released: "2026-07-31"
 year: "2026"
 keywords:
-  - AKS
-  - 역사지식
+  - 한국학중앙연구원
+  - 한국학 디지털 아카이브
   - 고도서
   - 한문
   - 한글 번역
   - digital humanities
-abstract: "한국학중앙연구원 역사지식 고도서 본문 텍스트의 한문 원문과 한글 번역, 독음, 의미 요약을 책별 Markdown으로 공개한 스냅샷입니다."
+abstract: "한국학중앙연구원 한국학 디지털 아카이브 고도서 본문 텍스트의 한문 원문과 한글 번역, 독음, 의미 요약을 책별 Markdown으로 공개한 스냅샷입니다."
