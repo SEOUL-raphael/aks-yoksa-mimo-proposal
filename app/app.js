@@ -283,6 +283,31 @@
     });
   }
 
+  // Links inside fetched .md content (e.g. "[해제 보기](haje.md)",
+  // "[part-001.md](part-001.md)") are written relative to the book's own
+  // directory, not to app/index.html. Left as-is, the browser resolves them
+  // against the app page's URL and they 404. Route the ones we recognize
+  // (haje.md, part-NNN.md) to the in-app reader tabs, and resolve anything
+  // else relative to the book directory instead of the app page.
+  function rewriteContentLinks(container, book) {
+    var anchors = container.querySelectorAll("a[href]");
+    for (var i = 0; i < anchors.length; i++) {
+      var a = anchors[i];
+      var href = a.getAttribute("href");
+      if (!href || /^([a-z]+:)?\/\//i.test(href) || href.charAt(0) === "#") continue;
+      if (/^haje\.md$/.test(href)) {
+        a.href = "#book=" + encodeURIComponent(book.book_id) + "&view=haje";
+        continue;
+      }
+      var partMatch = href.match(/^part-0*(\d+)\.md$/);
+      if (partMatch) {
+        a.href = "#book=" + encodeURIComponent(book.book_id) + "&part=" + parseInt(partMatch[1], 10);
+        continue;
+      }
+      a.href = "../" + bookDir(book) + "/" + href;
+    }
+  }
+
   function fetchTextCached(path) {
     if (state.partCache[path]) return state.partCache[path];
     var p = fetchText(path);
@@ -394,6 +419,7 @@
         fetchTextCached(path)
           .then(function (text) {
             readerContent.innerHTML = renderMarkdown(text);
+            rewriteContentLinks(readerContent, book);
             readerSource.innerHTML = '원문 Markdown: <a href="../' + path + '">' + path + "</a>";
           })
           .catch(function () {
