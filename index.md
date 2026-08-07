@@ -7,6 +7,7 @@ description: 한국학중앙연구원 한국학 디지털 아카이브 고도서
 
 이 페이지는 GitHub Pages나 검색엔진 미리보기를 위한 진입점입니다.
 
+- [책 탐색(검색·필터) 웹앱](app/index.html)
 - [책별 Markdown 목록](kr/README.md)
 - [프로젝트 개요](PROJECT.md)
 - [데이터 출처와 범위](DATA_SOURCE.md)

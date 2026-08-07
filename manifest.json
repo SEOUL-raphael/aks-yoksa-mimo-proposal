@@ -1,6 +1,6 @@
 {
   "name": "korean-studies-digital-archive-public-md-snapshot",
-  "created_at_kst": "2026-08-07T10:44:35+09:00",
+  "created_at_kst": "2026-08-07T10:57:28+09:00",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
   "source_name": "한국학중앙연구원 한국학 디지털 아카이브 고도서 본문텍스트 서명별 목록",
   "repository_url": "https://github.com/SEOUL-raphael/aks-yoksa-mimo-proposal",

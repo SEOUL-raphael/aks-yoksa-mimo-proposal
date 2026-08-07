@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>고도서 한문 원문·한글 번역 탐색</title>
+<meta name="description" content="한국학 디지털 아카이브 고도서 한문 원문, 한글 번역, 독음, 의미 요약을 책 제목·저자·연도로 검색하고 탐색합니다." />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="mark">文</span>
+    <div>
+      <h1>고도서 한문 원문·한글 번역</h1>
+      <p>한국학 디지털 아카이브 공개 스냅샷 탐색</p>
+    </div>
+  </div>
+  <a class="ghlink" href="../index.md">저장소 홈으로</a>
+</header>
+
+<section class="stats" id="stats" aria-live="polite">
+  <div class="stat"><span class="statValue" id="statBooks">-</span><span class="statLabel">책</span></div>
+  <div class="stat"><span class="statValue" id="statArticles">-</span><span class="statLabel">기사</span></div>
+  <div class="stat"><span class="statValue" id="statUpdated">-</span><span class="statLabel">최근 갱신</span></div>
+</section>
+
+<section class="controls">
+  <input id="searchInput" type="search" autocomplete="off" placeholder="제목, 한문 제목, 저자로 검색 (예: 척독, 尺牘, 지송욱)" aria-label="책 검색" />
+  <select id="sortSelect" aria-label="정렬 기준">
+    <option value="title">제목순</option>
+    <option value="author">저자순</option>
+    <option value="year">연도순</option>
+    <option value="articles-desc">기사 많은순</option>
+    <option value="articles-asc">기사 적은순</option>
+  </select>
+  <span id="resultCount" class="resultCount"></span>
+</section>
+
+<main>
+  <div id="grid" class="grid" role="list"></div>
+  <p id="emptyState" class="emptyState" hidden>검색 결과가 없습니다.</p>
+  <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+</main>
+
+<footer>
+  <p>데이터는 MiniMax 번역 성공분만 포함합니다. 원문 출처와 상세 번역은 각 책 문서를 참고하세요.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
