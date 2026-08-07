@@ -3,18 +3,30 @@
 
   var state = {
     books: [],
+    booksById: {},
+    partsByBook: {},
     query: "",
     sort: "title",
     shown: 0,
+    filtered: [],
+    partCache: {},
   };
   var PAGE_SIZE = 60;
 
+  var gridView = document.getElementById("gridView");
   var grid = document.getElementById("grid");
   var emptyState = document.getElementById("emptyState");
   var resultCount = document.getElementById("resultCount");
   var searchInput = document.getElementById("searchInput");
   var sortSelect = document.getElementById("sortSelect");
   var sentinel = document.getElementById("sentinel");
+
+  var readerView = document.getElementById("readerView");
+  var readerHeader = document.getElementById("readerHeader");
+  var partTabs = document.getElementById("partTabs");
+  var readerContent = document.getElementById("readerContent");
+  var readerSource = document.getElementById("readerSource");
+  var backLink = document.getElementById("backLink");
 
   function normalize(text) {
     return (text || "").toString().toLowerCase();
@@ -35,6 +47,114 @@
     return rows;
   }
 
+  // ---- Minimal Markdown renderer, scoped to what build_github_md_snapshot.py
+  // actually emits: headings, "- " bullet lists, "|" tables, ``` code fences,
+  // "---" rules, **bold**, `code`, [text](href), and plain paragraphs. ----
+  function escapeHtml(s) {
+    return s
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+  }
+
+  function inlineMd(s) {
+    s = escapeHtml(s);
+    s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+    s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+    s = s.replace(/\[([^\]]*)\]\(([^)]+)\)/g, function (m, text, href) {
+      return '<a href="' + href + '">' + text + "</a>";
+    });
+    return s;
+  }
+
+  function renderTable(tableLines) {
+    var rows = tableLines.map(function (l) {
+      return l.replace(/^\|/, "").replace(/\|$/, "").split("|").map(function (c) {
+        return c.trim();
+      });
+    });
+    var header = rows[0];
+    var body = rows.slice(2);
+    var out = "<div class=\"tableWrap\"><table><thead><tr>";
+    header.forEach(function (h) { out += "<th>" + inlineMd(h) + "</th>"; });
+    out += "</tr></thead><tbody>";
+    body.forEach(function (r) {
+      out += "<tr>" + r.map(function (c) { return "<td>" + inlineMd(c) + "</td>"; }).join("") + "</tr>";
+    });
+    out += "</tbody></table></div>";
+    return out;
+  }
+
+  function renderMarkdown(text) {
+    var lines = text.replace(/\r\n/g, "\n").split("\n");
+    var out = [];
+    var i = 0;
+    while (i < lines.length) {
+      var line = lines[i];
+      if (/^```/.test(line)) {
+        var buf = [];
+        i++;
+        while (i < lines.length && !/^```/.test(lines[i])) {
+          buf.push(lines[i]);
+          i++;
+        }
+        i++;
+        out.push('<pre class="codeBlock"><code>' + escapeHtml(buf.join("\n")) + "</code></pre>");
+        continue;
+      }
+      if (/^\s*$/.test(line)) {
+        i++;
+        continue;
+      }
+      if (/^-{3,}\s*$/.test(line)) {
+        out.push("<hr />");
+        i++;
+        continue;
+      }
+      var heading = line.match(/^(#{1,6})\s+(.*)$/);
+      if (heading) {
+        var level = heading[1].length;
+        out.push("<h" + level + ">" + inlineMd(heading[2]) + "</h" + level + ">");
+        i++;
+        continue;
+      }
+      if (/^\|/.test(line)) {
+        var tableLines = [];
+        while (i < lines.length && /^\|/.test(lines[i])) {
+          tableLines.push(lines[i]);
+          i++;
+        }
+        out.push(renderTable(tableLines));
+        continue;
+      }
+      if (/^-\s+/.test(line)) {
+        var items = [];
+        while (i < lines.length && /^-\s+/.test(lines[i])) {
+          items.push(lines[i].replace(/^-\s+/, ""));
+          i++;
+        }
+        out.push("<ul>" + items.map(function (it) { return "<li>" + inlineMd(it) + "</li>"; }).join("") + "</ul>");
+        continue;
+      }
+      var para = [line];
+      i++;
+      while (
+        i < lines.length &&
+        !/^\s*$/.test(lines[i]) &&
+        !/^#{1,6}\s/.test(lines[i]) &&
+        !/^-\s+/.test(lines[i]) &&
+        !/^```/.test(lines[i]) &&
+        !/^\|/.test(lines[i]) &&
+        !/^-{3,}\s*$/.test(lines[i])
+      ) {
+        para.push(lines[i]);
+        i++;
+      }
+      out.push("<p>" + inlineMd(para.join(" ")) + "</p>");
+    }
+    return out.join("\n");
+  }
+
   function loadStats() {
     fetch("../manifest.json")
       .then(function (r) { return r.json(); })
@@ -47,17 +167,19 @@
       .catch(function () {});
   }
 
-  function loadBooks() {
-    fetch("../_index/books.jsonl")
-      .then(function (r) { return r.text(); })
-      .then(function (text) {
-        state.books = parseJsonl(text);
-        render(true);
-      })
-      .catch(function () {
-        emptyState.hidden = false;
-        emptyState.textContent = "책 목록을 불러오지 못했습니다.";
+  function loadIndexes() {
+    return Promise.all([
+      fetch("../_index/books.jsonl").then(function (r) { return r.text(); }),
+      fetch("../_index/parts.jsonl").then(function (r) { return r.text(); }),
+    ]).then(function (results) {
+      state.books = parseJsonl(results[0]);
+      state.books.forEach(function (b) { state.booksById[b.book_id] = b; });
+      var parts = parseJsonl(results[1]);
+      parts.forEach(function (p) {
+        if (!state.partsByBook[p.book_id]) state.partsByBook[p.book_id] = [];
+        state.partsByBook[p.book_id].push(p);
       });
+    });
   }
 
   function matches(book, query) {
@@ -89,7 +211,7 @@
   function cardFor(book) {
     var a = document.createElement("a");
     a.className = "card";
-    a.href = "../" + book.path;
+    a.href = "#book=" + encodeURIComponent(book.book_id);
     a.setAttribute("role", "listitem");
 
     var title = document.createElement("div");
@@ -123,7 +245,7 @@
     return a;
   }
 
-  function render(reset) {
+  function renderGrid(reset) {
     var items = filteredSorted();
     if (reset) {
       grid.innerHTML = "";
@@ -141,31 +263,202 @@
   }
 
   function loadMoreIfNeeded() {
-    if (!state.filtered) return;
+    if (!state.filtered.length) return;
     if (state.shown >= state.filtered.length) return;
     var rect = sentinel.getBoundingClientRect();
     if (rect.top < window.innerHeight * 1.5) {
-      render(false);
+      renderGrid(false);
     }
   }
+
+  // ---- Reader view: fetch a book's README/haje/part-*.md and render inline ----
+  function bookDir(book) {
+    return book.path.replace(/\/README\.md$/, "");
+  }
+
+  function fetchText(path) {
+    return fetch("../" + path).then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.text();
+    });
+  }
+
+  function fetchTextCached(path) {
+    if (state.partCache[path]) return state.partCache[path];
+    var p = fetchText(path);
+    state.partCache[path] = p;
+    p.catch(function () { delete state.partCache[path]; });
+    return p;
+  }
+
+  function renderReaderHeader(book) {
+    readerHeader.innerHTML =
+      '<h2 class="readerTitle">' + escapeHtml(book.title_ko || book.title_hanja || book.book_id) + "</h2>" +
+      (book.title_hanja && book.title_hanja !== book.title_ko
+        ? '<p class="readerHanja">' + escapeHtml(book.title_hanja) + "</p>"
+        : "") +
+      '<div class="cardMeta">' +
+      [book.author || "저자 미상", book.year || "연도 미상", (book.published_article_count || 0) + "건 기사", (book.volume_count || 0) + "권"]
+        .map(function (t) { return '<span class="chip">' + escapeHtml(t) + "</span>"; })
+        .join("") +
+      "</div>";
+  }
+
+  function renderTabs(book, parts, hasHaje, activeKind, activePart) {
+    partTabs.innerHTML = "";
+    var readmeTab = tabButton("책 소개", activeKind === "readme", function () {
+      openBook(book.book_id, "readme", null);
+    });
+    partTabs.appendChild(readmeTab);
+    if (hasHaje) {
+      partTabs.appendChild(
+        tabButton("해제", activeKind === "haje", function () {
+          openBook(book.book_id, "haje", null);
+        })
+      );
+    }
+    parts.forEach(function (part) {
+      partTabs.appendChild(
+        tabButton("묶음 " + part.part, activeKind === "part" && activePart === part.part, function () {
+          openBook(book.book_id, "part", part.part);
+        })
+      );
+    });
+  }
+
+  function tabButton(label, active, onClick) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "tab" + (active ? " active" : "");
+    btn.textContent = label;
+    btn.setAttribute("role", "tab");
+    btn.setAttribute("aria-selected", active ? "true" : "false");
+    btn.addEventListener("click", onClick);
+    return btn;
+  }
+
+  function currentPath(book, kind, partNo) {
+    if (kind === "haje") return bookDir(book) + "/haje.md";
+    if (kind === "part") {
+      var parts = state.partsByBook[book.book_id] || [];
+      var match = parts.filter(function (p) { return p.part === partNo; })[0];
+      return match ? match.path : null;
+    }
+    return book.path;
+  }
+
+  function openBook(bookId, kind, partNo) {
+    var hash = "#book=" + encodeURIComponent(bookId);
+    if (kind === "haje") hash += "&view=haje";
+    if (kind === "part") hash += "&part=" + partNo;
+    if (location.hash !== hash) {
+      location.hash = hash;
+      return; // hashchange will re-enter openBook via route()
+    }
+    renderBook(bookId, kind || "readme", partNo || null);
+  }
+
+  function renderBook(bookId, kind, partNo) {
+    var book = state.booksById[bookId];
+    if (!book) {
+      showGrid();
+      return;
+    }
+    showReader();
+    renderReaderHeader(book);
+    readerContent.innerHTML = '<p class="loading">불러오는 중…</p>';
+    readerSource.innerHTML = "";
+
+    var parts = (state.partsByBook[bookId] || []).slice().sort(function (a, b) { return a.part - b.part; });
+    var hajePath = bookDir(book) + "/haje.md";
+
+    fetchTextCached(hajePath)
+      .then(function () { return true; })
+      .catch(function () { return false; })
+      .then(function (hasHaje) {
+        var effectiveKind = kind;
+        var effectivePart = partNo;
+        if (effectiveKind === "part" && !parts.some(function (p) { return p.part === effectivePart; })) {
+          effectiveKind = "readme";
+          effectivePart = null;
+        }
+        if (effectiveKind === "haje" && !hasHaje) {
+          effectiveKind = "readme";
+        }
+        renderTabs(book, parts, hasHaje, effectiveKind, effectivePart);
+        var path = currentPath(book, effectiveKind, effectivePart);
+        if (!path) {
+          readerContent.innerHTML = '<p class="loading">표시할 내용이 없습니다.</p>';
+          return;
+        }
+        fetchTextCached(path)
+          .then(function (text) {
+            readerContent.innerHTML = renderMarkdown(text);
+            readerSource.innerHTML = '원문 Markdown: <a href="../' + path + '">' + path + "</a>";
+          })
+          .catch(function () {
+            readerContent.innerHTML = '<p class="loading">내용을 불러오지 못했습니다.</p>';
+          });
+      });
+  }
+
+  function showReader() {
+    gridView.hidden = true;
+    readerView.hidden = false;
+    window.scrollTo(0, 0);
+  }
+
+  function showGrid() {
+    readerView.hidden = true;
+    gridView.hidden = false;
+  }
+
+  function route() {
+    var hash = location.hash.replace(/^#/, "");
+    if (!hash) {
+      showGrid();
+      return;
+    }
+    var params = {};
+    hash.split("&").forEach(function (pair) {
+      var idx = pair.indexOf("=");
+      if (idx === -1) return;
+      params[pair.slice(0, idx)] = decodeURIComponent(pair.slice(idx + 1));
+    });
+    if (!params.book) {
+      showGrid();
+      return;
+    }
+    var kind = params.view === "haje" ? "haje" : params.part ? "part" : "readme";
+    renderBook(params.book, kind, params.part ? parseInt(params.part, 10) : null);
+  }
+
+  backLink.addEventListener("click", function (evt) {
+    evt.preventDefault();
+    location.hash = "";
+  });
 
   var searchTimer = null;
   searchInput.addEventListener("input", function () {
     clearTimeout(searchTimer);
     searchTimer = setTimeout(function () {
       state.query = searchInput.value;
-      render(true);
+      renderGrid(true);
     }, 120);
   });
 
   sortSelect.addEventListener("change", function () {
     state.sort = sortSelect.value;
-    render(true);
+    renderGrid(true);
   });
 
   window.addEventListener("scroll", loadMoreIfNeeded, { passive: true });
   window.addEventListener("resize", loadMoreIfNeeded);
+  window.addEventListener("hashchange", route);
 
   loadStats();
-  loadBooks();
+  loadIndexes().then(function () {
+    renderGrid(true);
+    route();
+  });
 })();

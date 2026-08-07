@@ -38,9 +38,19 @@
 </section>
 
 <main>
-  <div id="grid" class="grid" role="list"></div>
-  <p id="emptyState" class="emptyState" hidden>검색 결과가 없습니다.</p>
-  <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+  <div id="gridView">
+    <div id="grid" class="grid" role="list"></div>
+    <p id="emptyState" class="emptyState" hidden>검색 결과가 없습니다.</p>
+    <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+  </div>
+
+  <div id="readerView" class="reader" hidden>
+    <a id="backLink" class="backBtn" href="#">← 목록으로</a>
+    <header id="readerHeader" class="readerHeader"></header>
+    <nav id="partTabs" class="partTabs" role="tablist"></nav>
+    <article id="readerContent" class="readerContent"></article>
+    <p id="readerSource" class="readerSource"></p>
+  </div>
 </main>
 
 <footer>
