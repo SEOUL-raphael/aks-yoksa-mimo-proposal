@@ -3,7 +3,7 @@
 이 디렉터리는 책별 Markdown 열람 구조입니다.
 
 - 공개 책 수: 362건
-- 공개 기사 수: 69834건
+- 공개 기사 수: 69835건
 - 구조: `kr/books/<book_id>/README.md`에서 책을 열고, `part-001.md` 형식의 본문 묶음을 읽습니다.
 
 ## 책 목록
@@ -194,7 +194,7 @@
 | 182 | [나주압해정씨술선록](books/kh2_je_a_vsu_20509_000/README.md) | 10 |
 | 183 | [난록](books/kh2_je_a_vsu_20176_000/README.md) | 687 |
 | 184 | [난보초록](books/kh2_je_a_vsu_20177_000/README.md) | 175 |
-| 185 | [난초](books/kh2_je_a_vsu_20179_000/README.md) | 2444 |
+| 185 | [난초](books/kh2_je_a_vsu_20179_000/README.md) | 2445 |
 | 186 | [남별전제기상탁의장포진등록개수정책](books/kh2_je_a_vsu_22435_000/README.md) | 20 |
 | 187 | [남보](books/kh2_je_a_vsu_21727_000/README.md) | 18 |
 | 188 | [남순행시일기(융희 삼년 일월하)](books/kh2_je_a_vsu_20182_000/README.md) | 21 |

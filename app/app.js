@@ -5,6 +5,10 @@
     books: [],
     booksById: {},
     partsByBook: {},
+    sjwArticles: [],
+    sjwById: {},
+    items: [],
+    sourceFilter: "all",
     query: "",
     sort: "title",
     shown: 0,
@@ -20,6 +24,7 @@
   var searchInput = document.getElementById("searchInput");
   var sortSelect = document.getElementById("sortSelect");
   var sentinel = document.getElementById("sentinel");
+  var sourceTabs = document.getElementById("sourceTabs");
 
   var readerView = document.getElementById("readerView");
   var readerHeader = document.getElementById("readerHeader");
@@ -165,12 +170,26 @@
         document.getElementById("statUpdated").textContent = updated || "-";
       })
       .catch(function () {});
+    fetch("../_index/unified_stats.json")
+      .then(function (r) { return r.json(); })
+      .then(function (stats) {
+        var box = document.getElementById("sourceBreakdown");
+        if (!box) return;
+        var parts = [
+          "AKS " + ((stats.aks && stats.aks.articles) || 0) + "건",
+          "승정원일기 " + ((stats.sjw && stats.sjw.articles) || 0) + "건",
+          "고전번역원 " + ((stats.kotr && stats.kotr.ok) || 0) + "/" + ((stats.kotr && stats.kotr.total_articles) || 0) + "건",
+        ];
+        box.innerHTML = parts.map(function (t) { return '<span class="chip">' + escapeHtml(t) + "</span>"; }).join("");
+      })
+      .catch(function () {});
   }
 
   function loadIndexes() {
     return Promise.all([
       fetch("../_index/books.jsonl").then(function (r) { return r.text(); }),
       fetch("../_index/parts.jsonl").then(function (r) { return r.text(); }),
+      fetch("../_index/sjw_articles.jsonl").then(function (r) { return (r.ok ? r.text() : ""); }).catch(function () { return ""; }),
     ]).then(function (results) {
       state.books = parseJsonl(results[0]);
       state.books.forEach(function (b) { state.booksById[b.book_id] = b; });
@@ -179,25 +198,55 @@
         if (!state.partsByBook[p.book_id]) state.partsByBook[p.book_id] = [];
         state.partsByBook[p.book_id].push(p);
       });
+      state.sjwArticles = parseJsonl(results[2]);
+      state.sjwArticles.forEach(function (a) { state.sjwById[a.article_id] = a; });
+
+      state.items = [];
+      state.books.forEach(function (b) {
+        state.items.push({
+          _source: "aks",
+          _key: "aks:" + b.book_id,
+          title_ko: b.title_ko,
+          title_hanja: b.title_hanja,
+          subtitle: b.author || "저자 미상",
+          year: b.year,
+          count: b.published_article_count || 0,
+          ref: b,
+        });
+      });
+      state.sjwArticles.forEach(function (a) {
+        state.items.push({
+          _source: "sjw",
+          _key: "sjw:" + a.article_id,
+          title_ko: a.title_ko,
+          title_hanja: a.title_hanja,
+          subtitle: a.king_name_ko || "왕대 미상",
+          year: a.issue_date_label,
+          count: 1,
+          ref: a,
+        });
+      });
     });
   }
 
-  function matches(book, query) {
+  var SOURCE_LABELS = { aks: "한국학중앙연구원", sjw: "승정원일기", kotr: "한국고전번역원" };
+
+  function matches(item, query) {
     if (!query) return true;
-    var haystack = normalize(book.title_ko) + " " + normalize(book.title_hanja) + " " + normalize(book.author);
+    var haystack = normalize(item.title_ko) + " " + normalize(item.title_hanja) + " " + normalize(item.subtitle);
     return haystack.indexOf(query) !== -1;
   }
 
   function compare(a, b) {
     switch (state.sort) {
       case "author":
-        return normalize(a.author).localeCompare(normalize(b.author), "ko");
+        return normalize(a.subtitle).localeCompare(normalize(b.subtitle), "ko");
       case "year":
         return normalize(a.year).localeCompare(normalize(b.year), "ko");
       case "articles-desc":
-        return (b.published_article_count || 0) - (a.published_article_count || 0);
+        return (b.count || 0) - (a.count || 0);
       case "articles-asc":
-        return (a.published_article_count || 0) - (b.published_article_count || 0);
+        return (a.count || 0) - (b.count || 0);
       default:
         return normalize(a.title_ko || a.title_hanja).localeCompare(normalize(b.title_ko || b.title_hanja), "ko");
     }
@@ -205,35 +254,42 @@
 
   function filteredSorted() {
     var query = normalize(state.query);
-    return state.books.filter(function (b) { return matches(b, query); }).sort(compare);
+    return state.items
+      .filter(function (item) { return state.sourceFilter === "all" || item._source === state.sourceFilter; })
+      .filter(function (item) { return matches(item, query); })
+      .sort(compare);
   }
 
-  function cardFor(book) {
+  function cardFor(item) {
     var a = document.createElement("a");
     a.className = "card";
-    a.href = "#book=" + encodeURIComponent(book.book_id);
+    a.href = item._source === "aks"
+      ? "#book=" + encodeURIComponent(item.ref.book_id)
+      : "#sjw=" + encodeURIComponent(item.ref.article_id);
     a.setAttribute("role", "listitem");
+
+    var srcBadge = document.createElement("div");
+    srcBadge.className = "sourceBadge";
+    srcBadge.textContent = SOURCE_LABELS[item._source] || item._source;
+    a.appendChild(srcBadge);
 
     var title = document.createElement("div");
     title.className = "cardTitle";
-    title.textContent = book.title_ko || book.title_hanja || book.book_id;
+    title.textContent = item.title_ko || item.title_hanja || item._key;
     a.appendChild(title);
 
-    if (book.title_hanja && book.title_hanja !== book.title_ko) {
+    if (item.title_hanja && item.title_hanja !== item.title_ko) {
       var hanja = document.createElement("div");
       hanja.className = "cardHanja";
-      hanja.textContent = book.title_hanja;
+      hanja.textContent = item.title_hanja;
       a.appendChild(hanja);
     }
 
     var meta = document.createElement("div");
     meta.className = "cardMeta";
-    var chips = [
-      book.author || "저자 미상",
-      book.year || "연도 미상",
-      (book.published_article_count || 0) + "건 기사",
-      (book.volume_count || 0) + "권",
-    ];
+    var chips = item._source === "aks"
+      ? [item.subtitle, item.year || "연도 미상", item.count + "건 기사", (item.ref.volume_count || 0) + "권"]
+      : [item.subtitle, item.year || "날짜 미상"];
     chips.forEach(function (label) {
       var chip = document.createElement("span");
       chip.className = "chip";
@@ -428,6 +484,36 @@
       });
   }
 
+  function renderSjwArticle(articleId) {
+    var article = state.sjwById[articleId];
+    if (!article) {
+      showGrid();
+      return;
+    }
+    showReader();
+    readerHeader.innerHTML =
+      '<h2 class="readerTitle">' + escapeHtml(article.title_ko || article.title_hanja || article.article_id) + "</h2>" +
+      (article.title_hanja && article.title_hanja !== article.title_ko
+        ? '<p class="readerHanja">' + escapeHtml(article.title_hanja) + "</p>"
+        : "") +
+      '<div class="cardMeta">' +
+      [SOURCE_LABELS.sjw, article.king_name_ko || "왕대 미상", article.issue_date_label || "날짜 미상"]
+        .map(function (t) { return '<span class="chip">' + escapeHtml(t) + "</span>"; })
+        .join("") +
+      "</div>";
+    partTabs.innerHTML = "";
+    readerContent.innerHTML = '<p class="loading">불러오는 중…</p>';
+    readerSource.innerHTML = "";
+    fetchTextCached(article.path)
+      .then(function (text) {
+        readerContent.innerHTML = renderMarkdown(text);
+        readerSource.innerHTML = '원문 Markdown: <a href="../' + article.path + '">' + article.path + "</a>";
+      })
+      .catch(function () {
+        readerContent.innerHTML = '<p class="loading">내용을 불러오지 못했습니다.</p>';
+      });
+  }
+
   function showReader() {
     gridView.hidden = true;
     readerView.hidden = false;
@@ -451,6 +537,10 @@
       if (idx === -1) return;
       params[pair.slice(0, idx)] = decodeURIComponent(pair.slice(idx + 1));
     });
+    if (params.sjw) {
+      renderSjwArticle(params.sjw);
+      return;
+    }
     if (!params.book) {
       showGrid();
       return;
@@ -477,6 +567,21 @@
     state.sort = sortSelect.value;
     renderGrid(true);
   });
+
+  if (sourceTabs) {
+    sourceTabs.addEventListener("click", function (evt) {
+      var btn = evt.target.closest(".sourceTab");
+      if (!btn) return;
+      state.sourceFilter = btn.getAttribute("data-source");
+      Array.prototype.forEach.call(sourceTabs.querySelectorAll(".sourceTab"), function (b) {
+        var active = b === btn;
+        b.classList.toggle("active", active);
+        b.setAttribute("aria-selected", active ? "true" : "false");
+      });
+      location.hash = "";
+      renderGrid(true);
+    });
+  }
 
   window.addEventListener("scroll", loadMoreIfNeeded, { passive: true });
   window.addEventListener("resize", loadMoreIfNeeded);

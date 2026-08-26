@@ -19,17 +19,25 @@
   <a class="ghlink" href="https://github.com/SEOUL-raphael/aks-yoksa-mimo-proposal">GitHub 저장소</a>
 </header>
 
+<nav class="sourceTabs" id="sourceTabs" role="tablist">
+  <button class="sourceTab active" data-source="all" role="tab" aria-selected="true">전체</button>
+  <button class="sourceTab" data-source="aks" role="tab" aria-selected="false">한국학중앙연구원</button>
+  <button class="sourceTab" data-source="sjw" role="tab" aria-selected="false">승정원일기</button>
+  <button class="sourceTab" data-source="kotr" role="tab" aria-selected="false">한국고전번역원</button>
+</nav>
+
 <section class="stats" id="stats" aria-live="polite">
   <div class="stat"><span class="statValue" id="statBooks">-</span><span class="statLabel">책</span></div>
   <div class="stat"><span class="statValue" id="statArticles">-</span><span class="statLabel">기사</span></div>
   <div class="stat"><span class="statValue" id="statUpdated">-</span><span class="statLabel">최근 갱신</span></div>
+  <div class="stat sourceBreakdown" id="sourceBreakdown"></div>
 </section>
 
 <section class="controls">
-  <input id="searchInput" type="search" autocomplete="off" placeholder="제목, 한문 제목, 저자로 검색 (예: 척독, 尺牘, 지송욱)" aria-label="책 검색" />
+  <input id="searchInput" type="search" autocomplete="off" placeholder="제목, 한문 제목, 저자/왕대로 검색 (예: 척독, 尺牘, 지송욱, 인조)" aria-label="검색" />
   <select id="sortSelect" aria-label="정렬 기준">
     <option value="title">제목순</option>
-    <option value="author">저자순</option>
+    <option value="author">저자/왕대순</option>
     <option value="year">연도순</option>
     <option value="articles-desc">기사 많은순</option>
     <option value="articles-asc">기사 적은순</option>
@@ -54,7 +62,7 @@
 </main>
 
 <footer>
-  <p>데이터는 MiniMax 번역 성공분만 포함합니다. 원문 출처와 상세 번역은 각 책 문서를 참고하세요.</p>
+  <p>데이터는 MiniMax 번역 성공분만 포함합니다. 한국학중앙연구원·승정원일기·한국고전번역원 세 출처를 통합해 탐색합니다.</p>
 </footer>
 
 <script src="app.js"></script>

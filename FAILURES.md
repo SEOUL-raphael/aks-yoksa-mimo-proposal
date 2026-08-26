@@ -1,18 +1,18 @@
 # 번역 실패 사전
 
-- 전체 실패 건수: 21800건
+- 전체 실패 건수: 21989건
 - 70% 이상 번역 완료 후 잔여 실패가 남은 책: 96권
 
 ## 실패 유형별 건수
 
 | 유형 | 건수 |
 |---|---:|
-| disallowed_characters | 7612 |
-| token_limit | 6656 |
-| too_much_hanja | 4319 |
+| disallowed_characters | 7693 |
+| token_limit | 6690 |
+| too_much_hanja | 4387 |
 | rate_limit_or_auth | 2232 |
-| not_enough_hangul | 362 |
-| timeout | 301 |
+| not_enough_hangul | 365 |
+| timeout | 304 |
 | other | 301 |
 | placeholder_text | 17 |
 
