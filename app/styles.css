@@ -82,6 +82,9 @@ body {
 .statValue { font-size: 1.4rem; font-weight: 700; }
 .statLabel { font-size: 0.8rem; color: var(--muted); }
 
+.headerLinks { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+.hubLink { font-weight: 600; }
+
 .sourceTabs {
   display: flex;
   gap: 0.5rem;
