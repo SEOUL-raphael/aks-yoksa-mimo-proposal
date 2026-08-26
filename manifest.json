@@ -1,25 +1,25 @@
 {
   "name": "korean-studies-digital-archive-public-md-snapshot",
-  "created_at_kst": "2026-08-18T14:02:51+09:00",
+  "created_at_kst": "2026-08-27T03:07:39+09:00",
   "source": "http://yoksa.aks.ac.kr/jsp/aa/BookList.jsp?fcs=s&fcsd=st",
   "source_name": "한국학중앙연구원 한국학 디지털 아카이브 고도서 본문텍스트 서명별 목록",
   "repository_url": "https://github.com/SEOUL-raphael/aks-yoksa-mimo-proposal",
   "layout": "markdown-first: kr/books/{book_id}/README.md + part-001.md",
-  "published_books": 359,
-  "published_articles": 67994,
+  "published_books": 362,
+  "published_articles": 69834,
   "translation_result_counts_seen": {
-    "failed": 44275,
-    "ok": 68012
+    "failed": 42435,
+    "ok": 69852
   },
   "translation_queue_counts_seen": {
-    "failed": 31206,
-    "ok": 68012,
-    "pending": 13032,
-    "running": 37
+    "failed": 21800,
+    "ok": 69852,
+    "pending": 20627,
+    "running": 8
   },
   "excluded_ok_empty_translation": 18,
   "models": {
-    "MiniMax-M2.7": 67994
+    "MiniMax-M2.7": 69834
   },
   "public_scope": "MiniMax 성공(ok) 번역 중 번역문이 비어 있지 않은 항목만 포함",
   "crawl_noise_candidates_seen_in_public_scope": 0,
