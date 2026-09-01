@@ -1,20 +1,20 @@
 # 번역 실패 사전
 
-- 전체 실패 건수: 22056건
+- 전체 실패 건수: 40043건
 - 70% 이상 번역 완료 후 잔여 실패가 남은 책: 96권
 
 ## 실패 유형별 건수
 
 | 유형 | 건수 |
 |---|---:|
-| disallowed_characters | 7715 |
-| token_limit | 6706 |
-| too_much_hanja | 4413 |
-| rate_limit_or_auth | 2232 |
-| not_enough_hangul | 367 |
-| timeout | 305 |
-| other | 301 |
-| placeholder_text | 17 |
+| other | 16403 |
+| disallowed_characters | 8365 |
+| token_limit | 7170 |
+| too_much_hanja | 4930 |
+| rate_limit_or_auth | 2238 |
+| timeout | 536 |
+| not_enough_hangul | 383 |
+| placeholder_text | 18 |
 
 ## 70% 이상 완료된 책의 잔여 실패
 
@@ -79,40 +79,40 @@
 | [경효전일기](kr/books/kh2_je_a_vsu_22418_000/README.md) | 81% | 1755/2179 | [424건](kr/books/kh2_je_a_vsu_22418_000/FAILED.md) |
 | [괴산군삼강록](kr/books/kh2_je_a_vsu_B9C-182_000/README.md) | 80% | 132/165 | [33건](kr/books/kh2_je_a_vsu_B9C-182_000/FAILED.md) |
 | [가은세업](kr/books/kh2_je_a_vsu_B9O-32_000/README.md) | 80% | 12/15 | [3건](kr/books/kh2_je_a_vsu_B9O-32_000/FAILED.md) |
+| [내각지제교등록](kr/books/kh2_je_a_vsu_22534_000/README.md) | 79% | 61/77 | [16건](kr/books/kh2_je_a_vsu_22534_000/FAILED.md) |
 | [김포군읍지(경기도), 광무삼년시월](kr/books/kh2_je_a_vsu_24226_000/README.md) | 79% | 19/24 | [5건](kr/books/kh2_je_a_vsu_24226_000/FAILED.md) |
 | [견첩록](kr/books/kh2_je_a_vsu_20162_000/README.md) | 79% | 675/855 | [180건](kr/books/kh2_je_a_vsu_20162_000/FAILED.md) |
 | [교식계초](kr/books/kh2_je_a_vsu_22100_000/README.md) | 79% | 153/194 | [41건](kr/books/kh2_je_a_vsu_22100_000/FAILED.md) |
 | [거제군읍지](kr/books/kh2_je_a_vsu_24206_000/README.md) | 79% | 26/33 | [7건](kr/books/kh2_je_a_vsu_24206_000/FAILED.md) |
-| [동경일기](kr/books/kh2_je_a_vsu_B15ID-5_000/README.md) | 79% | 140/178 | [0건](kr/books/kh2_je_a_vsu_B15ID-5_000/FAILED.md) |
+| [동경일기](kr/books/kh2_je_a_vsu_B15ID-5_000/README.md) | 79% | 140/178 | [38건](kr/books/kh2_je_a_vsu_B15ID-5_000/FAILED.md) |
 | [금위영거동등록](kr/books/kh2_je_a_vsu_23288_000/README.md) | 79% | 625/795 | [170건](kr/books/kh2_je_a_vsu_23288_000/FAILED.md) |
 | [고성군읍지(강원도)](kr/books/kh2_je_a_vsu_24211_000/README.md) | 79% | 22/28 | [6건](kr/books/kh2_je_a_vsu_24211_000/FAILED.md) |
 | [공방등록](kr/books/kh2_je_a_vsu_23559_000/README.md) | 78% | 115/147 | [32건](kr/books/kh2_je_a_vsu_23559_000/FAILED.md) |
 | [금위영도등록](kr/books/kh2_je_a_vsu_23291_000/README.md) | 78% | 498/639 | [141건](kr/books/kh2_je_a_vsu_23291_000/FAILED.md) |
 | [궁궐지](kr/books/kh2_je_a_vsu_24363_000/README.md) | 78% | 474/610 | [136건](kr/books/kh2_je_a_vsu_24363_000/FAILED.md) |
 | [고종태황제어장주감의궤](kr/books/kh2_je_a_vsu_22920_000/README.md) | 78% | 326/420 | [94건](kr/books/kh2_je_a_vsu_22920_000/FAILED.md) |
-| [대왕대비전왕대비전대비전존숭도감의궤](kr/books/kh2_je_a_vsu_22803_000/README.md) | 78% | 190/245 | [0건](kr/books/kh2_je_a_vsu_22803_000/FAILED.md) |
-| [동궁일록](kr/books/kh2_je_a_vsu_20050_000/README.md) | 77% | 9367/12184 | [35건](kr/books/kh2_je_a_vsu_20050_000/FAILED.md) |
+| [대왕대비전왕대비전대비전존숭도감의궤](kr/books/kh2_je_a_vsu_22803_000/README.md) | 78% | 190/245 | [54건](kr/books/kh2_je_a_vsu_22803_000/FAILED.md) |
+| [동궁일록](kr/books/kh2_je_a_vsu_20050_000/README.md) | 77% | 9367/12184 | [2812건](kr/books/kh2_je_a_vsu_20050_000/FAILED.md) |
 | [가례도감의궤](kr/books/kh2_je_a_vsu_22592_000/README.md) | 76% | 54/71 | [17건](kr/books/kh2_je_a_vsu_22592_000/FAILED.md) |
 | [금위영도성개축등록](kr/books/kh2_je_a_vsu_23560_000/README.md) | 76% | 147/194 | [47건](kr/books/kh2_je_a_vsu_23560_000/FAILED.md) |
 | [가례도감도청의궤: 숙종7년 신유(1681) 5월 일](kr/books/kh2_je_a_vsu_22590_000/README.md) | 75% | 177/236 | [59건](kr/books/kh2_je_a_vsu_22590_000/FAILED.md) |
 | [국서존안](kr/books/kh2_je_a_vsu_24867_000/README.md) | 75% | 6/8 | [2건](kr/books/kh2_je_a_vsu_24867_000/FAILED.md) |
 | [관안](kr/books/kh2_je_a_vsu_B9D-1_000/README.md) | 75% | 3/4 | [1건](kr/books/kh2_je_a_vsu_B9D-1_000/FAILED.md) |
-| [동국신속삼강항실찬집청의궤](kr/books/kh2_je_a_vsu_23641_000/README.md) | 75% | 157/210 | [0건](kr/books/kh2_je_a_vsu_23641_000/FAILED.md) |
-| [대왕대비전윤발](kr/books/kh2_je_a_vsu_21828_000/README.md) | 75% | 735/985 | [0건](kr/books/kh2_je_a_vsu_21828_000/FAILED.md) |
-| [대례수의](kr/books/kh2_je_a_vsu_22512_000/README.md) | 74% | 23/31 | [0건](kr/books/kh2_je_a_vsu_22512_000/FAILED.md) |
+| [동국신속삼강항실찬집청의궤](kr/books/kh2_je_a_vsu_23641_000/README.md) | 75% | 157/210 | [53건](kr/books/kh2_je_a_vsu_23641_000/FAILED.md) |
+| [대왕대비전윤발](kr/books/kh2_je_a_vsu_21828_000/README.md) | 75% | 735/985 | [250건](kr/books/kh2_je_a_vsu_21828_000/FAILED.md) |
+| [대례수의](kr/books/kh2_je_a_vsu_22512_000/README.md) | 74% | 23/31 | [8건](kr/books/kh2_je_a_vsu_22512_000/FAILED.md) |
 | [가례청도청의궤](kr/books/kh2_je_a_vsu_22602_000/README.md) | 73% | 91/124 | [33건](kr/books/kh2_je_a_vsu_22602_000/FAILED.md) |
 | [각도등본존안](kr/books/kh2_je_a_vsu_23621_000/README.md) | 73% | 107/146 | [39건](kr/books/kh2_je_a_vsu_23621_000/FAILED.md) |
 | [가순궁상례록](kr/books/kh2_je_a_vsu_22911_000/README.md) | 73% | 71/97 | [26건](kr/books/kh2_je_a_vsu_22911_000/FAILED.md) |
-| [내각지제교등록](kr/books/kh2_je_a_vsu_22534_000/README.md) | 73% | 56/77 | [0건](kr/books/kh2_je_a_vsu_22534_000/FAILED.md) |
 | [가례교시시별궁내숙설소등록](kr/books/kh2_je_a_vsu_22588_000/README.md) | 73% | 8/11 | [3건](kr/books/kh2_je_a_vsu_22588_000/FAILED.md) |
-| [명릉수도소준등록](kr/books/kh2_je_a_vsu_23561_000/README.md) | 73% | 8/11 | [0건](kr/books/kh2_je_a_vsu_23561_000/FAILED.md) |
+| [명릉수도소준등록](kr/books/kh2_je_a_vsu_23561_000/README.md) | 73% | 8/11 | [3건](kr/books/kh2_je_a_vsu_23561_000/FAILED.md) |
 | [기년편고](kr/books/kh2_je_a_vsu_20037_000/README.md) | 72% | 3736/5175 | [1435건](kr/books/kh2_je_a_vsu_20037_000/FAILED.md) |
 | [간택단자](kr/books/kh2_je_a_vsu_22611_000/README.md) | 72% | 23/32 | [9건](kr/books/kh2_je_a_vsu_22611_000/FAILED.md) |
-| [부묘도감도청의궤](kr/books/kh2_je_a_vsu_22238_000/README.md) | 72% | 107/149 | [0건](kr/books/kh2_je_a_vsu_22238_000/FAILED.md) |
-| [명태조조조사적](kr/books/kh2_je_a_vsu_20882_000/README.md) | 72% | 61/85 | [0건](kr/books/kh2_je_a_vsu_20882_000/FAILED.md) |
-| [백천군읍지](kr/books/kh2_je_a_vsu_24239_000/README.md) | 71% | 20/28 | [0건](kr/books/kh2_je_a_vsu_24239_000/FAILED.md) |
+| [부묘도감도청의궤](kr/books/kh2_je_a_vsu_22238_000/README.md) | 72% | 107/149 | [42건](kr/books/kh2_je_a_vsu_22238_000/FAILED.md) |
+| [명태조조조사적](kr/books/kh2_je_a_vsu_20882_000/README.md) | 72% | 61/85 | [24건](kr/books/kh2_je_a_vsu_20882_000/FAILED.md) |
+| [백천군읍지](kr/books/kh2_je_a_vsu_24239_000/README.md) | 71% | 20/28 | [8건](kr/books/kh2_je_a_vsu_24239_000/FAILED.md) |
 | [금위영초등록](kr/books/kh2_je_a_vsu_23300_000/README.md) | 71% | 993/1393 | [400건](kr/books/kh2_je_a_vsu_23300_000/FAILED.md) |
 | [경종대왕국휼등록](kr/books/kh2_je_a_vsu_22916_000/README.md) | 71% | 180/253 | [73건](kr/books/kh2_je_a_vsu_22916_000/FAILED.md) |
-| [독사수필](kr/books/kh2_je_a_vsu_20318_000/README.md) | 71% | 764/1076 | [0건](kr/books/kh2_je_a_vsu_20318_000/FAILED.md) |
+| [독사수필](kr/books/kh2_je_a_vsu_20318_000/README.md) | 71% | 764/1076 | [312건](kr/books/kh2_je_a_vsu_20318_000/FAILED.md) |
 | [김화군읍지](kr/books/kh2_je_a_vsu_24224_000/README.md) | 71% | 24/34 | [10건](kr/books/kh2_je_a_vsu_24224_000/FAILED.md) |
-| [무신창의록](kr/books/kh2_je_a_vsu_B6B-137_000/README.md) | 70% | 249/355 | [0건](kr/books/kh2_je_a_vsu_B6B-137_000/FAILED.md) |
+| [무신창의록](kr/books/kh2_je_a_vsu_B6B-137_000/README.md) | 70% | 249/355 | [105건](kr/books/kh2_je_a_vsu_B6B-137_000/FAILED.md) |

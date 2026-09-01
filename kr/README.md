@@ -3,7 +3,7 @@
 이 디렉터리는 책별 Markdown 열람 구조입니다.
 
 - 공개 책 수: 362건
-- 공개 기사 수: 69839건
+- 공개 기사 수: 69937건
 - 구조: `kr/books/<book_id>/README.md`에서 책을 열고, `part-001.md` 형식의 본문 묶음을 읽습니다.
 
 ## 책 목록
@@ -194,36 +194,36 @@
 | 182 | [나주압해정씨술선록](books/kh2_je_a_vsu_20509_000/README.md) | 10 |
 | 183 | [난록](books/kh2_je_a_vsu_20176_000/README.md) | 687 |
 | 184 | [난보초록](books/kh2_je_a_vsu_20177_000/README.md) | 175 |
-| 185 | [난초](books/kh2_je_a_vsu_20179_000/README.md) | 2449 |
+| 185 | [난초](books/kh2_je_a_vsu_20179_000/README.md) | 2451 |
 | 186 | [남별전제기상탁의장포진등록개수정책](books/kh2_je_a_vsu_22435_000/README.md) | 20 |
-| 187 | [남보](books/kh2_je_a_vsu_21727_000/README.md) | 18 |
-| 188 | [남순행시일기(융희 삼년 일월하)](books/kh2_je_a_vsu_20182_000/README.md) | 21 |
-| 189 | [남원현공사](books/kh2_je_a_vsu_23639_000/README.md) | 45 |
-| 190 | [남전속지](books/kh2_je_a_vsu_22436_000/README.md) | 8 |
-| 191 | [남정일록](books/kh2_je_a_vsu_20184_000/README.md) | 3 |
-| 192 | [남정일록](books/kh2_je_a_vsu_20185_000/README.md) | 3 |
-| 193 | [남한해위록](books/kh2_je_a_vsu_20187_000/README.md) | 38 |
+| 187 | [남보](books/kh2_je_a_vsu_21727_000/README.md) | 20 |
+| 188 | [남순행시일기(융희 삼년 일월하)](books/kh2_je_a_vsu_20182_000/README.md) | 23 |
+| 189 | [남원현공사](books/kh2_je_a_vsu_23639_000/README.md) | 52 |
+| 190 | [남전속지](books/kh2_je_a_vsu_22436_000/README.md) | 9 |
+| 191 | [남정일록](books/kh2_je_a_vsu_20184_000/README.md) | 4 |
+| 192 | [남정일록](books/kh2_je_a_vsu_20185_000/README.md) | 4 |
+| 193 | [남한해위록](books/kh2_je_a_vsu_20187_000/README.md) | 41 |
 | 194 | [낭천군읍지(강원도), 광무이년무술십일월](books/kh2_je_a_vsu_24228_000/README.md) | 24 |
-| 195 | [내각일기](books/kh2_je_a_vsu_20188_000/README.md) | 535 |
-| 196 | [내각지제교등록](books/kh2_je_a_vsu_22534_000/README.md) | 56 |
-| 197 | [녹동도감의궤](books/kh2_je_a_vsu_22857_000/README.md) | 107 |
+| 195 | [내각일기](books/kh2_je_a_vsu_20188_000/README.md) | 572 |
+| 196 | [내각지제교등록](books/kh2_je_a_vsu_22534_000/README.md) | 61 |
+| 197 | [녹동도감의궤](books/kh2_je_a_vsu_22857_000/README.md) | 114 |
 | 198 | [농사농](books/kh2_je_a_vsu_B9O-41_000/README.md) | 396 |
 | 199 | [농상공부고빙외국인안](books/kh2_je_a_vsu_20640_000/README.md) | 1 |
 | 200 | [뉴니냥문녹](books/kh2_je_a_vsu_46792_000/README.md) | 3 |
 | 201 | [능성주씨족보](books/kh2_je_a_vsu_21731_000/README.md) | 7 |
 | 202 | [능주지(전라남도)](books/kh2_je_a_vsu_24230_000/README.md) | 135 |
 | 203 | [능허관만고](books/kh2_je_a_vsu_40430_000/README.md) | 511 |
-| 204 | [단경왕후복위의궤](books/kh2_je_a_vsu_22624_000/README.md) | 13 |
+| 204 | [단경왕후복위의궤](books/kh2_je_a_vsu_22624_000/README.md) | 16 |
 | 205 | [단경왕후부위등록](books/kh2_je_a_vsu_22623_000/README.md) | 8 |
-| 206 | [단란](books/kh2_je_a_vsu_20039_000/README.md) | 198 |
-| 207 | [단의빈상장등록](books/kh2_je_a_vsu_22937_000/README.md) | 85 |
+| 206 | [단란](books/kh2_je_a_vsu_20039_000/README.md) | 204 |
+| 207 | [단의빈상장등록](books/kh2_je_a_vsu_22937_000/README.md) | 97 |
 | 208 | [단종대왕실록부록봉안급포쇄시형지안](books/kh2_je_a_vsu_23695_000/README.md) | 33 |
-| 209 | [단종대왕정순왕후복위부묘의주등록](books/kh2_je_a_vsu_22221_000/README.md) | 4 |
+| 209 | [단종대왕정순왕후복위부묘의주등록](books/kh2_je_a_vsu_22221_000/README.md) | 5 |
 | 210 | [담술](books/kh2_je_a_vsu_20515_000/README.md) | 250 |
 | 211 | [담여헌시집](books/kh2_je_a_vsu_40431_000/README.md) | 593 |
 | 212 | [당하무신관안](books/kh2_je_a_vsu_20517_000/README.md) | 1 |
-| 213 | [대동유사](books/kh2_je_a_vsu_20191_000/README.md) | 86 |
-| 214 | [대동휘찬](books/kh2_je_a_vsu_20192_000/README.md) | 35 |
+| 213 | [대동유사](books/kh2_je_a_vsu_20191_000/README.md) | 91 |
+| 214 | [대동휘찬](books/kh2_je_a_vsu_20192_000/README.md) | 38 |
 | 215 | [대례수의](books/kh2_je_a_vsu_22512_000/README.md) | 23 |
 | 216 | [대례의궤](books/kh2_je_a_vsu_22626_000/README.md) | 6 |
 | 217 | [대명영렬전](books/kh2_je_a_vsu_46798_000/README.md) | 5 |
