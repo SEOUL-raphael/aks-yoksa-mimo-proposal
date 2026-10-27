@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22611_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22611_000
 
-G002+AKS-AA55_22611_000
 【정의】
 【서지사항】
 1帖 17折 짜리로 필사자는 예조이고, 필사연대는 1881년이다.

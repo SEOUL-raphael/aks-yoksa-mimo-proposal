@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20039_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20039_000
 
-G002+AKS-AA55_20039_000
 【정의】
 肅宗의 서거 후 服制를 비롯한 왕위계승에 관련된 여러 정치적 사건들을 기록한 문건.
 【서지사항】

@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22162_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22162_000
 
-G002+AKS-AA55_22162_000
 【정의】
 【서지사항】
 1책 32장 짜리로 편찬시기와 편찬자는 알 수 없다.

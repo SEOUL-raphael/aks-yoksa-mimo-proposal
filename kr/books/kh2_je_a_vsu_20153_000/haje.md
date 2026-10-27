@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20153_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20153_000
 
-G002+AKS-AA55_20153_000
 【정의】
 【서지사항】
 이 책은 영조의 명에 의해 6권 4책 짜리 금속활자본으로 편찬되었고, 편찬자는 송인명과 박시수 등이다.

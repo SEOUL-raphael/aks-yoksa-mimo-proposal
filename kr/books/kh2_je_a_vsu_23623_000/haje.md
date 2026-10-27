@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_23623_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23623_000
 
-G002+AKS-AA55_23623_000
 【정의】
 1846년(憲宗12)부터 1880년(高宗17)까지 江華府에서 승정원으로 올린 啓錄.
 【서지사항】

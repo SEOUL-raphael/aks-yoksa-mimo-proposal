@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_23687_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23687_000
 
-G002+AKS-AA55_23687_000
 【정의】
 【서지사항】
 國朝寶鑑纂輯廳 編, 寫本, 1848年(憲宗14) 寫.

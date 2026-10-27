@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_24230_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24230_000
 
-G002+AKS-AA55_24230_000
 【정의】
 全羅南道 綾州郡, 務安郡, 雲峯郡, 鎭安郡의 邑誌.
 【서지사항】

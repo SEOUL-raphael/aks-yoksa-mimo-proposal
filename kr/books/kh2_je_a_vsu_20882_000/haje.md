@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20882_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20882_000
 
-G002+AKS-AA55_20882_000
 【정의】
 明나라 太祖 朱元璋이 건국하기까지의 초기 행적을 기록한 전기.
 【서지사항】

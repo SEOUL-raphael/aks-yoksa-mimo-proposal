@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22244_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22244_000
 
-G002+AKS-AA55_22244_000
 【정의】
 【서지사항】
 儀軌廳 編, 寫本, 1851年(哲宗2) 寫.

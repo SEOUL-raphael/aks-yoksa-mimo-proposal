@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20209_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20209_000
 
-G002+AKS-AA55_20209_000
 【정의】
 【서지사항】
 불분권 1책. 필사본. 찬자는 남정철. 편찬시기는 1884년 이후.

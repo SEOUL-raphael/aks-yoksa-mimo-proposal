@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_25081_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_25081_000
 
-G002+AKS-AA55_25081_000
 【정의】
 【서지사항】
 이 정비식의 작성자와 작성연대는 알 수 없다.

@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_23715_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23715_000
 
-G002+AKS-AA55_23715_000
 【정의】
 무주 적상산 사고의 왕조실록을 1880년에 春秋館에서 포쇄 점검한 보고서임.
 【서지사항】

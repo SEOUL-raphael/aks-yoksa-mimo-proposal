@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_24222_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24222_000
 
-G002+AKS-AA55_24222_000
 【정의】
 全羅道 錦山郡과 高山郡의 邑誌를 합철한 책.
 【서지사항】

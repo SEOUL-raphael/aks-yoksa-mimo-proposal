@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20195_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20195_000
 
-G002+AKS-AA55_20195_000
 【정의】
 【서지사항】
 불분권 1책, 필사본. 두주와 세주가 있다. 서문이나 발문이 없어 편찬자나 편찬시기는 알 수 없다.

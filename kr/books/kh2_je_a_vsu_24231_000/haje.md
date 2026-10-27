@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_24231_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_24231_000
 
-G002+AKS-AA55_24231_000
 【정의】
 1896년(高宗33) 직후에 제작된 忠淸南道 德山縣의 邑誌.
 【서지사항】

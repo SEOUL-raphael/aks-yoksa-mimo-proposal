@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_21736_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21736_000
 
-G002+AKS-AA55_21736_000
 [정의]
 조선시대 종친과 문무신하들에게 내린 시호를 정리 수록한 책.
 [서지사항]

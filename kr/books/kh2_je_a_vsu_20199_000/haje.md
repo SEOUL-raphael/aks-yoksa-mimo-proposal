@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20199_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20199_000
 
-G002+AKS-AA55_20199_000
 【정의】
 朝鮮의 定都에 관한 일화를 시작으로 조선조의 여러 인물과 사건에 대한 이야기를 수록한 野史集.
 【서지사항】

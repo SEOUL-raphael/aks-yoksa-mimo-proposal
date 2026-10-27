@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22242_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22242_000
 
-G002+AKS-AA55_22242_000
 [정의]
 1739年(英祖13) 中宗妃 端敬王后의 復位 및 祔廟에 관한 기록한 의궤이다.
 [체재 및 내용]

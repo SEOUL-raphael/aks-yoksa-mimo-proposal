@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20894_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20894_000
 
-G002+AKS-AA55_20894_000
 【정의】
 1905년 일본의 러일전쟁의 승리를 축하하기 위해 일본에 파견된 特派大使 李載覺의 使宦日記.
 【서지사항】

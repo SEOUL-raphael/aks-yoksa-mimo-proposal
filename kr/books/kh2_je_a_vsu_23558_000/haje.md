@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_23558_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23558_000
 
-G002+AKS-AA55_23558_000
 [정의]
 1900年(光武4)에 景福宮 璿源殿과 昌德宮 璿源殿에 각각 1室을 增建한 사실을 기록한 의궤이다.
 [서지사항]

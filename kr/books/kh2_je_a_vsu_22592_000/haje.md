@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22592_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22592_000
 
-G002+AKS-AA55_22592_000
 [정의]
 1627年(仁祖5, 天啓7, 丁卯) 昭顯世子와 世子嬪 姜氏의 嘉禮 행사를 기록한 의궤이다.
 [체재 및 내용]

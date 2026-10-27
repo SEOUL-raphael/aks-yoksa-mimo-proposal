@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_20530_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_20530_000
 
-G002+AKS-AA55_20530_000
 [정의]
 武功으로 資級을 올리는 일과 大將을 임명한 일에 대한 기록.
 [체재 및 내용]

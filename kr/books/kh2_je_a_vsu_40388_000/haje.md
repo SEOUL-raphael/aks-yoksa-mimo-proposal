@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_40388_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40388_000
 
-G002+AKS-AA55_40388_000
 【정의】
 숙종대의 문신 金錫胄가 중국의 古文을 뽑아 편찬한 『古文百選』을 언해한 책.
 【서지사항】

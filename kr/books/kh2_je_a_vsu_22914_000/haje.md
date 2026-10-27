@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22914_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22914_000
 
-G002+AKS-AA55_22914_000
 【정의】
 이 日記는 朝鮮 24대 왕 憲宗의 繼妃인 明憲太后 洪氏의 國葬日記.
 【서지사항】

@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_40431_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_40431_000
 
-G002+AKS-AA55_40431_000
 【정의】
 순조의 세자였던 익종의 문집
 【서지사항】

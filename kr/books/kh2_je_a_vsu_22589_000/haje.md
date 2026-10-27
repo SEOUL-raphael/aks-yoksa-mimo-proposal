@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_22589_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_22589_000
 
-G002+AKS-AA55_22589_000
 [정의]
 顯宗의 王世子(후의 肅宗)와 金萬基의 딸(뒤의 仁敬王后)의 가례 행사 顚末을 기록한 의궤이다.
 [체재 및 내용]

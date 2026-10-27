@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_23308_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_23308_000
 
-G002+AKS-AA55_23308_000
 【정의】
 1711(肅宗 37)에서 1716(肅宗 42)에 걸쳐 도총부에서 도총부의 일을 적은 일기.
 【서지사항】

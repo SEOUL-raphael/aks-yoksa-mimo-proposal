@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_55019_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_55019_000
 
-G002+AKS-AA55_55019_000
 [1]
 甁窩先生文集
 崔淳姬

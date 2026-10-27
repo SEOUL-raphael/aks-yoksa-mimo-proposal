@@ -3,7 +3,6 @@
 - 책 ID: `kh2_je_a_vsu_21731_000`
 - 원자료 출처: http://yoksa.aks.ac.kr/jsp/aa/InfoView.jsp?aa10no=kh2_je_a_vsu_21731_000
 
-G002+AKS-AA55_21731_000
 【정의】
 綾城朱氏의 시조를 비롯한 여러 인물들의 사적을 수집하여 정리한 책.
 【서지사항】
